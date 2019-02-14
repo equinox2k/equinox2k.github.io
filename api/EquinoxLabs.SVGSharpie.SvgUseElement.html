@@ -1,0 +1,727 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Class SvgUseElement
+   </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Class SvgUseElement
+   ">
+    <meta name="generator" content="docfx 2.40.7.0">
+    
+    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../styles/docfx.css">
+    <link rel="stylesheet" href="../styles/main.css">
+    <meta property="docfx:navrel" content="">
+    <meta property="docfx:tocrel" content="toc.html">
+    
+    
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../index.html">
+                <img id="logo" class="svg" src="../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="EquinoxLabs.SVGSharpie.SvgUseElement">
+  
+  
+  <h1 id="EquinoxLabs_SVGSharpie_SvgUseElement" data-uid="EquinoxLabs.SVGSharpie.SvgUseElement" class="text-break">Class SvgUseElement
+  </h1>
+  <div class="markdown level0 summary"><p>The ‘use’ element references another element and indicates that the graphical contents of that element 
+is included/drawn at that given point in the document.
+The ‘use’ element has optional attributes ‘x’, ‘y’, ‘width’ and ‘height’ which are used to map the graphical 
+contents of the referenced element onto a rectangular region within the current coordinate system.</p>
+</div>
+  <div class="markdown level0 conceptual"></div>
+  <div class="inheritance">
+    <h5>Inheritance</h5>
+    <div class="level0"><span class="xref">System.Object</span></div>
+    <div class="level1"><a class="xref" href="EquinoxLabs.SVGSharpie.SvgElement.html">SvgElement</a></div>
+    <div class="level2"><a class="xref" href="EquinoxLabs.SVGSharpie.SvgGraphicsElement.html">SvgGraphicsElement</a></div>
+    <div class="level3"><span class="xref">SvgUseElement</span></div>
+  </div>
+  <div class="inheritedMembers">
+    <h5>Inherited Members</h5>
+    <div>
+      <a class="xref" href="EquinoxLabs.SVGSharpie.SvgGraphicsElement.html#EquinoxLabs_SVGSharpie_SvgGraphicsElement_PresentationStyleData">SvgGraphicsElement.PresentationStyleData</a>
+    </div>
+    <div>
+      <a class="xref" href="EquinoxLabs.SVGSharpie.SvgGraphicsElement.html#EquinoxLabs_SVGSharpie_SvgGraphicsElement_Style">SvgGraphicsElement.Style</a>
+    </div>
+    <div>
+      <a class="xref" href="EquinoxLabs.SVGSharpie.SvgGraphicsElement.html#EquinoxLabs_SVGSharpie_SvgGraphicsElement_Transform">SvgGraphicsElement.Transform</a>
+    </div>
+    <div>
+      <a class="xref" href="EquinoxLabs.SVGSharpie.SvgGraphicsElement.html#EquinoxLabs_SVGSharpie_SvgGraphicsElement_TransformAsString">SvgGraphicsElement.TransformAsString</a>
+    </div>
+    <div>
+      <a class="xref" href="EquinoxLabs.SVGSharpie.SvgGraphicsElement.html#EquinoxLabs_SVGSharpie_SvgGraphicsElement_CreateFillPaintServer">SvgGraphicsElement.CreateFillPaintServer()</a>
+    </div>
+    <div>
+      <a class="xref" href="EquinoxLabs.SVGSharpie.SvgGraphicsElement.html#EquinoxLabs_SVGSharpie_SvgGraphicsElement_CreateStrokePaintServer">SvgGraphicsElement.CreateStrokePaintServer()</a>
+    </div>
+    <div>
+      <a class="xref" href="EquinoxLabs.SVGSharpie.SvgGraphicsElement.html#EquinoxLabs_SVGSharpie_SvgGraphicsElement_StrokeWidth">SvgGraphicsElement.StrokeWidth</a>
+    </div>
+    <div>
+      <a class="xref" href="EquinoxLabs.SVGSharpie.SvgGraphicsElement.html#EquinoxLabs_SVGSharpie_SvgGraphicsElement_PopulateClone_EquinoxLabs_SVGSharpie_SvgElement_">SvgGraphicsElement.PopulateClone(SvgElement)</a>
+    </div>
+    <div>
+      <a class="xref" href="EquinoxLabs.SVGSharpie.SvgGraphicsElement.html#EquinoxLabs_SVGSharpie_SvgGraphicsElement_OnAnyAttribute_System_String_System_String_">SvgGraphicsElement.OnAnyAttribute(String, String)</a>
+    </div>
+    <div>
+      <a class="xref" href="EquinoxLabs.SVGSharpie.SvgElement.html#EquinoxLabs_SVGSharpie_SvgElement_Parent">SvgElement.Parent</a>
+    </div>
+    <div>
+      <a class="xref" href="EquinoxLabs.SVGSharpie.SvgElement.html#EquinoxLabs_SVGSharpie_SvgElement_Id">SvgElement.Id</a>
+    </div>
+    <div>
+      <a class="xref" href="EquinoxLabs.SVGSharpie.SvgElement.html#EquinoxLabs_SVGSharpie_SvgElement_IsGenerated">SvgElement.IsGenerated</a>
+    </div>
+    <div>
+      <a class="xref" href="EquinoxLabs.SVGSharpie.SvgElement.html#EquinoxLabs_SVGSharpie_SvgElement_StyleAsString">SvgElement.StyleAsString</a>
+    </div>
+    <div>
+      <a class="xref" href="EquinoxLabs.SVGSharpie.SvgElement.html#EquinoxLabs_SVGSharpie_SvgElement_ClassNames">SvgElement.ClassNames</a>
+    </div>
+    <div>
+      <a class="xref" href="EquinoxLabs.SVGSharpie.SvgElement.html#EquinoxLabs_SVGSharpie_SvgElement_ClassNamesAsString">SvgElement.ClassNamesAsString</a>
+    </div>
+    <div>
+      <a class="xref" href="EquinoxLabs.SVGSharpie.SvgElement.html#EquinoxLabs_SVGSharpie_SvgElement_XAttributes">SvgElement.XAttributes</a>
+    </div>
+    <div>
+      <a class="xref" href="EquinoxLabs.SVGSharpie.SvgElement.html#EquinoxLabs_SVGSharpie_SvgElement_OnAttachedToParent">SvgElement.OnAttachedToParent()</a>
+    </div>
+    <div>
+      <a class="xref" href="EquinoxLabs.SVGSharpie.SvgElement.html#EquinoxLabs_SVGSharpie_SvgElement_OnDetachedFromParent">SvgElement.OnDetachedFromParent()</a>
+    </div>
+    <div>
+      <a class="xref" href="EquinoxLabs.SVGSharpie.SvgElement.html#EquinoxLabs_SVGSharpie_SvgElement_EmptyElements">SvgElement.EmptyElements</a>
+    </div>
+    <div>
+      <span class="xref">System.Object.Equals(System.Object)</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.Equals(System.Object, System.Object)</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.GetHashCode()</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.GetType()</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.MemberwiseClone()</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.ReferenceEquals(System.Object, System.Object)</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.ToString()</span>
+    </div>
+  </div>
+  <h6><strong>Namespace</strong>: <a class="xref" href="EquinoxLabs.SVGSharpie.html">EquinoxLabs.SVGSharpie</a></h6>
+  <h6><strong>Assembly</strong>: EquinoxLabs.SVGSharpie.dll</h6>
+  <h5 id="EquinoxLabs_SVGSharpie_SvgUseElement_syntax">Syntax</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public sealed class SvgUseElement : SvgGraphicsElement</code></pre>
+  </div>
+  <h3 id="properties">Properties
+  </h3>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/equinox2k/SVGSharpie/new/master/apiSpec/new?filename=EquinoxLabs_SVGSharpie_SvgUseElement_GeneratedElement.md&amp;value=---%0Auid%3A%20EquinoxLabs.SVGSharpie.SvgUseElement.GeneratedElement%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/equinox2k/SVGSharpie/blob/master/src/EquinoxLabs.SVGSharpie/SvgUseElement.cs/#L95">View Source</a>
+  </span>
+  <a id="EquinoxLabs_SVGSharpie_SvgUseElement_GeneratedElement_" data-uid="EquinoxLabs.SVGSharpie.SvgUseElement.GeneratedElement*"></a>
+  <h4 id="EquinoxLabs_SVGSharpie_SvgUseElement_GeneratedElement" data-uid="EquinoxLabs.SVGSharpie.SvgUseElement.GeneratedElement">GeneratedElement</h4>
+  <div class="markdown level1 summary"><p>Gets the element generated by the current use element</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public SvgElement GeneratedElement { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EquinoxLabs.SVGSharpie.SvgElement.html">SvgElement</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/equinox2k/SVGSharpie/new/master/apiSpec/new?filename=EquinoxLabs_SVGSharpie_SvgUseElement_Height.md&amp;value=---%0Auid%3A%20EquinoxLabs.SVGSharpie.SvgUseElement.Height%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/equinox2k/SVGSharpie/blob/master/src/EquinoxLabs.SVGSharpie/SvgUseElement.cs/#L42">View Source</a>
+  </span>
+  <a id="EquinoxLabs_SVGSharpie_SvgUseElement_Height_" data-uid="EquinoxLabs.SVGSharpie.SvgUseElement.Height*"></a>
+  <h4 id="EquinoxLabs_SVGSharpie_SvgUseElement_Height" data-uid="EquinoxLabs.SVGSharpie.SvgUseElement.Height">Height</h4>
+  <div class="markdown level1 summary"><p>Gets or sets height of the rectangular region into which the referenced element is placed.
+A value of zero disables rendering of this element.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public SvgLength? Height { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<a class="xref" href="EquinoxLabs.SVGSharpie.SvgLength.html">SvgLength</a>&gt;</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/equinox2k/SVGSharpie/new/master/apiSpec/new?filename=EquinoxLabs_SVGSharpie_SvgUseElement_HeightAsString.md&amp;value=---%0Auid%3A%20EquinoxLabs.SVGSharpie.SvgUseElement.HeightAsString%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/equinox2k/SVGSharpie/blob/master/src/EquinoxLabs.SVGSharpie/SvgUseElement.cs/#L85">View Source</a>
+  </span>
+  <a id="EquinoxLabs_SVGSharpie_SvgUseElement_HeightAsString_" data-uid="EquinoxLabs.SVGSharpie.SvgUseElement.HeightAsString*"></a>
+  <h4 id="EquinoxLabs_SVGSharpie_SvgUseElement_HeightAsString" data-uid="EquinoxLabs.SVGSharpie.SvgUseElement.HeightAsString">HeightAsString</h4>
+  <div class="markdown level1 summary"><p>Gets or sets the ‘height’ attribute on the given ‘use’ element.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string HeightAsString { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/equinox2k/SVGSharpie/new/master/apiSpec/new?filename=EquinoxLabs_SVGSharpie_SvgUseElement_Href.md&amp;value=---%0Auid%3A%20EquinoxLabs.SVGSharpie.SvgUseElement.Href%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/equinox2k/SVGSharpie/blob/master/src/EquinoxLabs.SVGSharpie/SvgUseElement.cs/#L101">View Source</a>
+  </span>
+  <a id="EquinoxLabs_SVGSharpie_SvgUseElement_Href_" data-uid="EquinoxLabs.SVGSharpie.SvgUseElement.Href*"></a>
+  <h4 id="EquinoxLabs_SVGSharpie_SvgUseElement_Href" data-uid="EquinoxLabs.SVGSharpie.SvgUseElement.Href">Href</h4>
+  <div class="markdown level1 summary"><p>Gets or sets the A IRI reference to an element/fragment within the current SVG document</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string Href { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/equinox2k/SVGSharpie/new/master/apiSpec/new?filename=EquinoxLabs_SVGSharpie_SvgUseElement_IsRenderingDisabled.md&amp;value=---%0Auid%3A%20EquinoxLabs.SVGSharpie.SvgUseElement.IsRenderingDisabled%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/equinox2k/SVGSharpie/blob/master/src/EquinoxLabs.SVGSharpie/SvgUseElement.cs/#L48">View Source</a>
+  </span>
+  <a id="EquinoxLabs_SVGSharpie_SvgUseElement_IsRenderingDisabled_" data-uid="EquinoxLabs.SVGSharpie.SvgUseElement.IsRenderingDisabled*"></a>
+  <h4 id="EquinoxLabs_SVGSharpie_SvgUseElement_IsRenderingDisabled" data-uid="EquinoxLabs.SVGSharpie.SvgUseElement.IsRenderingDisabled">IsRenderingDisabled</h4>
+  <div class="markdown level1 summary"><p>Gets a value indicating whether the rendering of the element is disabled, a width or height specified as 0.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public bool IsRenderingDisabled { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Boolean</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/equinox2k/SVGSharpie/new/master/apiSpec/new?filename=EquinoxLabs_SVGSharpie_SvgUseElement_Width.md&amp;value=---%0Auid%3A%20EquinoxLabs.SVGSharpie.SvgUseElement.Width%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/equinox2k/SVGSharpie/blob/master/src/EquinoxLabs.SVGSharpie/SvgUseElement.cs/#L35">View Source</a>
+  </span>
+  <a id="EquinoxLabs_SVGSharpie_SvgUseElement_Width_" data-uid="EquinoxLabs.SVGSharpie.SvgUseElement.Width*"></a>
+  <h4 id="EquinoxLabs_SVGSharpie_SvgUseElement_Width" data-uid="EquinoxLabs.SVGSharpie.SvgUseElement.Width">Width</h4>
+  <div class="markdown level1 summary"><p>Gets or sets the width of the rectangular region into which the referenced element is placed.
+A value of zero disables rendering of this element.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public SvgLength? Width { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<a class="xref" href="EquinoxLabs.SVGSharpie.SvgLength.html">SvgLength</a>&gt;</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/equinox2k/SVGSharpie/new/master/apiSpec/new?filename=EquinoxLabs_SVGSharpie_SvgUseElement_WidthAsString.md&amp;value=---%0Auid%3A%20EquinoxLabs.SVGSharpie.SvgUseElement.WidthAsString%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/equinox2k/SVGSharpie/blob/master/src/EquinoxLabs.SVGSharpie/SvgUseElement.cs/#L75">View Source</a>
+  </span>
+  <a id="EquinoxLabs_SVGSharpie_SvgUseElement_WidthAsString_" data-uid="EquinoxLabs.SVGSharpie.SvgUseElement.WidthAsString*"></a>
+  <h4 id="EquinoxLabs_SVGSharpie_SvgUseElement_WidthAsString" data-uid="EquinoxLabs.SVGSharpie.SvgUseElement.WidthAsString">WidthAsString</h4>
+  <div class="markdown level1 summary"><p>Gets or sets the ‘width’ attribute on the given ‘use’ element.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string WidthAsString { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/equinox2k/SVGSharpie/new/master/apiSpec/new?filename=EquinoxLabs_SVGSharpie_SvgUseElement_X.md&amp;value=---%0Auid%3A%20EquinoxLabs.SVGSharpie.SvgUseElement.X%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/equinox2k/SVGSharpie/blob/master/src/EquinoxLabs.SVGSharpie/SvgUseElement.cs/#L21">View Source</a>
+  </span>
+  <a id="EquinoxLabs_SVGSharpie_SvgUseElement_X_" data-uid="EquinoxLabs.SVGSharpie.SvgUseElement.X*"></a>
+  <h4 id="EquinoxLabs_SVGSharpie_SvgUseElement_X" data-uid="EquinoxLabs.SVGSharpie.SvgUseElement.X">X</h4>
+  <div class="markdown level1 summary"><p>Gets or sets x-axis coordinate of one corner of the rectangular region into which the referenced element is placed.<br>If the attribute is not specified, the effect is as if a value of &quot;0&quot; were specified.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public SvgLength? X { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<a class="xref" href="EquinoxLabs.SVGSharpie.SvgLength.html">SvgLength</a>&gt;</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/equinox2k/SVGSharpie/new/master/apiSpec/new?filename=EquinoxLabs_SVGSharpie_SvgUseElement_XAsString.md&amp;value=---%0Auid%3A%20EquinoxLabs.SVGSharpie.SvgUseElement.XAsString%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/equinox2k/SVGSharpie/blob/master/src/EquinoxLabs.SVGSharpie/SvgUseElement.cs/#L55">View Source</a>
+  </span>
+  <a id="EquinoxLabs_SVGSharpie_SvgUseElement_XAsString_" data-uid="EquinoxLabs.SVGSharpie.SvgUseElement.XAsString*"></a>
+  <h4 id="EquinoxLabs_SVGSharpie_SvgUseElement_XAsString" data-uid="EquinoxLabs.SVGSharpie.SvgUseElement.XAsString">XAsString</h4>
+  <div class="markdown level1 summary"><p>Gets or sets the ‘x’ attribute on the given ‘use’ element.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string XAsString { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/equinox2k/SVGSharpie/new/master/apiSpec/new?filename=EquinoxLabs_SVGSharpie_SvgUseElement_Y.md&amp;value=---%0Auid%3A%20EquinoxLabs.SVGSharpie.SvgUseElement.Y%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/equinox2k/SVGSharpie/blob/master/src/EquinoxLabs.SVGSharpie/SvgUseElement.cs/#L28">View Source</a>
+  </span>
+  <a id="EquinoxLabs_SVGSharpie_SvgUseElement_Y_" data-uid="EquinoxLabs.SVGSharpie.SvgUseElement.Y*"></a>
+  <h4 id="EquinoxLabs_SVGSharpie_SvgUseElement_Y" data-uid="EquinoxLabs.SVGSharpie.SvgUseElement.Y">Y</h4>
+  <div class="markdown level1 summary"><p>Gets or sets The y-axis coordinate of one corner of the rectangular region into which the referenced element is placed.
+If the attribute is not specified, the effect is as if a value of &quot;0&quot; were specified.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public SvgLength? Y { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<a class="xref" href="EquinoxLabs.SVGSharpie.SvgLength.html">SvgLength</a>&gt;</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/equinox2k/SVGSharpie/new/master/apiSpec/new?filename=EquinoxLabs_SVGSharpie_SvgUseElement_YAsString.md&amp;value=---%0Auid%3A%20EquinoxLabs.SVGSharpie.SvgUseElement.YAsString%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/equinox2k/SVGSharpie/blob/master/src/EquinoxLabs.SVGSharpie/SvgUseElement.cs/#L65">View Source</a>
+  </span>
+  <a id="EquinoxLabs_SVGSharpie_SvgUseElement_YAsString_" data-uid="EquinoxLabs.SVGSharpie.SvgUseElement.YAsString*"></a>
+  <h4 id="EquinoxLabs_SVGSharpie_SvgUseElement_YAsString" data-uid="EquinoxLabs.SVGSharpie.SvgUseElement.YAsString">YAsString</h4>
+  <div class="markdown level1 summary"><p>Gets or sets the ‘y’ attribute on the given ‘use’ element.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string YAsString { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="methods">Methods
+  </h3>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/equinox2k/SVGSharpie/new/master/apiSpec/new?filename=EquinoxLabs_SVGSharpie_SvgUseElement_Accept_EquinoxLabs_SVGSharpie_SvgElementVisitor_.md&amp;value=---%0Auid%3A%20EquinoxLabs.SVGSharpie.SvgUseElement.Accept(EquinoxLabs.SVGSharpie.SvgElementVisitor)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/equinox2k/SVGSharpie/blob/master/src/EquinoxLabs.SVGSharpie/SvgUseElement.cs/#L116">View Source</a>
+  </span>
+  <a id="EquinoxLabs_SVGSharpie_SvgUseElement_Accept_" data-uid="EquinoxLabs.SVGSharpie.SvgUseElement.Accept*"></a>
+  <h4 id="EquinoxLabs_SVGSharpie_SvgUseElement_Accept_EquinoxLabs_SVGSharpie_SvgElementVisitor_" data-uid="EquinoxLabs.SVGSharpie.SvgUseElement.Accept(EquinoxLabs.SVGSharpie.SvgElementVisitor)">Accept(SvgElementVisitor)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public override void Accept(SvgElementVisitor visitor)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EquinoxLabs.SVGSharpie.SvgElementVisitor.html">SvgElementVisitor</a></td>
+        <td><span class="parametername">visitor</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="overrides">Overrides</h5>
+  <div><a class="xref" href="EquinoxLabs.SVGSharpie.SvgElement.html#EquinoxLabs_SVGSharpie_SvgElement_Accept_EquinoxLabs_SVGSharpie_SvgElementVisitor_">SvgElement.Accept(SvgElementVisitor)</a></div>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/equinox2k/SVGSharpie/new/master/apiSpec/new?filename=EquinoxLabs_SVGSharpie_SvgUseElement_Accept__1_EquinoxLabs_SVGSharpie_SvgElementVisitor___0__.md&amp;value=---%0Auid%3A%20EquinoxLabs.SVGSharpie.SvgUseElement.Accept%60%601(EquinoxLabs.SVGSharpie.SvgElementVisitor%7B%60%600%7D)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/equinox2k/SVGSharpie/blob/master/src/EquinoxLabs.SVGSharpie/SvgUseElement.cs/#L119">View Source</a>
+  </span>
+  <a id="EquinoxLabs_SVGSharpie_SvgUseElement_Accept_" data-uid="EquinoxLabs.SVGSharpie.SvgUseElement.Accept*"></a>
+  <h4 id="EquinoxLabs_SVGSharpie_SvgUseElement_Accept__1_EquinoxLabs_SVGSharpie_SvgElementVisitor___0__" data-uid="EquinoxLabs.SVGSharpie.SvgUseElement.Accept``1(EquinoxLabs.SVGSharpie.SvgElementVisitor{``0})">Accept&lt;TResult&gt;(SvgElementVisitor&lt;TResult&gt;)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public override TResult Accept&lt;TResult&gt;(SvgElementVisitor&lt;TResult&gt; visitor)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EquinoxLabs.SVGSharpie.SvgElementVisitor-1.html">SvgElementVisitor</a>&lt;TResult&gt;</td>
+        <td><span class="parametername">visitor</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">TResult</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="typeParameters">Type Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="parametername">TResult</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="overrides">Overrides</h5>
+  <div><span class="xref">EquinoxLabs.SVGSharpie.SvgElement.Accept&lt;TResult&gt;(EquinoxLabs.SVGSharpie.SvgElementVisitor&lt;TResult&gt;)</span></div>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/equinox2k/SVGSharpie/new/master/apiSpec/new?filename=EquinoxLabs_SVGSharpie_SvgUseElement_CreateClone.md&amp;value=---%0Auid%3A%20EquinoxLabs.SVGSharpie.SvgUseElement.CreateClone%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/equinox2k/SVGSharpie/blob/master/src/EquinoxLabs.SVGSharpie/SvgUseElement.cs/#L130">View Source</a>
+  </span>
+  <a id="EquinoxLabs_SVGSharpie_SvgUseElement_CreateClone_" data-uid="EquinoxLabs.SVGSharpie.SvgUseElement.CreateClone*"></a>
+  <h4 id="EquinoxLabs_SVGSharpie_SvgUseElement_CreateClone" data-uid="EquinoxLabs.SVGSharpie.SvgUseElement.CreateClone">CreateClone()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">protected override SvgElement CreateClone()</code></pre>
+  </div>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EquinoxLabs.SVGSharpie.SvgElement.html">SvgElement</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="overrides">Overrides</h5>
+  <div><a class="xref" href="EquinoxLabs.SVGSharpie.SvgElement.html#EquinoxLabs_SVGSharpie_SvgElement_CreateClone">SvgElement.CreateClone()</a></div>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/equinox2k/SVGSharpie/new/master/apiSpec/new?filename=EquinoxLabs_SVGSharpie_SvgUseElement_GetBBox.md&amp;value=---%0Auid%3A%20EquinoxLabs.SVGSharpie.SvgUseElement.GetBBox%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/equinox2k/SVGSharpie/blob/master/src/EquinoxLabs.SVGSharpie/SvgUseElement.cs/#L105">View Source</a>
+  </span>
+  <a id="EquinoxLabs_SVGSharpie_SvgUseElement_GetBBox_" data-uid="EquinoxLabs.SVGSharpie.SvgUseElement.GetBBox*"></a>
+  <h4 id="EquinoxLabs_SVGSharpie_SvgUseElement_GetBBox" data-uid="EquinoxLabs.SVGSharpie.SvgUseElement.GetBBox">GetBBox()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public override SvgRect? GetBBox()</code></pre>
+  </div>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<a class="xref" href="EquinoxLabs.SVGSharpie.SvgRect.html">SvgRect</a>&gt;</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="overrides">Overrides</h5>
+  <div><a class="xref" href="EquinoxLabs.SVGSharpie.SvgElement.html#EquinoxLabs_SVGSharpie_SvgElement_GetBBox">SvgElement.GetBBox()</a></div>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                  <li>
+                    <a href="https://github.com/equinox2k/SVGSharpie/new/master/apiSpec/new?filename=EquinoxLabs_SVGSharpie_SvgUseElement.md&amp;value=---%0Auid%3A%20EquinoxLabs.SVGSharpie.SvgUseElement%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A" class="contribution-link">Improve this Doc</a>
+                  </li>
+                  <li>
+                    <a href="https://github.com/equinox2k/SVGSharpie/blob/master/src/EquinoxLabs.SVGSharpie/SvgUseElement.cs/#L14" class="contribution-link">View Source</a>
+                  </li>
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+              <!-- <p><a class="back-to-top" href="#top">Back to top</a><p> -->
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../styles/docfx.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
+  </body>
+</html>
