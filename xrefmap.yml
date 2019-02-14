@@ -2076,11 +2076,11 @@ references:
   commentId: T:EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt
   fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt
   nameWithType: ArcLineSegemnt
-- uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.#ctor(PointF,PointF,SizeF,System.Single,System.Boolean,System.Boolean)
+- uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.#ctor(SixLabors.Primitives.PointF,SixLabors.Primitives.PointF,SixLabors.Primitives.SizeF,System.Single,System.Boolean,System.Boolean)
   name: ArcLineSegemnt(PointF, PointF, SizeF, Single, Boolean, Boolean)
-  href: api/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_ArcLineSegemnt__ctor_PointF_PointF_SizeF_System_Single_System_Boolean_System_Boolean_
-  commentId: M:EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.#ctor(PointF,PointF,SizeF,System.Single,System.Boolean,System.Boolean)
-  fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.ArcLineSegemnt(PointF, PointF, SizeF, System.Single, System.Boolean, System.Boolean)
+  href: api/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_ArcLineSegemnt__ctor_SixLabors_Primitives_PointF_SixLabors_Primitives_PointF_SixLabors_Primitives_SizeF_System_Single_System_Boolean_System_Boolean_
+  commentId: M:EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.#ctor(SixLabors.Primitives.PointF,SixLabors.Primitives.PointF,SixLabors.Primitives.SizeF,System.Single,System.Boolean,System.Boolean)
+  fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.ArcLineSegemnt(SixLabors.Primitives.PointF, SixLabors.Primitives.PointF, SixLabors.Primitives.SizeF, System.Single, System.Boolean, System.Boolean)
   nameWithType: ArcLineSegemnt.ArcLineSegemnt(PointF, PointF, SizeF, Single, Boolean, Boolean)
 - uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.#ctor*
   name: ArcLineSegemnt
@@ -2115,11 +2115,11 @@ references:
   isSpec: "True"
   fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.Flatten
   nameWithType: ArcLineSegemnt.Flatten
-- uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.Transform(Matrix3x2)
+- uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.Transform(System.Numerics.Matrix3x2)
   name: Transform(Matrix3x2)
-  href: api/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_ArcLineSegemnt_Transform_Matrix3x2_
-  commentId: M:EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.Transform(Matrix3x2)
-  fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.Transform(Matrix3x2)
+  href: api/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_ArcLineSegemnt_Transform_System_Numerics_Matrix3x2_
+  commentId: M:EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.Transform(System.Numerics.Matrix3x2)
+  fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.Transform(System.Numerics.Matrix3x2)
   nameWithType: ArcLineSegemnt.Transform(Matrix3x2)
 - uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.Transform*
   name: Transform
@@ -2173,11 +2173,11 @@ references:
   isSpec: "True"
   fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Bounds
   nameWithType: RoundedRect.Bounds
-- uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Contains(PointF)
+- uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Contains(SixLabors.Primitives.PointF)
   name: Contains(PointF)
-  href: api/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_Contains_PointF_
-  commentId: M:EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Contains(PointF)
-  fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Contains(PointF)
+  href: api/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_Contains_SixLabors_Primitives_PointF_
+  commentId: M:EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Contains(SixLabors.Primitives.PointF)
+  fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Contains(SixLabors.Primitives.PointF)
   nameWithType: RoundedRect.Contains(PointF)
 - uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Contains*
   name: Contains
@@ -2186,11 +2186,11 @@ references:
   isSpec: "True"
   fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Contains
   nameWithType: RoundedRect.Contains
-- uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Distance(PointF)
+- uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Distance(SixLabors.Primitives.PointF)
   name: Distance(PointF)
-  href: api/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_Distance_PointF_
-  commentId: M:EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Distance(PointF)
-  fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Distance(PointF)
+  href: api/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_Distance_SixLabors_Primitives_PointF_
+  commentId: M:EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Distance(SixLabors.Primitives.PointF)
+  fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Distance(SixLabors.Primitives.PointF)
   nameWithType: RoundedRect.Distance(PointF)
 - uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Distance*
   name: Distance
@@ -2199,22 +2199,22 @@ references:
   isSpec: "True"
   fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Distance
   nameWithType: RoundedRect.Distance
-- uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.FindIntersections(PointF,PointF,PointF[],System.Int32)
+- uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.FindIntersections(SixLabors.Primitives.PointF,SixLabors.Primitives.PointF,SixLabors.Primitives.PointF[],System.Int32)
   name: FindIntersections(PointF, PointF, PointF[], Int32)
-  href: api/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_FindIntersections_PointF_PointF_PointF___System_Int32_
-  commentId: M:EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.FindIntersections(PointF,PointF,PointF[],System.Int32)
+  href: api/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_FindIntersections_SixLabors_Primitives_PointF_SixLabors_Primitives_PointF_SixLabors_Primitives_PointF___System_Int32_
+  commentId: M:EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.FindIntersections(SixLabors.Primitives.PointF,SixLabors.Primitives.PointF,SixLabors.Primitives.PointF[],System.Int32)
   name.vb: FindIntersections(PointF, PointF, PointF(), Int32)
-  fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.FindIntersections(PointF, PointF, PointF[], System.Int32)
-  fullName.vb: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.FindIntersections(PointF, PointF, PointF(), System.Int32)
+  fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.FindIntersections(SixLabors.Primitives.PointF, SixLabors.Primitives.PointF, SixLabors.Primitives.PointF[], System.Int32)
+  fullName.vb: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.FindIntersections(SixLabors.Primitives.PointF, SixLabors.Primitives.PointF, SixLabors.Primitives.PointF(), System.Int32)
   nameWithType: RoundedRect.FindIntersections(PointF, PointF, PointF[], Int32)
   nameWithType.vb: RoundedRect.FindIntersections(PointF, PointF, PointF(), Int32)
-- uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.FindIntersections(PointF,PointF,Span{PointF})
+- uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.FindIntersections(SixLabors.Primitives.PointF,SixLabors.Primitives.PointF,System.Span{SixLabors.Primitives.PointF})
   name: FindIntersections(PointF, PointF, Span<PointF>)
-  href: api/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_FindIntersections_PointF_PointF_Span_PointF__
-  commentId: M:EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.FindIntersections(PointF,PointF,Span{PointF})
+  href: api/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_FindIntersections_SixLabors_Primitives_PointF_SixLabors_Primitives_PointF_System_Span_SixLabors_Primitives_PointF__
+  commentId: M:EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.FindIntersections(SixLabors.Primitives.PointF,SixLabors.Primitives.PointF,System.Span{SixLabors.Primitives.PointF})
   name.vb: FindIntersections(PointF, PointF, Span(Of PointF))
-  fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.FindIntersections(PointF, PointF, Span<PointF>)
-  fullName.vb: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.FindIntersections(PointF, PointF, Span(Of PointF))
+  fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.FindIntersections(SixLabors.Primitives.PointF, SixLabors.Primitives.PointF, System.Span<SixLabors.Primitives.PointF>)
+  fullName.vb: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.FindIntersections(SixLabors.Primitives.PointF, SixLabors.Primitives.PointF, System.Span(Of SixLabors.Primitives.PointF))
   nameWithType: RoundedRect.FindIntersections(PointF, PointF, Span<PointF>)
   nameWithType.vb: RoundedRect.FindIntersections(PointF, PointF, Span(Of PointF))
 - uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.FindIntersections*
@@ -2289,11 +2289,11 @@ references:
   isSpec: "True"
   fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.PointAlongPath
   nameWithType: RoundedRect.PointAlongPath
-- uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Transform(Matrix3x2)
+- uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Transform(System.Numerics.Matrix3x2)
   name: Transform(Matrix3x2)
-  href: api/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_Transform_Matrix3x2_
-  commentId: M:EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Transform(Matrix3x2)
-  fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Transform(Matrix3x2)
+  href: api/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_Transform_System_Numerics_Matrix3x2_
+  commentId: M:EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Transform(System.Numerics.Matrix3x2)
+  fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Transform(System.Numerics.Matrix3x2)
   nameWithType: RoundedRect.Transform(Matrix3x2)
 - uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Transform*
   name: Transform
