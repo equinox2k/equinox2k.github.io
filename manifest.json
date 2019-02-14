@@ -9,7 +9,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssAttributeSelector.html",
-          "hash": "m9xE+0y/zId8Ysx0P3+h+w=="
+          "hash": "RK4l8XcxDZC8JI7F8KdQDw=="
         }
       },
       "is_incremental": false,
@@ -21,7 +21,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssAttributeSelectorOperation.html",
-          "hash": "L7FD8YFxfrcimOdBk1YkXg=="
+          "hash": "x/+OaezTUE+qzE8OcIxwfA=="
         }
       },
       "is_incremental": false,
@@ -33,7 +33,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssAttributeSelectorValueType.html",
-          "hash": "lIUCQVOIi4GM2PAqYXHDug=="
+          "hash": "sa3LKg0pU/ggKgakZIbHpA=="
         }
       },
       "is_incremental": false,
@@ -45,7 +45,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssCombinatorType.html",
-          "hash": "3unhYYEQQ8E2VDnjt9NDsA=="
+          "hash": "GlLgv2PW8umqLBwI2gWs/g=="
         }
       },
       "is_incremental": false,
@@ -57,7 +57,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssComplexSelector.html",
-          "hash": "DVyF/r+GvjImO9v02WZSuQ=="
+          "hash": "9ZGp6o0gqjamSvCm0lJmXw=="
         }
       },
       "is_incremental": false,
@@ -69,7 +69,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssComplexSelectorItem.html",
-          "hash": "MKpOvdtI+gFc4DoijVNiCw=="
+          "hash": "z/py++V8asOQIRA2CbYaWA=="
         }
       },
       "is_incremental": false,
@@ -81,7 +81,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssCompoundSelector.html",
-          "hash": "hxyiflM3G1a2TML0VgpG0w=="
+          "hash": "CLiHAJSH32P6aV68H3sczA=="
         }
       },
       "is_incremental": false,
@@ -93,7 +93,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssFunctionalPseudoClass.html",
-          "hash": "p/p8e1Q/G7u/kFGx2+THew=="
+          "hash": "ksiV01QilU/5suHMTbhFQg=="
         }
       },
       "is_incremental": false,
@@ -105,7 +105,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssFunctionalPseudoClassType.html",
-          "hash": "7wK7gbBwMbvTHBt8UhRYeg=="
+          "hash": "Ayq76PWN724JQAeew+FqPw=="
         }
       },
       "is_incremental": false,
@@ -117,7 +117,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssInputPseudoClassType.html",
-          "hash": "3ryZWjvVSyblyml8iaVpZg=="
+          "hash": "NDgPl09bqS+IsoZPRlTsWA=="
         }
       },
       "is_incremental": false,
@@ -129,7 +129,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssParserException.html",
-          "hash": "O7wZHhqwuBhhbkr8hCDEBw=="
+          "hash": "3Zz+x8StAT8DRJusQlsyxg=="
         }
       },
       "is_incremental": false,
@@ -141,7 +141,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssPseudoClass.html",
-          "hash": "VhXRjMCAl1c9i1RWw97V9w=="
+          "hash": "xyF+LPTnXbFVA9cRzmvy0Q=="
         }
       },
       "is_incremental": false,
@@ -153,7 +153,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssPseudoClassType.html",
-          "hash": "RpPOn4/N2K5KNorJqhRhrA=="
+          "hash": "5vOQfhLViIME3MxHeOPOvA=="
         }
       },
       "is_incremental": false,
@@ -165,7 +165,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssQualifiedName.html",
-          "hash": "dTWFNeISzbHiqqmIZiU8OA=="
+          "hash": "0k1Q3lvm+VDgS/lMvqlEnw=="
         }
       },
       "is_incremental": false,
@@ -177,7 +177,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssSelector.html",
-          "hash": "CNFKHUHpTbFkvAU/ym4ocg=="
+          "hash": "iXLHekcsISV85/s0gjntpg=="
         }
       },
       "is_incremental": false,
@@ -189,7 +189,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssSelectorList.html",
-          "hash": "oGVR28N+RA2UWv4YDH20MQ=="
+          "hash": "b19yv9jEkLZmg5oZqQJDhg=="
         }
       },
       "is_incremental": false,
@@ -201,7 +201,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssSelectorType.html",
-          "hash": "xHWsdRvxw6X82sK94DOoAQ=="
+          "hash": "piGgAEivuUP02PCVGzT9CA=="
         }
       },
       "is_incremental": false,
@@ -213,7 +213,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssSelectorVisitor-1.html",
-          "hash": "iwzZ3ptgmL9HL4rHTKNsug=="
+          "hash": "yWPleOLkHiHKfmGzMTCSxQ=="
         }
       },
       "is_incremental": false,
@@ -225,7 +225,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssSelectorVisitor.html",
-          "hash": "6mnGGFKa7iftFMIQpM4GuQ=="
+          "hash": "yP0DCeUP3knDaLz5dC3pNg=="
         }
       },
       "is_incremental": false,
@@ -237,7 +237,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssSimpleSelector.html",
-          "hash": "I/2ioLRr9NIjtAaWVrERmw=="
+          "hash": "obb9suQaZ8D0dZWAcaLSjw=="
         }
       },
       "is_incremental": false,
@@ -249,7 +249,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssSimpleSelectorType.html",
-          "hash": "BJ9FpTL7tNNH0UvRR9hR+Q=="
+          "hash": "Z9osVDGKJE0onZX9EBZqMQ=="
         }
       },
       "is_incremental": false,
@@ -261,7 +261,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssSpecificity.html",
-          "hash": "G6c8Tl/HhQnLHDIu7SiJDg=="
+          "hash": "sMRT5akbSv46jE2tE/nebg=="
         }
       },
       "is_incremental": false,
@@ -273,7 +273,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssStructuralPseudoClass.html",
-          "hash": "4cOUdOwtjbYwkrvPQILLAQ=="
+          "hash": "RbWcH3jYaq3iUF+bxVUOdg=="
         }
       },
       "is_incremental": false,
@@ -285,7 +285,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssStructuralPseudoClassType.html",
-          "hash": "MrtM7W8u2t3DE16OeKxyYA=="
+          "hash": "oijXPzsrsErwpt57An4ejg=="
         }
       },
       "is_incremental": false,
@@ -297,7 +297,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssStylePropertyValue.html",
-          "hash": "Lyy0W34eTamOVjvuFTRV2A=="
+          "hash": "AK7UbUgzqeQyaH3fWZHNng=="
         }
       },
       "is_incremental": false,
@@ -309,7 +309,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssStyleRule.html",
-          "hash": "nlU6TRmr9REu33ip1YJmSw=="
+          "hash": "qrJBL79d5ApbmotqjDflvg=="
         }
       },
       "is_incremental": false,
@@ -321,7 +321,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssStyleRulesList.html",
-          "hash": "nwWPM5dSTfphUPp1FdfNHg=="
+          "hash": "ParcMnXuNCeURXEAwvK9GQ=="
         }
       },
       "is_incremental": false,
@@ -333,7 +333,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssUserActionPseudoClass.html",
-          "hash": "T4FlqsxvqVIChIBPrHcKEg=="
+          "hash": "Tjso7V9OZcXsFr1LrFAFcw=="
         }
       },
       "is_incremental": false,
@@ -345,7 +345,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssUserActionPseudoClassType.html",
-          "hash": "aO3+w97JIGkpMkrsQ9ufOw=="
+          "hash": "uy6uQO3KqDYDm3jUFXfXpQ=="
         }
       },
       "is_incremental": false,
@@ -357,7 +357,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.Css.ICssSelector.html",
-          "hash": "8uKEpT8MiaT48mgMPg38VQ=="
+          "hash": "NlMfJ+mG8PwPCdofKSUSew=="
         }
       },
       "is_incremental": false,
@@ -369,7 +369,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.Css.html",
-          "hash": "q+7Shm4XqTl5V+3dfSiGnA=="
+          "hash": "/61cfl+64/8TIJguGJB2oA=="
         }
       },
       "is_incremental": false,
@@ -381,7 +381,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.CssDisplayType.html",
-          "hash": "jnLw+itswHKTPlyNHj8PpQ=="
+          "hash": "SSx+Ju652Sn49RcpB//36g=="
         }
       },
       "is_incremental": false,
@@ -393,7 +393,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.CssTextAnchorType.html",
-          "hash": "q9PMsS9FclfDR9ZPr08nNA=="
+          "hash": "wMt4+fp+dsHtrOjVoAbu7w=="
         }
       },
       "is_incremental": false,
@@ -405,7 +405,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.CssVisibilityType.html",
-          "hash": "sK/z4Hibm27en9Igwyv9OA=="
+          "hash": "TcNYPC7DKDTpwSATAmg/Zg=="
         }
       },
       "is_incremental": false,
@@ -417,7 +417,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.ISvgElementComputedStyle.html",
-          "hash": "IBob0KVAvED9gsb+X769MQ=="
+          "hash": "YBxEEArd7Itlkd4mVetf6A=="
         }
       },
       "is_incremental": false,
@@ -429,7 +429,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.ISvgFitToViewbox.html",
-          "hash": "E2XWmNnYJX5YwMQMGa4/yw=="
+          "hash": "mevasZHwuqPaVIsua6LjDA=="
         }
       },
       "is_incremental": false,
@@ -441,7 +441,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.ISvgPathSegCurve1.html",
-          "hash": "riXwqfvb67PgbsScf8GPWg=="
+          "hash": "MD+sFDWBmGNYhnmI1oFTPQ=="
         }
       },
       "is_incremental": false,
@@ -453,7 +453,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.ISvgPathSegCurve2.html",
-          "hash": "HjHmD80RY5qy7qahSxPWMQ=="
+          "hash": "nA9vvh+bAt94oGyBgHLjTg=="
         }
       },
       "is_incremental": false,
@@ -465,7 +465,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.html",
-          "hash": "ya5UZ8wWV0Htd5vA7n3i5w=="
+          "hash": "VyFH6t6BxgBi49B44ACHTA=="
         }
       },
       "is_incremental": false,
@@ -477,7 +477,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html",
-          "hash": "szckhUKC2peDUU0rpQcrBA=="
+          "hash": "LLJft1X6kD1CxCZOlJDENw=="
         }
       },
       "is_incremental": false,
@@ -489,7 +489,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.html",
-          "hash": "Xt9VA3Szv3kW38jqX22NEw=="
+          "hash": "vko6o7N3Fdnn07EMSXRbMA=="
         }
       },
       "is_incremental": false,
@@ -501,7 +501,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.ImageSharp.SvgImageRenderer.html",
-          "hash": "aiIBwLlak0FdUcPvvQvbzA=="
+          "hash": "Cb+WSpy8+o1EtKOspDItxQ=="
         }
       },
       "is_incremental": false,
@@ -513,7 +513,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.ImageSharp.html",
-          "hash": "faMBWGqFeKpiedb5c90Prg=="
+          "hash": "wxMA2vDrzsayrOFid7TIpQ=="
         }
       },
       "is_incremental": false,
@@ -525,7 +525,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.StyleProperty-1.html",
-          "hash": "JAfIXmigo1nP5z5+hw47UA=="
+          "hash": "WpGLFYUH4Yk7jg60wxl8HQ=="
         }
       },
       "is_incremental": false,
@@ -537,7 +537,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.StyleProperty.html",
-          "hash": "Id5e8HvCWAMMrmvwKUE3tg=="
+          "hash": "3vBDOPJ0whvFvSSBQ/rGNA=="
         }
       },
       "is_incremental": false,
@@ -549,7 +549,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgCircleElement.html",
-          "hash": "llZd1SBugX5XTk7oLyG7QQ=="
+          "hash": "FFNVUL7yyYv7shK5InRXbw=="
         }
       },
       "is_incremental": false,
@@ -561,7 +561,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgClipPathElement.html",
-          "hash": "UB0igohHxsD7x5/sWZwtwQ=="
+          "hash": "/FBB3gRVob7Xg6lqNMrsEQ=="
         }
       },
       "is_incremental": false,
@@ -573,7 +573,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgColor.html",
-          "hash": "gudBJjLreNWI1wblIB4AcA=="
+          "hash": "HGwxHG9Av453XGpsiUc4BQ=="
         }
       },
       "is_incremental": false,
@@ -585,7 +585,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgColorTranslator.html",
-          "hash": "7/mtxYrSkCemxuyVMBr4Uw=="
+          "hash": "thO/wCRetCj4YL0mxCCnFw=="
         }
       },
       "is_incremental": false,
@@ -597,7 +597,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgDefsElement.html",
-          "hash": "HzIYTBF5xlGM3wmkaKD5VQ=="
+          "hash": "gQvMYat8rwKeosBunF663A=="
         }
       },
       "is_incremental": false,
@@ -609,7 +609,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgDescElement.html",
-          "hash": "eK6C/0T0W3D4MQpCiBJADg=="
+          "hash": "mq5TTyRnxXrO59TCKs/wGA=="
         }
       },
       "is_incremental": false,
@@ -621,7 +621,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgDocument.html",
-          "hash": "0PRUtWdNp3nXG9DljdMnzQ=="
+          "hash": "9orlVlRumxaDR/+E2Qlz2w=="
         }
       },
       "is_incremental": false,
@@ -633,7 +633,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgElement.html",
-          "hash": "nMT5IHs8Tl0FwMDmJ0waQg=="
+          "hash": "qrGMNagDnzJOmTSgaTQ0aw=="
         }
       },
       "is_incremental": false,
@@ -645,7 +645,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgElementComputedStyle.html",
-          "hash": "orngMtkbSsQ59ozdpnue9g=="
+          "hash": "hPQch+6Zn158Q0eKBal/8g=="
         }
       },
       "is_incremental": false,
@@ -657,7 +657,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgElementDefaultStyle.html",
-          "hash": "QdgQP+p9EnkXhpvCahk1lw=="
+          "hash": "CaVPItlvhTSrDSKiLJJa7g=="
         }
       },
       "is_incremental": false,
@@ -669,7 +669,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgElementList-1.html",
-          "hash": "AMOmnVoNEKWGiKPlnezelQ=="
+          "hash": "E+MZM1FfrvWwSwHM4BlNjA=="
         }
       },
       "is_incremental": false,
@@ -681,7 +681,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgElementList.html",
-          "hash": "cpUZH0sRwgQkZFW7LAEtOQ=="
+          "hash": "Eg+zok0HQ9kNhAOkEaNgZA=="
         }
       },
       "is_incremental": false,
@@ -693,7 +693,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgElementStyleData.html",
-          "hash": "ELO+/SUkb6PtFeXneHcUAQ=="
+          "hash": "jsigSelL4YG8XTRh/vhB1A=="
         }
       },
       "is_incremental": false,
@@ -705,7 +705,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgElementVisitor-1.html",
-          "hash": "dXQzCmIfWgZByJgZgizplA=="
+          "hash": "VEqakecwma5DbXPvIl7iMw=="
         }
       },
       "is_incremental": false,
@@ -717,7 +717,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgElementVisitor.html",
-          "hash": "KF6zHaP3AOH5G7zJxPq7cg=="
+          "hash": "gXiDIRAsB3Pg4aJBCGBMvQ=="
         }
       },
       "is_incremental": false,
@@ -729,7 +729,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgElementWalker.html",
-          "hash": "fq1WTXrozPg3LMvVleG0DA=="
+          "hash": "8Dtcwq4vMWJ/Hk/wIPQTdA=="
         }
       },
       "is_incremental": false,
@@ -741,7 +741,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgEllipseElement.html",
-          "hash": "WiRbcA4dnTe2o0iOiF8HRg=="
+          "hash": "lATxePZfYWzgCOCt6yd8Bw=="
         }
       },
       "is_incremental": false,
@@ -753,7 +753,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgFillRule.html",
-          "hash": "Cs9Qs+QWWcg3MpiNrYg6Lw=="
+          "hash": "gMcH/svMl6FNtb3J4rQM8w=="
         }
       },
       "is_incremental": false,
@@ -765,7 +765,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgFilterElement.html",
-          "hash": "zj455sRU+/mQEZ9HzMMu4Q=="
+          "hash": "ko86ExbHLLZar9zi+p0fUQ=="
         }
       },
       "is_incremental": false,
@@ -777,7 +777,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgFitToViewboxExtensions.html",
-          "hash": "UdsQwBOEYaZFi7HK1pINzg=="
+          "hash": "kKODp7AT3qWxRzgn8EtUog=="
         }
       },
       "is_incremental": false,
@@ -789,7 +789,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgFuncIRI.html",
-          "hash": "TtqkC02Zeh+Zbv++nN++qA=="
+          "hash": "iu3i3vL+wvuYlBUeUOSIWA=="
         }
       },
       "is_incremental": false,
@@ -801,7 +801,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgGElement.html",
-          "hash": "bFLZXKvaeljmfGhaRV7hSg=="
+          "hash": "rC/LpABqcql4hRiejWKNYg=="
         }
       },
       "is_incremental": false,
@@ -813,7 +813,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgGeometryElement.html",
-          "hash": "lAGBhKSh8tsfgVng9W2ldA=="
+          "hash": "pVO7nRogcO4Nn4+3CiWEhg=="
         }
       },
       "is_incremental": false,
@@ -825,7 +825,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgGradientElement.html",
-          "hash": "nyeFtdDZ016tIwiphXw2fw=="
+          "hash": "Dvz9KoRXfN3ON+UaD3IHew=="
         }
       },
       "is_incremental": false,
@@ -837,7 +837,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgGradientPaintServer.html",
-          "hash": "6/JYzoum0BhJuI63mhJzIQ=="
+          "hash": "moV0Wb2SYDkpaHOmF1/Jhg=="
         }
       },
       "is_incremental": false,
@@ -849,7 +849,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgGradientPaintServerColorStop.html",
-          "hash": "kExuhBY7Mk+E2cBzgf9LuQ=="
+          "hash": "+qMUb+N9U/PAJCVeLJlqiw=="
         }
       },
       "is_incremental": false,
@@ -861,7 +861,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgGradientSpreadMethod.html",
-          "hash": "E/FArdW8ahnzXZUph9kHXg=="
+          "hash": "ZnxRS0vVcgB42Q+5fbwjiA=="
         }
       },
       "is_incremental": false,
@@ -873,7 +873,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgGraphicsElement.html",
-          "hash": "1QvsphIYD+8QjZdpIL3BCw=="
+          "hash": "6N5vVT+SQ7XWHpFsOXrqlw=="
         }
       },
       "is_incremental": false,
@@ -885,7 +885,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgInlineTextSpanElement.html",
-          "hash": "JtRQgqxv1LukORYJ1pJiWg=="
+          "hash": "73rTcQRyb9f/BIniq1KhGA=="
         }
       },
       "is_incremental": false,
@@ -897,7 +897,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgLength.html",
-          "hash": "mRQIeIeRujdcqBSw22V4VA=="
+          "hash": "dmXralTexOxE3qYN66UGWQ=="
         }
       },
       "is_incremental": false,
@@ -909,7 +909,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgLengthType.html",
-          "hash": "W12S5OZxauo+3awMceybbQ=="
+          "hash": "7CdUpBMaRLFPbE0GIjPreg=="
         }
       },
       "is_incremental": false,
@@ -921,7 +921,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgLineElement.html",
-          "hash": "/goWLQUsyh+HJI3KlLKifQ=="
+          "hash": "OHQjLBB+Xq9vsTrX5KP+vg=="
         }
       },
       "is_incremental": false,
@@ -933,7 +933,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgLinearGradientElement.html",
-          "hash": "sNGHfgcHJymllRzPORn+Fw=="
+          "hash": "Mb5UAfjCrqK3D8i08O7dkg=="
         }
       },
       "is_incremental": false,
@@ -945,7 +945,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgLinearGradientPaintServer.html",
-          "hash": "8XSVUhEPtw96oggmZwMBbA=="
+          "hash": "iKfeL+t+eHrskAufU0rPNA=="
         }
       },
       "is_incremental": false,
@@ -957,7 +957,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgMaskElement.html",
-          "hash": "GPsh/9kb70i/23n7dr65Rw=="
+          "hash": "1sQLdrBH2BJZhWO2vz3aQQ=="
         }
       },
       "is_incremental": false,
@@ -969,7 +969,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgMatrix.html",
-          "hash": "KPGDiVIOq81YOmM5ngp87A=="
+          "hash": "TGJSjgi6P1mVNvh5QvLpYg=="
         }
       },
       "is_incremental": false,
@@ -981,7 +981,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPaint.html",
-          "hash": "gamtWZ0CB/2ji4cSegcgTA=="
+          "hash": "n543OD/ZFJy8UsWYovlARA=="
         }
       },
       "is_incremental": false,
@@ -993,7 +993,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPaintServer.html",
-          "hash": "0+YcEZL1+o9L5RIcMUCBgw=="
+          "hash": "H/LicNbuGkClHPIsF7X4Yg=="
         }
       },
       "is_incremental": false,
@@ -1005,7 +1005,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPaintServerType.html",
-          "hash": "HqY81i0bkLw436650QYQng=="
+          "hash": "UnZ7qlxanilJ6lCSALLrxQ=="
         }
       },
       "is_incremental": false,
@@ -1017,7 +1017,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPaintServerVisitor-1.html",
-          "hash": "4ZKaD/3K9tWEtgYRoWfmHA=="
+          "hash": "ybSBMKiUwqIntTQLP/vAmg=="
         }
       },
       "is_incremental": false,
@@ -1029,7 +1029,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPaintServerVisitor.html",
-          "hash": "usMY17GJRkPfJ7Ibzx46nA=="
+          "hash": "JIx+V5lhWeQZymkr6xHQeA=="
         }
       },
       "is_incremental": false,
@@ -1041,7 +1041,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPaintType.html",
-          "hash": "5hLSi6eP3BK9snHr8yCWlg=="
+          "hash": "IFnQ8YnD4TpWZmW9J7i5Gg=="
         }
       },
       "is_incremental": false,
@@ -1053,7 +1053,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathElement.html",
-          "hash": "/gdGtJctj3Clb0EOlbctqA=="
+          "hash": "mHeTPIDE15M2oEAVLxuEeg=="
         }
       },
       "is_incremental": false,
@@ -1065,7 +1065,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSeg.html",
-          "hash": "GKWRxG2LXEPzp8/EIhVDxw=="
+          "hash": "CwwUt+6Kxn5yxVgeqviBmw=="
         }
       },
       "is_incremental": false,
@@ -1077,7 +1077,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegArcAbs.html",
-          "hash": "xZimdULBwX1ykzWgexB8yg=="
+          "hash": "ZXDOBo3E9rJ4lhJOW6Jfyw=="
         }
       },
       "is_incremental": false,
@@ -1089,7 +1089,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegArcRel.html",
-          "hash": "qg9fxi7UJitV6IvIyNYg8Q=="
+          "hash": "fCQAwe7LnOjJ4OtPnCMvcg=="
         }
       },
       "is_incremental": false,
@@ -1101,7 +1101,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegClosePath.html",
-          "hash": "Ueq9FXXHkpLdBm/O6x87lg=="
+          "hash": "GVXfOGTzy9oqddgsWYwrTw=="
         }
       },
       "is_incremental": false,
@@ -1113,7 +1113,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoCubicAbs.html",
-          "hash": "MYvr06Xks5iZiJkaF28XKA=="
+          "hash": "syF6HBAiXK02Kaz9lOOTAw=="
         }
       },
       "is_incremental": false,
@@ -1125,7 +1125,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoCubicRel.html",
-          "hash": "r2EqkFqi9hk/voqWx2ykWA=="
+          "hash": "MmnmUIOiXMR5MsewT/3Gkg=="
         }
       },
       "is_incremental": false,
@@ -1137,7 +1137,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoCubicSmoothAbs.html",
-          "hash": "qPq+ZVDjx+p5pk+iv3eqOQ=="
+          "hash": "lZZyW3xEWSeAFDZ6de1t4w=="
         }
       },
       "is_incremental": false,
@@ -1149,7 +1149,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoCubicSmoothRel.html",
-          "hash": "0Ql+Ud2SP+WoLd5zjXqiBQ=="
+          "hash": "nju8+2YEYig2VK+94Mc1qw=="
         }
       },
       "is_incremental": false,
@@ -1161,7 +1161,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoQuadraticAbs.html",
-          "hash": "Biyb3eLugNVOmkncAPAokQ=="
+          "hash": "HhQRSKNLtA1sl1pFDhkOrQ=="
         }
       },
       "is_incremental": false,
@@ -1173,7 +1173,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoQuadraticRel.html",
-          "hash": "YQT07jFLpFtq34XgjOw/7g=="
+          "hash": "j0DNRMg56VB1S+ilAHmXwQ=="
         }
       },
       "is_incremental": false,
@@ -1185,7 +1185,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoQuadraticSmoothAbs.html",
-          "hash": "zHzvC75zNpxoSXQoreY0WA=="
+          "hash": "Wp/pEQvE4bHdCHOpxUQZng=="
         }
       },
       "is_incremental": false,
@@ -1197,7 +1197,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoQuadraticSmoothRel.html",
-          "hash": "EiLKKv35ueRskr6huYiHyA=="
+          "hash": "ZF6glCgtDYtlwfzQuzwjVw=="
         }
       },
       "is_incremental": false,
@@ -1209,7 +1209,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegLinetoAbs.html",
-          "hash": "jllkJ/hZ7CWq6Vtm+GWp6Q=="
+          "hash": "mroiPBCayUotG9NvqGbRVg=="
         }
       },
       "is_incremental": false,
@@ -1221,7 +1221,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegLinetoHorizontalAbs.html",
-          "hash": "IzyQ9u07VtVvxmUpYOAk9A=="
+          "hash": "QSg2WqvuyA6QWkShCidyKw=="
         }
       },
       "is_incremental": false,
@@ -1233,7 +1233,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegLinetoHorizontalRel.html",
-          "hash": "y9Npz27Ksy7t9KM9SZwlww=="
+          "hash": "csxdeK0eq7C25sJDfN8uhg=="
         }
       },
       "is_incremental": false,
@@ -1245,7 +1245,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegLinetoRel.html",
-          "hash": "UE0Gk7rnrZXV1p2Al3wzbA=="
+          "hash": "aKFn2QzqoXG8yGLoLlBLeg=="
         }
       },
       "is_incremental": false,
@@ -1257,7 +1257,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegLinetoVerticalAbs.html",
-          "hash": "Dl64Fg9wFijtI9ZBS7qTPA=="
+          "hash": "cECWYa3yadzzXwFUcuieyQ=="
         }
       },
       "is_incremental": false,
@@ -1269,7 +1269,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegLinetoVerticalRel.html",
-          "hash": "zJ4zkjiKgHLR1h6YducB5A=="
+          "hash": "8veLO4uxNADfPYlPhrjVuA=="
         }
       },
       "is_incremental": false,
@@ -1281,7 +1281,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegList.html",
-          "hash": "L3qT25aKoGzLgQWJMx8uGQ=="
+          "hash": "ismfRYldEQYDQiaC/5rtIQ=="
         }
       },
       "is_incremental": false,
@@ -1293,7 +1293,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegListExtensions.html",
-          "hash": "HLGayqB3vSsOKDgRqJL9Lw=="
+          "hash": "Hca+4DbhsICqRk1KzU4iNQ=="
         }
       },
       "is_incremental": false,
@@ -1305,7 +1305,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegListTransformer.html",
-          "hash": "MFkNFwyw8PLiXsHmsavITQ=="
+          "hash": "4YOL3mWUx40FUNjeXc9paQ=="
         }
       },
       "is_incremental": false,
@@ -1317,7 +1317,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegMovetoAbs.html",
-          "hash": "UIM0IHtowJUy1JWQpBiPrw=="
+          "hash": "dj1b4kF2Kncv08gAaB6DTA=="
         }
       },
       "is_incremental": false,
@@ -1329,7 +1329,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegMovetoRel.html",
-          "hash": "9nNpgPIJZs/8D5fXB1HW/g=="
+          "hash": "NFJyA/RXD8WG3lh1CW+Qcg=="
         }
       },
       "is_incremental": false,
@@ -1341,7 +1341,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegType.html",
-          "hash": "Rq+UYvrsNpXMMGnz7c8V1w=="
+          "hash": "Pq8R66Y9tCW/A4jMHtDPyQ=="
         }
       },
       "is_incremental": false,
@@ -1353,7 +1353,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegVisitor-1.html",
-          "hash": "Kzknv9whw23kb0zuql2taw=="
+          "hash": "sKCV4A+gN3LTklgDPnn1pA=="
         }
       },
       "is_incremental": false,
@@ -1365,7 +1365,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegVisitor.html",
-          "hash": "aygM5rOZ9SBZrMc9+oo3Gg=="
+          "hash": "4j+NtD2F/Ot6+QJjfOPNyA=="
         }
       },
       "is_incremental": false,
@@ -1377,7 +1377,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPatternElement.html",
-          "hash": "D7fHDvXd7lyToEbVJetW5A=="
+          "hash": "KyAbLXL1SgsObMFwz77T/Q=="
         }
       },
       "is_incremental": false,
@@ -1389,7 +1389,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPolyPoint.html",
-          "hash": "kCrC3NLLZ5stSeoNlc1TkQ=="
+          "hash": "X1zFHUJYWaPDVw7Uer5vjw=="
         }
       },
       "is_incremental": false,
@@ -1401,7 +1401,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPolyPointList.html",
-          "hash": "Jxs+JvFwt0HkZK7YManTOw=="
+          "hash": "/TrTxiLx3UWtJ+ZC/pWTUQ=="
         }
       },
       "is_incremental": false,
@@ -1413,7 +1413,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPolygonElement.html",
-          "hash": "z6OErwmJWZmWdd+gcxbgCw=="
+          "hash": "g8S9Nv3qgSMdutV/pwsbDA=="
         }
       },
       "is_incremental": false,
@@ -1425,7 +1425,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPolylineElement.html",
-          "hash": "AXiV3HoUqQkOegFwYqc6Aw=="
+          "hash": "P3TTqqliR/fLyHvQwbIWWw=="
         }
       },
       "is_incremental": false,
@@ -1437,7 +1437,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPreserveAspectRatio.html",
-          "hash": "9iAG+GT1c6WyluqloElkYQ=="
+          "hash": "fUs4Paa0/q0y6O+2SzG84w=="
         }
       },
       "is_incremental": false,
@@ -1449,7 +1449,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPreserveAspectRatioAlign.html",
-          "hash": "Z7/gkqz9WrWm28jt++5C1w=="
+          "hash": "navRM240bOsIZR3hweoyBQ=="
         }
       },
       "is_incremental": false,
@@ -1461,7 +1461,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPreserveAspectRatioMeetOrSlice.html",
-          "hash": "yXVoEblc9xp2M+3GZaIJRg=="
+          "hash": "YsXUQO90k4etV+tvoz9IFQ=="
         }
       },
       "is_incremental": false,
@@ -1473,7 +1473,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgRadialGradientElement.html",
-          "hash": "N11DDBcaYowETfBPhDMtrA=="
+          "hash": "m0K0wlgQyXcIf9vD+f3FYA=="
         }
       },
       "is_incremental": false,
@@ -1485,7 +1485,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgRadialGradientPaintServer.html",
-          "hash": "a7HM2qGLBfylONFFkxTTWw=="
+          "hash": "DrJjEEspddJLu/r+xtMO9A=="
         }
       },
       "is_incremental": false,
@@ -1497,7 +1497,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgRect.html",
-          "hash": "oOYzRx9a0zB4iJk81sE/yQ=="
+          "hash": "9C4zGzBhn300v3Payq/ZYg=="
         }
       },
       "is_incremental": false,
@@ -1509,7 +1509,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgRectElement.html",
-          "hash": "cGluK2x5NtrSFxelBUmuDw=="
+          "hash": "zZXbPkTDsGblsSRmEjcYSg=="
         }
       },
       "is_incremental": false,
@@ -1521,7 +1521,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgSolidColorPaintServer.html",
-          "hash": "nIp0uJstE7+UgIVoDjAiaQ=="
+          "hash": "OimTV5wQqb5mO42SwwULWA=="
         }
       },
       "is_incremental": false,
@@ -1533,7 +1533,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgStopElement.html",
-          "hash": "PcT/7H24VT/PcIlU4TPZDA=="
+          "hash": "MNgVyGs/4FWbuAcHzvB39w=="
         }
       },
       "is_incremental": false,
@@ -1545,7 +1545,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgStopElementList.html",
-          "hash": "6Thw07X7tdPprYbdIPg7kA=="
+          "hash": "xpelkYOsig+G1TtNTFQCDQ=="
         }
       },
       "is_incremental": false,
@@ -1557,7 +1557,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgStrokeLineCap.html",
-          "hash": "Q+zokYymlDvbgUM/HeU+mw=="
+          "hash": "Y3Ei3ibH2H22sqSaAuiUAA=="
         }
       },
       "is_incremental": false,
@@ -1569,7 +1569,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgStrokeLineJoin.html",
-          "hash": "LyA//NZzp5mCplBf0c+JwQ=="
+          "hash": "o5Za1ND0sWZjd5yidKN8eA=="
         }
       },
       "is_incremental": false,
@@ -1581,7 +1581,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgStructuralGraphicsElement.html",
-          "hash": "QRPSJB0yDKMi9TpkPnOy5g=="
+          "hash": "CACbxDXwf4nRIuDr1/0BdQ=="
         }
       },
       "is_incremental": false,
@@ -1593,7 +1593,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgStyleElement.html",
-          "hash": "CYRDimyb045cNqqAyPGccQ=="
+          "hash": "CQyFxO4kqd2VO0FotkahPQ=="
         }
       },
       "is_incremental": false,
@@ -1605,7 +1605,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgStyleRule.html",
-          "hash": "4Dbr//DMDJWbiTSCHbojlw=="
+          "hash": "vzJ0wlt0jlHzi64iyA73MA=="
         }
       },
       "is_incremental": false,
@@ -1617,7 +1617,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgSvgElement.html",
-          "hash": "eCyHNiw9JO3WA49kAIZKiw=="
+          "hash": "hHIBNGlHal8VWH/4Wvdgew=="
         }
       },
       "is_incremental": false,
@@ -1629,7 +1629,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgSymbolElement.html",
-          "hash": "G5SWLclyPcyZH4ULkSpgDg=="
+          "hash": "aKHr9YYUYr09h5uFsWsFzQ=="
         }
       },
       "is_incremental": false,
@@ -1641,7 +1641,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgTextElement.html",
-          "hash": "kFTCKYhAj6Ijq7yOlr34Yw=="
+          "hash": "Bst8GSXu1m60XMaRC+UQxA=="
         }
       },
       "is_incremental": false,
@@ -1653,7 +1653,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgTextPathElement.html",
-          "hash": "/hJ3eHgV9G6fKeq2MO1+Zg=="
+          "hash": "oasd+CKCBcF1InCcmYSfYQ=="
         }
       },
       "is_incremental": false,
@@ -1665,7 +1665,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgTextSpanElement.html",
-          "hash": "dthBXVdcZHleZ5auo9r56A=="
+          "hash": "bniJh0knPIAXMZVYtsmTxg=="
         }
       },
       "is_incremental": false,
@@ -1677,7 +1677,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgTitleElement.html",
-          "hash": "fOQ1yoon6Xcr40chB2P52g=="
+          "hash": "aVrM1tl1UgMUbSu55mY+hA=="
         }
       },
       "is_incremental": false,
@@ -1689,7 +1689,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgTransform.html",
-          "hash": "Mwh/tNm/M7TTuodYJFo9qg=="
+          "hash": "fKNbDDAErJaTJ+X9JlSVwA=="
         }
       },
       "is_incremental": false,
@@ -1701,7 +1701,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgTransformList.html",
-          "hash": "VYcn9nLW9xliCAIsrqxNMA=="
+          "hash": "DgAksNKKanMTQbksr+pe6A=="
         }
       },
       "is_incremental": false,
@@ -1713,7 +1713,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgTransformType.html",
-          "hash": "sPBSPMQYtiQsFYrDFXnUSg=="
+          "hash": "N7hhnYbCt1rSOmW2IB1GuA=="
         }
       },
       "is_incremental": false,
@@ -1725,7 +1725,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgUnitTypes.html",
-          "hash": "ESqc1sxg0Fky/Dysa19qnA=="
+          "hash": "pKW4ugsqdcMBAkQSNCb+Vw=="
         }
       },
       "is_incremental": false,
@@ -1737,7 +1737,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.SvgUseElement.html",
-          "hash": "M3MVA6s2+54vwuk1Hf4+Ng=="
+          "hash": "ZiEmT0p0oJq4pcKKpHbihQ=="
         }
       },
       "is_incremental": false,
@@ -1749,22 +1749,19 @@
       "output": {
         ".html": {
           "relative_path": "api/EquinoxLabs.SVGSharpie.html",
-          "hash": "+nv39ScL8RIFubaME5sT6w=="
+          "hash": "06biBEwTztAXypdLv4qiJw=="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "api/index.md",
       "output": {
         ".html": {
           "relative_path": "api/index.html",
-          "hash": "IHPWtUR5oOuKNZc7eVdgeQ=="
+          "hash": "Tr/RSCVBkky0HwxFB5ecOA=="
         }
       },
       "is_incremental": false,
@@ -1772,11 +1769,35 @@
     },
     {
       "type": "Toc",
-      "source_relative_path": "api/toc.yml",
+      "source_relative_path": "fusion/toc.yml",
       "output": {
         ".html": {
-          "relative_path": "api/toc.html",
-          "hash": "1kah0gKaFmYIBphBZIuXAA=="
+          "relative_path": "fusion/toc.html",
+          "hash": "zNjEfaXS92GUN7ybXI5hwQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "PTWaFpZmgGOx1DEeALJKWQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "s29Xon+7EyhHTfN4uDLPcg=="
         }
       },
       "is_incremental": false,
@@ -1793,23 +1814,23 @@
         "skipped_file_count": 0
       },
       "processors": {
-        "TocDocumentProcessor": {
+        "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
-          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build",
-          "total_file_count": 0,
+          "total_file_count": 146,
           "skipped_file_count": 0
         },
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 1,
+          "total_file_count": 2,
           "skipped_file_count": 0
         },
-        "ManagedReferenceDocumentProcessor": {
+        "TocDocumentProcessor": {
           "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build",
-          "total_file_count": 146,
+          "total_file_count": 0,
           "skipped_file_count": 0
         }
       }
