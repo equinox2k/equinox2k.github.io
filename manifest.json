@@ -4,11 +4,23 @@
   "xrefmap": "xrefmap.yml",
   "files": [
     {
-      "type": "ManagedReference",
-      "source_relative_path": "api2/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.yml",
+      "type": "Toc",
+      "source_relative_path": "fusion/toc.yml",
       "output": {
         ".html": {
-          "relative_path": "api2/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.html",
+          "relative_path": "fusion/toc.html",
+          "hash": "SX9B2AOpcdIVU+9jnakzhQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "imagesharp/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.yml",
+      "output": {
+        ".html": {
+          "relative_path": "imagesharp/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.html",
           "hash": "2v2rd9Z8igYGDbZLWhgf1g=="
         }
       },
@@ -17,10 +29,10 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api2/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.yml",
+      "source_relative_path": "imagesharp/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.yml",
       "output": {
         ".html": {
-          "relative_path": "api2/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html",
+          "relative_path": "imagesharp/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html",
           "hash": "toT4KPtucxOJt2FBJNuqvQ=="
         }
       },
@@ -29,10 +41,10 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api2/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.yml",
+      "source_relative_path": "imagesharp/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.yml",
       "output": {
         ".html": {
-          "relative_path": "api2/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.html",
+          "relative_path": "imagesharp/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.html",
           "hash": "Qe8ngH4o5qBPLsCWfj4DOw=="
         }
       },
@@ -41,11 +53,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api2/EquinoxLabs.SVGSharpie.ImageSharp.SvgImageRenderer.yml",
+      "source_relative_path": "imagesharp/EquinoxLabs.SVGSharpie.ImageSharp.SvgImageRenderer.yml",
       "output": {
         ".html": {
-          "relative_path": "api2/EquinoxLabs.SVGSharpie.ImageSharp.SvgImageRenderer.html",
-          "hash": "zGyF6dvPVPZkDj9/PSNrrw=="
+          "relative_path": "imagesharp/EquinoxLabs.SVGSharpie.ImageSharp.SvgImageRenderer.html",
+          "hash": "y+78pxs22vgpCLBKFPSsLg=="
         }
       },
       "is_incremental": false,
@@ -53,11 +65,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api2/EquinoxLabs.SVGSharpie.ImageSharp.yml",
+      "source_relative_path": "imagesharp/EquinoxLabs.SVGSharpie.ImageSharp.yml",
       "output": {
         ".html": {
-          "relative_path": "api2/EquinoxLabs.SVGSharpie.ImageSharp.html",
-          "hash": "CMazU60J5rY+XVi9S+pZ1w=="
+          "relative_path": "imagesharp/EquinoxLabs.SVGSharpie.ImageSharp.html",
+          "hash": "6Ffkk2WnGBx5r3VcQPO1Vg=="
         }
       },
       "is_incremental": false,
@@ -65,23 +77,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "api2/index.md",
+      "source_relative_path": "imagesharp/index.md",
       "output": {
         ".html": {
-          "relative_path": "api2/index.html",
-          "hash": "yTiXYFZdmBaSQVWB0YNnZA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Toc",
-      "source_relative_path": "fusion/toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "fusion/toc.html",
-          "hash": "NijL0mkYOf/ODy90Md4kGw=="
+          "relative_path": "imagesharp/index.html",
+          "hash": "TK6Pypbt4r5FRtlj0zTWOg=="
         }
       },
       "is_incremental": false,
@@ -1827,13 +1827,6 @@
         "full_build_reason_code": "NoAvailableBuildCache"
       },
       "processors": {
-        "TocDocumentProcessor": {
-          "can_incremental": false,
-          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
-          "incrementalPhase": "build",
-          "total_file_count": 0,
-          "skipped_file_count": 0
-        },
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
@@ -1844,6 +1837,13 @@
           "can_incremental": false,
           "incrementalPhase": "build",
           "total_file_count": 146,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
           "skipped_file_count": 0
         }
       }

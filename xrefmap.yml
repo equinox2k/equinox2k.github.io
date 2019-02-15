@@ -2060,148 +2060,148 @@ references:
   nameWithType: CssVisibilityType.Visible
 - uid: EquinoxLabs.SVGSharpie.ImageSharp
   name: EquinoxLabs.SVGSharpie.ImageSharp
-  href: api2/EquinoxLabs.SVGSharpie.ImageSharp.html
+  href: imagesharp/EquinoxLabs.SVGSharpie.ImageSharp.html
   commentId: N:EquinoxLabs.SVGSharpie.ImageSharp
   fullName: EquinoxLabs.SVGSharpie.ImageSharp
   nameWithType: EquinoxLabs.SVGSharpie.ImageSharp
 - uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes
   name: EquinoxLabs.SVGSharpie.ImageSharp.Shapes
-  href: api2/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.html
+  href: imagesharp/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.html
   commentId: N:EquinoxLabs.SVGSharpie.ImageSharp.Shapes
   fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes
   nameWithType: EquinoxLabs.SVGSharpie.ImageSharp.Shapes
 - uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt
   name: ArcLineSegemnt
-  href: api2/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.html
+  href: imagesharp/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.html
   commentId: T:EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt
   fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt
   nameWithType: ArcLineSegemnt
 - uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.#ctor(SixLabors.Primitives.PointF,SixLabors.Primitives.PointF,SixLabors.Primitives.SizeF,System.Single,System.Boolean,System.Boolean)
   name: ArcLineSegemnt(PointF, PointF, SizeF, Single, Boolean, Boolean)
-  href: api2/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_ArcLineSegemnt__ctor_SixLabors_Primitives_PointF_SixLabors_Primitives_PointF_SixLabors_Primitives_SizeF_System_Single_System_Boolean_System_Boolean_
+  href: imagesharp/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_ArcLineSegemnt__ctor_SixLabors_Primitives_PointF_SixLabors_Primitives_PointF_SixLabors_Primitives_SizeF_System_Single_System_Boolean_System_Boolean_
   commentId: M:EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.#ctor(SixLabors.Primitives.PointF,SixLabors.Primitives.PointF,SixLabors.Primitives.SizeF,System.Single,System.Boolean,System.Boolean)
   fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.ArcLineSegemnt(SixLabors.Primitives.PointF, SixLabors.Primitives.PointF, SixLabors.Primitives.SizeF, System.Single, System.Boolean, System.Boolean)
   nameWithType: ArcLineSegemnt.ArcLineSegemnt(PointF, PointF, SizeF, Single, Boolean, Boolean)
 - uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.#ctor*
   name: ArcLineSegemnt
-  href: api2/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_ArcLineSegemnt__ctor_
+  href: imagesharp/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_ArcLineSegemnt__ctor_
   commentId: Overload:EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.#ctor
   isSpec: "True"
   fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.ArcLineSegemnt
   nameWithType: ArcLineSegemnt.ArcLineSegemnt
 - uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.EndPoint
   name: EndPoint
-  href: api2/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_ArcLineSegemnt_EndPoint
+  href: imagesharp/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_ArcLineSegemnt_EndPoint
   commentId: P:EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.EndPoint
   fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.EndPoint
   nameWithType: ArcLineSegemnt.EndPoint
 - uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.EndPoint*
   name: EndPoint
-  href: api2/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_ArcLineSegemnt_EndPoint_
+  href: imagesharp/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_ArcLineSegemnt_EndPoint_
   commentId: Overload:EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.EndPoint
   isSpec: "True"
   fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.EndPoint
   nameWithType: ArcLineSegemnt.EndPoint
 - uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.Flatten
   name: Flatten()
-  href: api2/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_ArcLineSegemnt_Flatten
+  href: imagesharp/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_ArcLineSegemnt_Flatten
   commentId: M:EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.Flatten
   fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.Flatten()
   nameWithType: ArcLineSegemnt.Flatten()
 - uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.Flatten*
   name: Flatten
-  href: api2/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_ArcLineSegemnt_Flatten_
+  href: imagesharp/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_ArcLineSegemnt_Flatten_
   commentId: Overload:EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.Flatten
   isSpec: "True"
   fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.Flatten
   nameWithType: ArcLineSegemnt.Flatten
 - uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.Transform(System.Numerics.Matrix3x2)
   name: Transform(Matrix3x2)
-  href: api2/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_ArcLineSegemnt_Transform_System_Numerics_Matrix3x2_
+  href: imagesharp/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_ArcLineSegemnt_Transform_System_Numerics_Matrix3x2_
   commentId: M:EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.Transform(System.Numerics.Matrix3x2)
   fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.Transform(System.Numerics.Matrix3x2)
   nameWithType: ArcLineSegemnt.Transform(Matrix3x2)
 - uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.Transform*
   name: Transform
-  href: api2/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_ArcLineSegemnt_Transform_
+  href: imagesharp/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_ArcLineSegemnt_Transform_
   commentId: Overload:EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.Transform
   isSpec: "True"
   fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.Transform
   nameWithType: ArcLineSegemnt.Transform
 - uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect
   name: RoundedRect
-  href: api2/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html
+  href: imagesharp/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html
   commentId: T:EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect
   fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect
   nameWithType: RoundedRect
 - uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.#ctor(System.Single,System.Single,System.Single,System.Single,System.Single,System.Single)
   name: RoundedRect(Single, Single, Single, Single, Single, Single)
-  href: api2/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect__ctor_System_Single_System_Single_System_Single_System_Single_System_Single_System_Single_
+  href: imagesharp/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect__ctor_System_Single_System_Single_System_Single_System_Single_System_Single_System_Single_
   commentId: M:EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.#ctor(System.Single,System.Single,System.Single,System.Single,System.Single,System.Single)
   fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.RoundedRect(System.Single, System.Single, System.Single, System.Single, System.Single, System.Single)
   nameWithType: RoundedRect.RoundedRect(Single, Single, Single, Single, Single, Single)
 - uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.#ctor*
   name: RoundedRect
-  href: api2/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect__ctor_
+  href: imagesharp/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect__ctor_
   commentId: Overload:EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.#ctor
   isSpec: "True"
   fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.RoundedRect
   nameWithType: RoundedRect.RoundedRect
 - uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.AsClosedPath
   name: AsClosedPath()
-  href: api2/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_AsClosedPath
+  href: imagesharp/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_AsClosedPath
   commentId: M:EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.AsClosedPath
   fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.AsClosedPath()
   nameWithType: RoundedRect.AsClosedPath()
 - uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.AsClosedPath*
   name: AsClosedPath
-  href: api2/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_AsClosedPath_
+  href: imagesharp/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_AsClosedPath_
   commentId: Overload:EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.AsClosedPath
   isSpec: "True"
   fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.AsClosedPath
   nameWithType: RoundedRect.AsClosedPath
 - uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Bounds
   name: Bounds
-  href: api2/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_Bounds
+  href: imagesharp/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_Bounds
   commentId: P:EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Bounds
   fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Bounds
   nameWithType: RoundedRect.Bounds
 - uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Bounds*
   name: Bounds
-  href: api2/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_Bounds_
+  href: imagesharp/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_Bounds_
   commentId: Overload:EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Bounds
   isSpec: "True"
   fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Bounds
   nameWithType: RoundedRect.Bounds
 - uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Contains(SixLabors.Primitives.PointF)
   name: Contains(PointF)
-  href: api2/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_Contains_SixLabors_Primitives_PointF_
+  href: imagesharp/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_Contains_SixLabors_Primitives_PointF_
   commentId: M:EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Contains(SixLabors.Primitives.PointF)
   fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Contains(SixLabors.Primitives.PointF)
   nameWithType: RoundedRect.Contains(PointF)
 - uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Contains*
   name: Contains
-  href: api2/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_Contains_
+  href: imagesharp/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_Contains_
   commentId: Overload:EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Contains
   isSpec: "True"
   fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Contains
   nameWithType: RoundedRect.Contains
 - uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Distance(SixLabors.Primitives.PointF)
   name: Distance(PointF)
-  href: api2/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_Distance_SixLabors_Primitives_PointF_
+  href: imagesharp/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_Distance_SixLabors_Primitives_PointF_
   commentId: M:EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Distance(SixLabors.Primitives.PointF)
   fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Distance(SixLabors.Primitives.PointF)
   nameWithType: RoundedRect.Distance(PointF)
 - uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Distance*
   name: Distance
-  href: api2/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_Distance_
+  href: imagesharp/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_Distance_
   commentId: Overload:EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Distance
   isSpec: "True"
   fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Distance
   nameWithType: RoundedRect.Distance
 - uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.FindIntersections(SixLabors.Primitives.PointF,SixLabors.Primitives.PointF,SixLabors.Primitives.PointF[],System.Int32)
   name: FindIntersections(PointF, PointF, PointF[], Int32)
-  href: api2/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_FindIntersections_SixLabors_Primitives_PointF_SixLabors_Primitives_PointF_SixLabors_Primitives_PointF___System_Int32_
+  href: imagesharp/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_FindIntersections_SixLabors_Primitives_PointF_SixLabors_Primitives_PointF_SixLabors_Primitives_PointF___System_Int32_
   commentId: M:EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.FindIntersections(SixLabors.Primitives.PointF,SixLabors.Primitives.PointF,SixLabors.Primitives.PointF[],System.Int32)
   name.vb: FindIntersections(PointF, PointF, PointF(), Int32)
   fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.FindIntersections(SixLabors.Primitives.PointF, SixLabors.Primitives.PointF, SixLabors.Primitives.PointF[], System.Int32)
@@ -2210,7 +2210,7 @@ references:
   nameWithType.vb: RoundedRect.FindIntersections(PointF, PointF, PointF(), Int32)
 - uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.FindIntersections(SixLabors.Primitives.PointF,SixLabors.Primitives.PointF,System.Span{SixLabors.Primitives.PointF})
   name: FindIntersections(PointF, PointF, Span<PointF>)
-  href: api2/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_FindIntersections_SixLabors_Primitives_PointF_SixLabors_Primitives_PointF_System_Span_SixLabors_Primitives_PointF__
+  href: imagesharp/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_FindIntersections_SixLabors_Primitives_PointF_SixLabors_Primitives_PointF_System_Span_SixLabors_Primitives_PointF__
   commentId: M:EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.FindIntersections(SixLabors.Primitives.PointF,SixLabors.Primitives.PointF,System.Span{SixLabors.Primitives.PointF})
   name.vb: FindIntersections(PointF, PointF, Span(Of PointF))
   fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.FindIntersections(SixLabors.Primitives.PointF, SixLabors.Primitives.PointF, System.Span<SixLabors.Primitives.PointF>)
@@ -2219,105 +2219,105 @@ references:
   nameWithType.vb: RoundedRect.FindIntersections(PointF, PointF, Span(Of PointF))
 - uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.FindIntersections*
   name: FindIntersections
-  href: api2/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_FindIntersections_
+  href: imagesharp/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_FindIntersections_
   commentId: Overload:EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.FindIntersections
   isSpec: "True"
   fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.FindIntersections
   nameWithType: RoundedRect.FindIntersections
 - uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Flatten
   name: Flatten()
-  href: api2/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_Flatten
+  href: imagesharp/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_Flatten
   commentId: M:EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Flatten
   fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Flatten()
   nameWithType: RoundedRect.Flatten()
 - uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Flatten*
   name: Flatten
-  href: api2/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_Flatten_
+  href: imagesharp/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_Flatten_
   commentId: Overload:EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Flatten
   isSpec: "True"
   fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Flatten
   nameWithType: RoundedRect.Flatten
 - uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Length
   name: Length
-  href: api2/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_Length
+  href: imagesharp/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_Length
   commentId: P:EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Length
   fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Length
   nameWithType: RoundedRect.Length
 - uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Length*
   name: Length
-  href: api2/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_Length_
+  href: imagesharp/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_Length_
   commentId: Overload:EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Length
   isSpec: "True"
   fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Length
   nameWithType: RoundedRect.Length
 - uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.MaxIntersections
   name: MaxIntersections
-  href: api2/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_MaxIntersections
+  href: imagesharp/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_MaxIntersections
   commentId: P:EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.MaxIntersections
   fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.MaxIntersections
   nameWithType: RoundedRect.MaxIntersections
 - uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.MaxIntersections*
   name: MaxIntersections
-  href: api2/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_MaxIntersections_
+  href: imagesharp/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_MaxIntersections_
   commentId: Overload:EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.MaxIntersections
   isSpec: "True"
   fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.MaxIntersections
   nameWithType: RoundedRect.MaxIntersections
 - uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.PathType
   name: PathType
-  href: api2/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_PathType
+  href: imagesharp/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_PathType
   commentId: P:EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.PathType
   fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.PathType
   nameWithType: RoundedRect.PathType
 - uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.PathType*
   name: PathType
-  href: api2/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_PathType_
+  href: imagesharp/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_PathType_
   commentId: Overload:EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.PathType
   isSpec: "True"
   fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.PathType
   nameWithType: RoundedRect.PathType
 - uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.PointAlongPath(System.Single)
   name: PointAlongPath(Single)
-  href: api2/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_PointAlongPath_System_Single_
+  href: imagesharp/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_PointAlongPath_System_Single_
   commentId: M:EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.PointAlongPath(System.Single)
   fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.PointAlongPath(System.Single)
   nameWithType: RoundedRect.PointAlongPath(Single)
 - uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.PointAlongPath*
   name: PointAlongPath
-  href: api2/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_PointAlongPath_
+  href: imagesharp/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_PointAlongPath_
   commentId: Overload:EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.PointAlongPath
   isSpec: "True"
   fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.PointAlongPath
   nameWithType: RoundedRect.PointAlongPath
 - uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Transform(System.Numerics.Matrix3x2)
   name: Transform(Matrix3x2)
-  href: api2/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_Transform_System_Numerics_Matrix3x2_
+  href: imagesharp/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_Transform_System_Numerics_Matrix3x2_
   commentId: M:EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Transform(System.Numerics.Matrix3x2)
   fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Transform(System.Numerics.Matrix3x2)
   nameWithType: RoundedRect.Transform(Matrix3x2)
 - uid: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Transform*
   name: Transform
-  href: api2/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_Transform_
+  href: imagesharp/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html#EquinoxLabs_SVGSharpie_ImageSharp_Shapes_RoundedRect_Transform_
   commentId: Overload:EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Transform
   isSpec: "True"
   fullName: EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.Transform
   nameWithType: RoundedRect.Transform
 - uid: EquinoxLabs.SVGSharpie.ImageSharp.SvgImageRenderer
   name: SvgImageRenderer
-  href: api2/EquinoxLabs.SVGSharpie.ImageSharp.SvgImageRenderer.html
+  href: imagesharp/EquinoxLabs.SVGSharpie.ImageSharp.SvgImageRenderer.html
   commentId: T:EquinoxLabs.SVGSharpie.ImageSharp.SvgImageRenderer
   fullName: EquinoxLabs.SVGSharpie.ImageSharp.SvgImageRenderer
   nameWithType: SvgImageRenderer
 - uid: EquinoxLabs.SVGSharpie.ImageSharp.SvgImageRenderer.RenderFromDocument*
   name: RenderFromDocument
-  href: api2/EquinoxLabs.SVGSharpie.ImageSharp.SvgImageRenderer.html#EquinoxLabs_SVGSharpie_ImageSharp_SvgImageRenderer_RenderFromDocument_
+  href: imagesharp/EquinoxLabs.SVGSharpie.ImageSharp.SvgImageRenderer.html#EquinoxLabs_SVGSharpie_ImageSharp_SvgImageRenderer_RenderFromDocument_
   commentId: Overload:EquinoxLabs.SVGSharpie.ImageSharp.SvgImageRenderer.RenderFromDocument
   isSpec: "True"
   fullName: EquinoxLabs.SVGSharpie.ImageSharp.SvgImageRenderer.RenderFromDocument
   nameWithType: SvgImageRenderer.RenderFromDocument
 - uid: EquinoxLabs.SVGSharpie.ImageSharp.SvgImageRenderer.RenderFromDocument``1(EquinoxLabs.SVGSharpie.SvgDocument)
   name: RenderFromDocument<TPixel>(SvgDocument)
-  href: api2/EquinoxLabs.SVGSharpie.ImageSharp.SvgImageRenderer.html#EquinoxLabs_SVGSharpie_ImageSharp_SvgImageRenderer_RenderFromDocument__1_EquinoxLabs_SVGSharpie_SvgDocument_
+  href: imagesharp/EquinoxLabs.SVGSharpie.ImageSharp.SvgImageRenderer.html#EquinoxLabs_SVGSharpie_ImageSharp_SvgImageRenderer_RenderFromDocument__1_EquinoxLabs_SVGSharpie_SvgDocument_
   commentId: M:EquinoxLabs.SVGSharpie.ImageSharp.SvgImageRenderer.RenderFromDocument``1(EquinoxLabs.SVGSharpie.SvgDocument)
   name.vb: RenderFromDocument(Of TPixel)(SvgDocument)
   fullName: EquinoxLabs.SVGSharpie.ImageSharp.SvgImageRenderer.RenderFromDocument<TPixel>(EquinoxLabs.SVGSharpie.SvgDocument)
@@ -2326,7 +2326,7 @@ references:
   nameWithType.vb: SvgImageRenderer.RenderFromDocument(Of TPixel)(SvgDocument)
 - uid: EquinoxLabs.SVGSharpie.ImageSharp.SvgImageRenderer.RenderFromDocument``1(EquinoxLabs.SVGSharpie.SvgDocument,System.Int32,System.Int32)
   name: RenderFromDocument<TPixel>(SvgDocument, Int32, Int32)
-  href: api2/EquinoxLabs.SVGSharpie.ImageSharp.SvgImageRenderer.html#EquinoxLabs_SVGSharpie_ImageSharp_SvgImageRenderer_RenderFromDocument__1_EquinoxLabs_SVGSharpie_SvgDocument_System_Int32_System_Int32_
+  href: imagesharp/EquinoxLabs.SVGSharpie.ImageSharp.SvgImageRenderer.html#EquinoxLabs_SVGSharpie_ImageSharp_SvgImageRenderer_RenderFromDocument__1_EquinoxLabs_SVGSharpie_SvgDocument_System_Int32_System_Int32_
   commentId: M:EquinoxLabs.SVGSharpie.ImageSharp.SvgImageRenderer.RenderFromDocument``1(EquinoxLabs.SVGSharpie.SvgDocument,System.Int32,System.Int32)
   name.vb: RenderFromDocument(Of TPixel)(SvgDocument, Int32, Int32)
   fullName: EquinoxLabs.SVGSharpie.ImageSharp.SvgImageRenderer.RenderFromDocument<TPixel>(EquinoxLabs.SVGSharpie.SvgDocument, System.Int32, System.Int32)
@@ -2335,14 +2335,14 @@ references:
   nameWithType.vb: SvgImageRenderer.RenderFromDocument(Of TPixel)(SvgDocument, Int32, Int32)
 - uid: EquinoxLabs.SVGSharpie.ImageSharp.SvgImageRenderer.RenderFromString*
   name: RenderFromString
-  href: api2/EquinoxLabs.SVGSharpie.ImageSharp.SvgImageRenderer.html#EquinoxLabs_SVGSharpie_ImageSharp_SvgImageRenderer_RenderFromString_
+  href: imagesharp/EquinoxLabs.SVGSharpie.ImageSharp.SvgImageRenderer.html#EquinoxLabs_SVGSharpie_ImageSharp_SvgImageRenderer_RenderFromString_
   commentId: Overload:EquinoxLabs.SVGSharpie.ImageSharp.SvgImageRenderer.RenderFromString
   isSpec: "True"
   fullName: EquinoxLabs.SVGSharpie.ImageSharp.SvgImageRenderer.RenderFromString
   nameWithType: SvgImageRenderer.RenderFromString
 - uid: EquinoxLabs.SVGSharpie.ImageSharp.SvgImageRenderer.RenderFromString``1(System.String)
   name: RenderFromString<TPixel>(String)
-  href: api2/EquinoxLabs.SVGSharpie.ImageSharp.SvgImageRenderer.html#EquinoxLabs_SVGSharpie_ImageSharp_SvgImageRenderer_RenderFromString__1_System_String_
+  href: imagesharp/EquinoxLabs.SVGSharpie.ImageSharp.SvgImageRenderer.html#EquinoxLabs_SVGSharpie_ImageSharp_SvgImageRenderer_RenderFromString__1_System_String_
   commentId: M:EquinoxLabs.SVGSharpie.ImageSharp.SvgImageRenderer.RenderFromString``1(System.String)
   name.vb: RenderFromString(Of TPixel)(String)
   fullName: EquinoxLabs.SVGSharpie.ImageSharp.SvgImageRenderer.RenderFromString<TPixel>(System.String)
@@ -2351,7 +2351,7 @@ references:
   nameWithType.vb: SvgImageRenderer.RenderFromString(Of TPixel)(String)
 - uid: EquinoxLabs.SVGSharpie.ImageSharp.SvgImageRenderer.RenderFromString``1(System.String,System.Int32,System.Int32)
   name: RenderFromString<TPixel>(String, Int32, Int32)
-  href: api2/EquinoxLabs.SVGSharpie.ImageSharp.SvgImageRenderer.html#EquinoxLabs_SVGSharpie_ImageSharp_SvgImageRenderer_RenderFromString__1_System_String_System_Int32_System_Int32_
+  href: imagesharp/EquinoxLabs.SVGSharpie.ImageSharp.SvgImageRenderer.html#EquinoxLabs_SVGSharpie_ImageSharp_SvgImageRenderer_RenderFromString__1_System_String_System_Int32_System_Int32_
   commentId: M:EquinoxLabs.SVGSharpie.ImageSharp.SvgImageRenderer.RenderFromString``1(System.String,System.Int32,System.Int32)
   name.vb: RenderFromString(Of TPixel)(String, Int32, Int32)
   fullName: EquinoxLabs.SVGSharpie.ImageSharp.SvgImageRenderer.RenderFromString<TPixel>(System.String, System.Int32, System.Int32)
