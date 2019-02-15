@@ -5,1710 +5,6 @@
   "files": [
     {
       "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssAttributeSelector.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssAttributeSelector.html",
-          "hash": "vRBfNhNYFZ1pBxRzSQQUbQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssAttributeSelectorOperation.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssAttributeSelectorOperation.html",
-          "hash": "SsfoWZ7kkKX+bb2GdTfrlQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssAttributeSelectorValueType.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssAttributeSelectorValueType.html",
-          "hash": "6fDrxnPDwfO1y7Nj73e1yQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssCombinatorType.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssCombinatorType.html",
-          "hash": "sGGi3iX4BsSsvHbu8zsmxg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssComplexSelector.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssComplexSelector.html",
-          "hash": "qHeV5fonPG/L5NMaXFYySw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssComplexSelectorItem.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssComplexSelectorItem.html",
-          "hash": "2GUpl+yECvUbyImdXyU/lQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssCompoundSelector.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssCompoundSelector.html",
-          "hash": "hU4RloWojULIpWihTUappA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssFunctionalPseudoClass.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssFunctionalPseudoClass.html",
-          "hash": "BMtHj065VJ72Z183Ui9JWA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssFunctionalPseudoClassType.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssFunctionalPseudoClassType.html",
-          "hash": "hNUq682K2v4eegwuhMDGqg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssInputPseudoClassType.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssInputPseudoClassType.html",
-          "hash": "7uASHRWqCt2MvVQxFP4AxQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssParserException.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssParserException.html",
-          "hash": "sh4w7daSygOkHAYAhK0pnA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssPseudoClass.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssPseudoClass.html",
-          "hash": "ms9giolCGNuLWFGByFhc7A=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssPseudoClassType.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssPseudoClassType.html",
-          "hash": "qrRZbtD7iS4030aL8Jv37Q=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssQualifiedName.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssQualifiedName.html",
-          "hash": "13mm3TFefWeHCYlxN6iTuQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssSelector.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssSelector.html",
-          "hash": "H+rRcyonLTZBweyEcU1t+g=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssSelectorList.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssSelectorList.html",
-          "hash": "QZbhS6FVu0zVPtZlDCmRHw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssSelectorType.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssSelectorType.html",
-          "hash": "dUuab5BgmBqCt9dHnvKqKA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssSelectorVisitor-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssSelectorVisitor-1.html",
-          "hash": "lhuzvQkejddWdneBDT/ddA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssSelectorVisitor.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssSelectorVisitor.html",
-          "hash": "mwvNiWOQo4UcAPhSlwvO1Q=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssSimpleSelector.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssSimpleSelector.html",
-          "hash": "56kvHObU9J0hHZwEBHTphA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssSimpleSelectorType.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssSimpleSelectorType.html",
-          "hash": "ULfalUR0OBSdtzGYmGjAug=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssSpecificity.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssSpecificity.html",
-          "hash": "hSE3UR4w4QK3hDvyq9OWVA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssStructuralPseudoClass.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssStructuralPseudoClass.html",
-          "hash": "AJebqZLAxTxZSGLA72tJJw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssStructuralPseudoClassType.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssStructuralPseudoClassType.html",
-          "hash": "Mm4Shpy8ejITDnXLe/XAaQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssStylePropertyValue.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssStylePropertyValue.html",
-          "hash": "kAg11FFNgPJVDRlOygH4wA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssStyleRule.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssStyleRule.html",
-          "hash": "IwCyfqHP5k6FQ6NvRKlE6g=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssStyleRulesList.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssStyleRulesList.html",
-          "hash": "Oom6gf3aKhBtMn9mw63yTg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssUserActionPseudoClass.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssUserActionPseudoClass.html",
-          "hash": "y1p4+UKFZD114mCM4MbqFQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssUserActionPseudoClassType.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.Css.CssUserActionPseudoClassType.html",
-          "hash": "Nb3fXIC0NSjotREWCQE2ww=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.Css.ICssSelector.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.Css.ICssSelector.html",
-          "hash": "PnuAI6X+bI/QHdo/5ud5cw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.Css.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.Css.html",
-          "hash": "j6RNT/xQaeRp4vaDH5zxEw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.CssDisplayType.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.CssDisplayType.html",
-          "hash": "W0BNVKOdsVtDuqAnFrNyOA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.CssTextAnchorType.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.CssTextAnchorType.html",
-          "hash": "WgTMLXkmflxz2u1o5M6Xjw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.CssVisibilityType.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.CssVisibilityType.html",
-          "hash": "Fhk4CBHIr2dKjK6kIXKQxQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.ISvgElementComputedStyle.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.ISvgElementComputedStyle.html",
-          "hash": "dp0DjOmu8g0GUfFX89eL8A=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.ISvgFitToViewbox.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.ISvgFitToViewbox.html",
-          "hash": "UE976tT6OYUYo76daeySkQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.ISvgPathSegCurve1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.ISvgPathSegCurve1.html",
-          "hash": "es/voJRNoZxrF5XHj478Hw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.ISvgPathSegCurve2.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.ISvgPathSegCurve2.html",
-          "hash": "pnEkOzHFbliayeJufTLZIw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.StyleProperty-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.StyleProperty-1.html",
-          "hash": "woJgjWDJDsa5ilJlI7OGnA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.StyleProperty.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.StyleProperty.html",
-          "hash": "o6UV/UjQnJ1/sNH+ZzUBlw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgCircleElement.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgCircleElement.html",
-          "hash": "xzozFqjRa1T2PBguJKdIfA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgClipPathElement.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgClipPathElement.html",
-          "hash": "qE/WKxpB44DAYcwBLAXxLQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgColor.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgColor.html",
-          "hash": "Wwknz/CktmE2P9DuUJ2ROQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgColorTranslator.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgColorTranslator.html",
-          "hash": "tblwAMpkaHlEqF50zxHJ2g=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgDefsElement.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgDefsElement.html",
-          "hash": "6AUhSqCzsYze4a9kaK25Lw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgDescElement.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgDescElement.html",
-          "hash": "5UahdZ7BYOurcaHlbjQsYg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgDocument.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgDocument.html",
-          "hash": "2w0DFaFOrFgeJ/NLSxp0Jg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgElement.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgElement.html",
-          "hash": "6FJSyts/HEJ5JxFrgpl8Hg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgElementComputedStyle.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgElementComputedStyle.html",
-          "hash": "XFAWUr/18aCQjJ9uEy9o1g=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgElementDefaultStyle.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgElementDefaultStyle.html",
-          "hash": "XLddfaBRxuCMdySBp7/mnA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgElementList-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgElementList-1.html",
-          "hash": "KNzWwo7lCbOUscbzmCg7RQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgElementList.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgElementList.html",
-          "hash": "Pjxe8+PPVncG1ls+11yaHw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgElementStyleData.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgElementStyleData.html",
-          "hash": "VWag2uWRVpHGNBHoph6xXQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgElementVisitor-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgElementVisitor-1.html",
-          "hash": "YB7rfElh65xA9hoX9WEqvQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgElementVisitor.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgElementVisitor.html",
-          "hash": "o/qzom+F5bL7HU9IGXKFwA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgElementWalker.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgElementWalker.html",
-          "hash": "rTuZy3WOC4iK3NHetKJJtQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgEllipseElement.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgEllipseElement.html",
-          "hash": "kqWf7k9cXSciCZ+qca4uzw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgFillRule.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgFillRule.html",
-          "hash": "Kj7xvNli7cBivPn6POZidg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgFilterElement.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgFilterElement.html",
-          "hash": "/UvjhQZraBJh8Qd3Ap8/YQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgFitToViewboxExtensions.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgFitToViewboxExtensions.html",
-          "hash": "IoqjaiumppLHLk5TYDJx8A=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgFuncIRI.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgFuncIRI.html",
-          "hash": "eYeNTgcYTlnOANRLJDgV7Q=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgGElement.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgGElement.html",
-          "hash": "5bRizCrZkc7AjhpaqGQO0Q=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgGeometryElement.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgGeometryElement.html",
-          "hash": "VKtu2STPfiKDDD2rtOLWwg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgGradientElement.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgGradientElement.html",
-          "hash": "gCMO6ntMQaJY36Sq4gmG0A=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgGradientPaintServer.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgGradientPaintServer.html",
-          "hash": "eK1+9GRzs9lgPYuUPgy5FQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgGradientPaintServerColorStop.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgGradientPaintServerColorStop.html",
-          "hash": "If/TPm2uO862ohqIcH12tw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgGradientSpreadMethod.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgGradientSpreadMethod.html",
-          "hash": "Z6jTh2VtOjwMThqkji1dew=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgGraphicsElement.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgGraphicsElement.html",
-          "hash": "jeevfJdRM71BaqI4PklcLA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgInlineTextSpanElement.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgInlineTextSpanElement.html",
-          "hash": "O/82Og9p7qWcAfj0SHZV2A=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgLength.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgLength.html",
-          "hash": "8vvVEG7E4nj3QhItmJSBQA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgLengthType.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgLengthType.html",
-          "hash": "+tX1FMBUDecAJLroKCx1Qg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgLineElement.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgLineElement.html",
-          "hash": "PQPyDQatCsKvfN9oT7g1EQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgLinearGradientElement.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgLinearGradientElement.html",
-          "hash": "a2aJDCmJ1m6e79/8h2hALg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgLinearGradientPaintServer.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgLinearGradientPaintServer.html",
-          "hash": "fFKwS+O22UGyYgs+46mU0w=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgMaskElement.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgMaskElement.html",
-          "hash": "O19qTI9/HXIcVmnWVqCCxA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgMatrix.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgMatrix.html",
-          "hash": "gLQTQHYbljJfTkmC5SRAPg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPaint.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPaint.html",
-          "hash": "V2R/qWomEDMAiMOrCdoQaA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPaintServer.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPaintServer.html",
-          "hash": "H+89/6S6jga9zWa2kfxgfw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPaintServerType.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPaintServerType.html",
-          "hash": "3fW4llwzKXNaDHI1vdsZug=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPaintServerVisitor-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPaintServerVisitor-1.html",
-          "hash": "udKZ+kwkNxYDdLS2iSd/pw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPaintServerVisitor.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPaintServerVisitor.html",
-          "hash": "MPZ38N5XmBKAChrgjnT50g=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPaintType.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPaintType.html",
-          "hash": "gCqlEfF1GrBhWZqFkoCE4Q=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPathElement.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPathElement.html",
-          "hash": "Rl6eKfYhbMjcAuZUlI7mrQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPathSeg.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPathSeg.html",
-          "hash": "6QDX4bu3b48e8Bd9ms3GBQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPathSegArcAbs.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPathSegArcAbs.html",
-          "hash": "bljaGKIUBrDMtjvbpHXPyw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPathSegArcRel.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPathSegArcRel.html",
-          "hash": "TZwbTo0RC7WjU6mxbWbLhg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPathSegClosePath.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPathSegClosePath.html",
-          "hash": "fcrFm2thF50nGxgDeKuNOQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoCubicAbs.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoCubicAbs.html",
-          "hash": "YbGAWoctKphi/Cjfqg943g=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoCubicRel.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoCubicRel.html",
-          "hash": "t/ZnMDfSFW50v8a5q8SEnw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoCubicSmoothAbs.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoCubicSmoothAbs.html",
-          "hash": "P6TIu6Ea922xPO4mzKos9w=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoCubicSmoothRel.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoCubicSmoothRel.html",
-          "hash": "72d7tExCNc20dhTuF7p54w=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoQuadraticAbs.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoQuadraticAbs.html",
-          "hash": "zOGJ6A8kD0JYHCl6genn6w=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoQuadraticRel.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoQuadraticRel.html",
-          "hash": "uTivOr7Eskw9xrkE6vjLKw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoQuadraticSmoothAbs.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoQuadraticSmoothAbs.html",
-          "hash": "mfAZ50lEXemFF7qmDl7vFw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoQuadraticSmoothRel.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoQuadraticSmoothRel.html",
-          "hash": "SguSPU1F5ps55G8MDYLorQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPathSegLinetoAbs.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPathSegLinetoAbs.html",
-          "hash": "hK8Q5iIjrlBWnojs6yrUng=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPathSegLinetoHorizontalAbs.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPathSegLinetoHorizontalAbs.html",
-          "hash": "1qu8swjKRNkHrHb8omRmRw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPathSegLinetoHorizontalRel.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPathSegLinetoHorizontalRel.html",
-          "hash": "UL1qbF4DOVoy32NAa2tqow=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPathSegLinetoRel.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPathSegLinetoRel.html",
-          "hash": "LLsXWMZg6RlEk77jZM8zTQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPathSegLinetoVerticalAbs.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPathSegLinetoVerticalAbs.html",
-          "hash": "ZiYtEAjy8c8xG9nNihgQ+g=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPathSegLinetoVerticalRel.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPathSegLinetoVerticalRel.html",
-          "hash": "SoB9Tb1HwpbVU8UWtviUBw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPathSegList.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPathSegList.html",
-          "hash": "IXaFTk1854WwMP6NQSR4Xg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPathSegListExtensions.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPathSegListExtensions.html",
-          "hash": "RPfX1NJkDT63H50bAYprbA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPathSegListTransformer.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPathSegListTransformer.html",
-          "hash": "l/k4tAhS1JfbHq+Gp7uppw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPathSegMovetoAbs.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPathSegMovetoAbs.html",
-          "hash": "yKh/q+ompmkmyH6Gn1arwQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPathSegMovetoRel.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPathSegMovetoRel.html",
-          "hash": "BlhYGWFE80nNq0Lq6c2BEg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPathSegType.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPathSegType.html",
-          "hash": "IJjp+qejNNGsK/xMSBqK3w=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPathSegVisitor-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPathSegVisitor-1.html",
-          "hash": "NcgEM+U1Jqhb6wqRD7TytQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPathSegVisitor.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPathSegVisitor.html",
-          "hash": "MloMQMeS+pZX27Z3VGObMg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPatternElement.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPatternElement.html",
-          "hash": "xko5OpFUuKPfxJw0OcezMw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPolyPoint.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPolyPoint.html",
-          "hash": "I0zwl9WNahsAJhiaISB8mA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPolyPointList.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPolyPointList.html",
-          "hash": "G9pe/00q+ktrV5vpCVnRBA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPolygonElement.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPolygonElement.html",
-          "hash": "RazEoarhG+odHwsbeq5DRA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPolylineElement.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPolylineElement.html",
-          "hash": "dVU3le0ye+VB7vf+UJvI1A=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPreserveAspectRatio.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPreserveAspectRatio.html",
-          "hash": "zP8qn98SlGU39u3gSNNF4w=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPreserveAspectRatioAlign.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPreserveAspectRatioAlign.html",
-          "hash": "ZNIRcAQOiEZ3xACGZLE3vg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPreserveAspectRatioMeetOrSlice.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgPreserveAspectRatioMeetOrSlice.html",
-          "hash": "gg0dT8PxoWhf75dnVg58cQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgRadialGradientElement.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgRadialGradientElement.html",
-          "hash": "7ZWVt6VKhG5Biysnxc/O4w=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgRadialGradientPaintServer.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgRadialGradientPaintServer.html",
-          "hash": "d2YPyWy5/9sDXuhS1RKEXA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgRect.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgRect.html",
-          "hash": "o0EqfYPwXiSkleooDQsd3g=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgRectElement.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgRectElement.html",
-          "hash": "UDX3TSvZE2aeidRo9oC3lQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgSolidColorPaintServer.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgSolidColorPaintServer.html",
-          "hash": "ASG3zmrn5JA0EZvubM3YkQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgStopElement.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgStopElement.html",
-          "hash": "ui8cozBI/fqsahYlPofolg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgStopElementList.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgStopElementList.html",
-          "hash": "Iv8hZynzT8Fr9oB7tiqmxQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgStrokeLineCap.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgStrokeLineCap.html",
-          "hash": "G9R1GSReGh765nMJSsd+MA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgStrokeLineJoin.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgStrokeLineJoin.html",
-          "hash": "8EM5UuaAeq0PmukPn3td+Q=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgStructuralGraphicsElement.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgStructuralGraphicsElement.html",
-          "hash": "XRjOsNbaRCXekdE6uYYVag=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgStyleElement.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgStyleElement.html",
-          "hash": "nJpvHK4ZZpLMpYyjI/kbDA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgStyleRule.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgStyleRule.html",
-          "hash": "mRMNNaVFr5O6SwNoVt/ZFw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgSvgElement.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgSvgElement.html",
-          "hash": "7kQ3Jn9sXcLfvR1UzWldFA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgSymbolElement.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgSymbolElement.html",
-          "hash": "3pEMgxivzh81aRDnnPaQdg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgTextElement.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgTextElement.html",
-          "hash": "Mv8NaHUnUQFEb+jUE5lP6Q=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgTextPathElement.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgTextPathElement.html",
-          "hash": "UVKIR31+ETok/3JQTVAGCQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgTextSpanElement.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgTextSpanElement.html",
-          "hash": "LKw2tej5Y4VBnlNDF0h74Q=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgTitleElement.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgTitleElement.html",
-          "hash": "zTI8XfBJylz6T+M6nOGUbA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgTransform.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgTransform.html",
-          "hash": "azne/XhWQrTfdC5fJo4IpQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgTransformList.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgTransformList.html",
-          "hash": "+WvHOYM6MQIJBE4sugzb/g=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgTransformType.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgTransformType.html",
-          "hash": "axiLbHUJUAd//GoAqvjsuw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgUnitTypes.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgUnitTypes.html",
-          "hash": "TaSK+skz76/cxDo/+/x0dw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.SvgUseElement.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.SvgUseElement.html",
-          "hash": "6H7o9nZtxdt5jaqxw54MvQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api1/EquinoxLabs.SVGSharpie.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api1/EquinoxLabs.SVGSharpie.html",
-          "hash": "7dD8BXkFFQA0SpjsUPhGCA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "api1/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "api1/index.html",
-          "hash": "H2vn9+01i/WyrrFbQeYP/g=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api2/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.yml",
       "output": {
         ".html": {
@@ -1749,7 +45,7 @@
       "output": {
         ".html": {
           "relative_path": "api2/EquinoxLabs.SVGSharpie.ImageSharp.SvgImageRenderer.html",
-          "hash": "qE0bN3vOuNbIjineQUzC1A=="
+          "hash": "zGyF6dvPVPZkDj9/PSNrrw=="
         }
       },
       "is_incremental": false,
@@ -1785,7 +81,7 @@
       "output": {
         ".html": {
           "relative_path": "fusion/toc.html",
-          "hash": "OB3kLWRy6CYtJBHtoTsyqA=="
+          "hash": "NijL0mkYOf/ODy90Md4kGw=="
         }
       },
       "is_incremental": false,
@@ -1797,7 +93,1711 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "0q8GFeQzNjCVgzNk5tP9Og=="
+          "hash": "6shElUCKADAOM8LJn562QQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssAttributeSelector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssAttributeSelector.html",
+          "hash": "UmPIoo5sXBa04SYEVPHUhQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssAttributeSelectorOperation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssAttributeSelectorOperation.html",
+          "hash": "VngLF+QRZRlKrG4CaSuonA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssAttributeSelectorValueType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssAttributeSelectorValueType.html",
+          "hash": "fBPbgQMHSFdkVysSOLB2hg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssCombinatorType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssCombinatorType.html",
+          "hash": "0cHKmsBkPyEZc8WEza63lQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssComplexSelector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssComplexSelector.html",
+          "hash": "443I1JspDIMJSyv6x/kbWw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssComplexSelectorItem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssComplexSelectorItem.html",
+          "hash": "AzU0vo49MaBN0JBJB5HPiQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssCompoundSelector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssCompoundSelector.html",
+          "hash": "hQ+vrbknX1Xqp6Tl4sQxZg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssFunctionalPseudoClass.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssFunctionalPseudoClass.html",
+          "hash": "U4fSk/ChOkGXQ93ANcGr6A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssFunctionalPseudoClassType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssFunctionalPseudoClassType.html",
+          "hash": "B9q8hesxGg5+4trpeLxZhg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssInputPseudoClassType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssInputPseudoClassType.html",
+          "hash": "7uASHRWqCt2MvVQxFP4AxQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssParserException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssParserException.html",
+          "hash": "sh4w7daSygOkHAYAhK0pnA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssPseudoClass.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssPseudoClass.html",
+          "hash": "ms9giolCGNuLWFGByFhc7A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssPseudoClassType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssPseudoClassType.html",
+          "hash": "qrRZbtD7iS4030aL8Jv37Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssQualifiedName.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssQualifiedName.html",
+          "hash": "ySQvzZhR9hvbwWHAC63RCg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssSelector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssSelector.html",
+          "hash": "5zhZDWGJAJd1oGpBFrzA5w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssSelectorList.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssSelectorList.html",
+          "hash": "gY/o7CQNQhA1FVgQogEzQg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssSelectorType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssSelectorType.html",
+          "hash": "dUuab5BgmBqCt9dHnvKqKA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssSelectorVisitor-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssSelectorVisitor-1.html",
+          "hash": "lhuzvQkejddWdneBDT/ddA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssSelectorVisitor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssSelectorVisitor.html",
+          "hash": "mwvNiWOQo4UcAPhSlwvO1Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssSimpleSelector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssSimpleSelector.html",
+          "hash": "XkqSfgh4TTUfyOj6Hjqoyg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssSimpleSelectorType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssSimpleSelectorType.html",
+          "hash": "aESQTkW+nsKHrxkYz3LTtQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssSpecificity.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssSpecificity.html",
+          "hash": "sndWpPjfcfI/b49EdAYuZg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssStructuralPseudoClass.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssStructuralPseudoClass.html",
+          "hash": "iec1nbxu98U9A/vkHHnb+g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssStructuralPseudoClassType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssStructuralPseudoClassType.html",
+          "hash": "Mm4Shpy8ejITDnXLe/XAaQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssStylePropertyValue.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssStylePropertyValue.html",
+          "hash": "3Wgru53M2ndQGpxySDCJUA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssStyleRule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssStyleRule.html",
+          "hash": "2ZAZI7DjXurEldwUkk/acw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssStyleRulesList.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssStyleRulesList.html",
+          "hash": "Oom6gf3aKhBtMn9mw63yTg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssUserActionPseudoClass.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssUserActionPseudoClass.html",
+          "hash": "QMsX0QiBJactrTtujidJaw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssUserActionPseudoClassType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.CssUserActionPseudoClassType.html",
+          "hash": "Nb3fXIC0NSjotREWCQE2ww=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.ICssSelector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.ICssSelector.html",
+          "hash": "NQj+DaQewwx+Bl74A0B7Fg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.Css.html",
+          "hash": "8ZvW6wBHtmrQYkHBzPWF3w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.CssDisplayType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.CssDisplayType.html",
+          "hash": "rPV1MD8fJZCJTJ55OFJ4cg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.CssTextAnchorType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.CssTextAnchorType.html",
+          "hash": "EAO0J5o7+QHfqj3MPItG8A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.CssVisibilityType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.CssVisibilityType.html",
+          "hash": "BTSAOReon9lVBKLArwwUyQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.ISvgElementComputedStyle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.ISvgElementComputedStyle.html",
+          "hash": "/zTTgy0J4u24QLa9ibyUpQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.ISvgFitToViewbox.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.ISvgFitToViewbox.html",
+          "hash": "bXFP7TpcXFQhsF6+jaNjBw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.ISvgPathSegCurve1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.ISvgPathSegCurve1.html",
+          "hash": "Rgi90f/v5n5T1Gsss9gPtg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.ISvgPathSegCurve2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.ISvgPathSegCurve2.html",
+          "hash": "iW0/j2fF+DMC9NedRJ2Zpg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.StyleProperty-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.StyleProperty-1.html",
+          "hash": "woJgjWDJDsa5ilJlI7OGnA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.StyleProperty.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.StyleProperty.html",
+          "hash": "o6UV/UjQnJ1/sNH+ZzUBlw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgCircleElement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgCircleElement.html",
+          "hash": "2soSEi5KvbyWLEdh7L8RUA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgClipPathElement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgClipPathElement.html",
+          "hash": "FwHoK7Q+O3TtalwvHpFHoA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgColor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgColor.html",
+          "hash": "Wwknz/CktmE2P9DuUJ2ROQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgColorTranslator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgColorTranslator.html",
+          "hash": "tblwAMpkaHlEqF50zxHJ2g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgDefsElement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgDefsElement.html",
+          "hash": "5/fniC5Ujjeeg/Srj58fyQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgDescElement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgDescElement.html",
+          "hash": "pelp0/keNxJzda5qVdbEXg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgDocument.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgDocument.html",
+          "hash": "J+VzhcODqIr5ZInEuqlzJg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgElement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgElement.html",
+          "hash": "xuQxgAh0M3n93lyae75G1g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgElementComputedStyle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgElementComputedStyle.html",
+          "hash": "8N1uLrcnrOkBUYlYTIWOAQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgElementDefaultStyle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgElementDefaultStyle.html",
+          "hash": "Jcljui0fsqP8aMV4uZFl/Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgElementList-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgElementList-1.html",
+          "hash": "JO/oXQyps4Y3f1+aKH3W2A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgElementList.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgElementList.html",
+          "hash": "g16BgHaR60bGrk661cFWhw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgElementStyleData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgElementStyleData.html",
+          "hash": "ZjWp9EhFVjxPiH0XFIHePg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgElementVisitor-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgElementVisitor-1.html",
+          "hash": "/C/I3dxxah4IV1aPRx/faw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgElementVisitor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgElementVisitor.html",
+          "hash": "jAxpJY4uGvb5TH13Cypiqw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgElementWalker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgElementWalker.html",
+          "hash": "6dQwF6tw9srvVKwIKCtEIw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgEllipseElement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgEllipseElement.html",
+          "hash": "4Q/nCSYLCYirLF73Rf2Vww=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgFillRule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgFillRule.html",
+          "hash": "9FR8kt3UQwB/cHoBIAj5hg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgFilterElement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgFilterElement.html",
+          "hash": "N4F+ofIY7Z0CULdhwuIYjQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgFitToViewboxExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgFitToViewboxExtensions.html",
+          "hash": "FVs+J+NegxvK7kDu3lbMOQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgFuncIRI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgFuncIRI.html",
+          "hash": "JnOx5BVxKaR9XQOR2JYEjQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgGElement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgGElement.html",
+          "hash": "rvMjjCgP+82xtHx5vBdICw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgGeometryElement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgGeometryElement.html",
+          "hash": "g3e8NEx6mD6CvSB1EppZfw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgGradientElement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgGradientElement.html",
+          "hash": "C+xhi+FWM+ypgHWeSKPStA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgGradientPaintServer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgGradientPaintServer.html",
+          "hash": "ozRiZbdhWgQj1Ckb11OabQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgGradientPaintServerColorStop.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgGradientPaintServerColorStop.html",
+          "hash": "P13LwYW0s40xRDNXGvYeKA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgGradientSpreadMethod.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgGradientSpreadMethod.html",
+          "hash": "GUTCK4tRR7PThHA8TPIOTQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgGraphicsElement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgGraphicsElement.html",
+          "hash": "HYmX/QVSHOUvSoS9VlP3Gg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgInlineTextSpanElement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgInlineTextSpanElement.html",
+          "hash": "fFbMABnnhLyhf8+Om8x9rA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgLength.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgLength.html",
+          "hash": "ZHoHkosE5hZmeAhmaUreng=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgLengthType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgLengthType.html",
+          "hash": "HXRs97oQPRkuNCGjRSXwPA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgLineElement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgLineElement.html",
+          "hash": "y2aGNrYD48FK1PpJCOB5Jw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgLinearGradientElement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgLinearGradientElement.html",
+          "hash": "zCHwnlhnW5shTgIhEBLpjQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgLinearGradientPaintServer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgLinearGradientPaintServer.html",
+          "hash": "m+KC2itmfzdN5+lHDx489w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgMaskElement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgMaskElement.html",
+          "hash": "vUmCe41TwNv6GMv/2cBp8A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgMatrix.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgMatrix.html",
+          "hash": "UWxt8QfDG05ebYyuYMB+ng=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPaint.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPaint.html",
+          "hash": "AEHr36w46MjppTEXVR1pAg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPaintServer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPaintServer.html",
+          "hash": "9RmHFjfuN8yN3SJyh05KfA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPaintServerType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPaintServerType.html",
+          "hash": "3fW4llwzKXNaDHI1vdsZug=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPaintServerVisitor-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPaintServerVisitor-1.html",
+          "hash": "gP8y+J2lkt7nhuQ976/ZUw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPaintServerVisitor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPaintServerVisitor.html",
+          "hash": "x5u6aOk/BSw/ocpEd7yv0Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPaintType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPaintType.html",
+          "hash": "QT+cnvhidwlykaDxF4F1fg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPathElement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPathElement.html",
+          "hash": "YrG+0EKPNdKOyELluy/k5w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPathSeg.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPathSeg.html",
+          "hash": "UUOiioKqWhGbQWCz2luTUQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPathSegArcAbs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPathSegArcAbs.html",
+          "hash": "eUOnXVi8SMqt0ZqeJnmUmw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPathSegArcRel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPathSegArcRel.html",
+          "hash": "oGvc2rgrrZBxgvBfQmjX2w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPathSegClosePath.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPathSegClosePath.html",
+          "hash": "hEGp+fWTMazInveXxtTmEg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoCubicAbs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoCubicAbs.html",
+          "hash": "TSixJENoFPiBUSMztlenGg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoCubicRel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoCubicRel.html",
+          "hash": "u8diHERAacbCOFWeKYxULw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoCubicSmoothAbs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoCubicSmoothAbs.html",
+          "hash": "LQgdOX79+KIM3JFNlbfLCw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoCubicSmoothRel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoCubicSmoothRel.html",
+          "hash": "tzxj8FfyU2yJBOKpsC/rbw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoQuadraticAbs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoQuadraticAbs.html",
+          "hash": "Ma4ndwFbc5Vqiv41v4uWCg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoQuadraticRel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoQuadraticRel.html",
+          "hash": "/gd6TwtR08qUVy8WzXsxsg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoQuadraticSmoothAbs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoQuadraticSmoothAbs.html",
+          "hash": "VVMDWubqWBCIAdZmIDNlkQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoQuadraticSmoothRel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoQuadraticSmoothRel.html",
+          "hash": "jrp7WdpSd1nDeVc4AtMC8w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPathSegLinetoAbs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPathSegLinetoAbs.html",
+          "hash": "M9fxIhyVYAP2lx9ToTszIQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPathSegLinetoHorizontalAbs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPathSegLinetoHorizontalAbs.html",
+          "hash": "GN2s5fWYP5bZrrWKnK33lA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPathSegLinetoHorizontalRel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPathSegLinetoHorizontalRel.html",
+          "hash": "ZlSchkizTM+L+rlJKUKcyg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPathSegLinetoRel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPathSegLinetoRel.html",
+          "hash": "iZGKDBPkG8xyZHKyKq7woA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPathSegLinetoVerticalAbs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPathSegLinetoVerticalAbs.html",
+          "hash": "5EeZbIZbjbh6VHco2nIhrQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPathSegLinetoVerticalRel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPathSegLinetoVerticalRel.html",
+          "hash": "MO/PXSf3K+HgOdfe5utMqQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPathSegList.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPathSegList.html",
+          "hash": "t6NPm/ZktPOhWf/l32xy4A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPathSegListExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPathSegListExtensions.html",
+          "hash": "F18Luxwhv26j67Yz0kSHlg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPathSegListTransformer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPathSegListTransformer.html",
+          "hash": "0UmikXwItZCZwDCC5JsdgA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPathSegMovetoAbs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPathSegMovetoAbs.html",
+          "hash": "eTSBemPWKykprFDw+mFvdQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPathSegMovetoRel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPathSegMovetoRel.html",
+          "hash": "CQ+ZbPHYIiDAbcSmqvB5HA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPathSegType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPathSegType.html",
+          "hash": "uUY9xI70oOKQ2A1967/pDg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPathSegVisitor-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPathSegVisitor-1.html",
+          "hash": "vrA7ja+UEJXizuS8PxiXTw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPathSegVisitor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPathSegVisitor.html",
+          "hash": "gmd0asuJXNJLVqYrwWwg8w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPatternElement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPatternElement.html",
+          "hash": "dqeOY3Q9/QSkThwI01PpbQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPolyPoint.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPolyPoint.html",
+          "hash": "tR/9bU9VLyfW1FMHHariUQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPolyPointList.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPolyPointList.html",
+          "hash": "UNxywGUk5trA4ux6wzFS6w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPolygonElement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPolygonElement.html",
+          "hash": "x/Vg8IfxMkR+A8bQw/QAYw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPolylineElement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPolylineElement.html",
+          "hash": "mW78kZ1GCX+eY69FmPaH0Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPreserveAspectRatio.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPreserveAspectRatio.html",
+          "hash": "+PijrsNGqyiL/VG1bKfIGA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPreserveAspectRatioAlign.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPreserveAspectRatioAlign.html",
+          "hash": "pr6yC86+OZ0s4iKZS0KvXw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPreserveAspectRatioMeetOrSlice.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgPreserveAspectRatioMeetOrSlice.html",
+          "hash": "H9zCpwpiP2WJn1QQjSx6JA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgRadialGradientElement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgRadialGradientElement.html",
+          "hash": "aFeroJImjA9xc3KjRQxv1w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgRadialGradientPaintServer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgRadialGradientPaintServer.html",
+          "hash": "UZkp1khyvPuXbRQM7QAI/A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgRect.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgRect.html",
+          "hash": "xsLWc4zd77oPFoQ+AkWPTw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgRectElement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgRectElement.html",
+          "hash": "p9KmBbV6AixooF9+E8vTMQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgSolidColorPaintServer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgSolidColorPaintServer.html",
+          "hash": "XgrsTyIY4TgL1wLK5HdyZw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgStopElement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgStopElement.html",
+          "hash": "ero66OvugOsnw+Jvrf+U2Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgStopElementList.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgStopElementList.html",
+          "hash": "Iv8hZynzT8Fr9oB7tiqmxQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgStrokeLineCap.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgStrokeLineCap.html",
+          "hash": "yGVOylyTWWRx8BVoqhjPCA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgStrokeLineJoin.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgStrokeLineJoin.html",
+          "hash": "8zN8k54mdYw+nav6Rrhz5Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgStructuralGraphicsElement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgStructuralGraphicsElement.html",
+          "hash": "XRjOsNbaRCXekdE6uYYVag=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgStyleElement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgStyleElement.html",
+          "hash": "uZUWK07JjfTTbp9ZkT58cA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgStyleRule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgStyleRule.html",
+          "hash": "12uOXchxgMXfzPRcSiLieg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgSvgElement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgSvgElement.html",
+          "hash": "dVEMGcHM9vmi8wML37JkJw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgSymbolElement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgSymbolElement.html",
+          "hash": "l2jmF4dKBcOJyLtyibnWLQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgTextElement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgTextElement.html",
+          "hash": "CqIMLTNGkVptX3NOZLuEvw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgTextPathElement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgTextPathElement.html",
+          "hash": "rVmiu4rALL7CtCl/MOG7sQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgTextSpanElement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgTextSpanElement.html",
+          "hash": "qNvcff3bVCZJmv2sTBVqdA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgTitleElement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgTitleElement.html",
+          "hash": "rE+hZEXWok7uzdUL0+bEcw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgTransform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgTransform.html",
+          "hash": "imMC2e8mXtr8ZR24vkbt7Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgTransformList.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgTransformList.html",
+          "hash": "+WvHOYM6MQIJBE4sugzb/g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgTransformType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgTransformType.html",
+          "hash": "8Lkq5dBPX6YSk6IQ/Z9feg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgUnitTypes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgUnitTypes.html",
+          "hash": "AavKHPU1Q730GMRqKBzSfg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgUseElement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.SvgUseElement.html",
+          "hash": "yQQZ49I7xRchoiGwDlH0bg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.yml",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/EquinoxLabs.SVGSharpie.html",
+          "hash": "WVV3wo4mr8aYaab4O4Uhig=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "svgsharpie/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "svgsharpie/index.html",
+          "hash": "wO61j9Iz4ZxmrlM5DPOYjw=="
         }
       },
       "is_incremental": false,
@@ -1809,7 +1809,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "zYPswktqgtTs+IfBwFk0Aw=="
+          "hash": "ErFranpAatbC/GugbKS/SQ=="
         }
       },
       "is_incremental": false,
@@ -1827,11 +1827,10 @@
         "full_build_reason_code": "NoAvailableBuildCache"
       },
       "processors": {
-        "TocDocumentProcessor": {
+        "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
-          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build",
-          "total_file_count": 0,
+          "total_file_count": 146,
           "skipped_file_count": 0
         },
         "ConceptualDocumentProcessor": {
@@ -1840,10 +1839,11 @@
           "total_file_count": 3,
           "skipped_file_count": 0
         },
-        "ManagedReferenceDocumentProcessor": {
+        "TocDocumentProcessor": {
           "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build",
-          "total_file_count": 146,
+          "total_file_count": 0,
           "skipped_file_count": 0
         }
       }
