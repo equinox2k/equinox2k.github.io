@@ -5,466 +5,10 @@
   "files": [
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssAttributeSelector.yml",
+      "source_relative_path": "SVGSharpie.ImageSharp/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssAttributeSelector.html",
-          "hash": "RK4l8XcxDZC8JI7F8KdQDw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssAttributeSelectorOperation.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssAttributeSelectorOperation.html",
-          "hash": "x/+OaezTUE+qzE8OcIxwfA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssAttributeSelectorValueType.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssAttributeSelectorValueType.html",
-          "hash": "sa3LKg0pU/ggKgakZIbHpA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssCombinatorType.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssCombinatorType.html",
-          "hash": "GlLgv2PW8umqLBwI2gWs/g=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssComplexSelector.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssComplexSelector.html",
-          "hash": "9ZGp6o0gqjamSvCm0lJmXw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssComplexSelectorItem.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssComplexSelectorItem.html",
-          "hash": "z/py++V8asOQIRA2CbYaWA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssCompoundSelector.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssCompoundSelector.html",
-          "hash": "CLiHAJSH32P6aV68H3sczA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssFunctionalPseudoClass.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssFunctionalPseudoClass.html",
-          "hash": "ksiV01QilU/5suHMTbhFQg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssFunctionalPseudoClassType.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssFunctionalPseudoClassType.html",
-          "hash": "Ayq76PWN724JQAeew+FqPw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssInputPseudoClassType.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssInputPseudoClassType.html",
-          "hash": "NDgPl09bqS+IsoZPRlTsWA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssParserException.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssParserException.html",
-          "hash": "3Zz+x8StAT8DRJusQlsyxg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssPseudoClass.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssPseudoClass.html",
-          "hash": "xyF+LPTnXbFVA9cRzmvy0Q=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssPseudoClassType.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssPseudoClassType.html",
-          "hash": "5vOQfhLViIME3MxHeOPOvA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssQualifiedName.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssQualifiedName.html",
-          "hash": "0k1Q3lvm+VDgS/lMvqlEnw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssSelector.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssSelector.html",
-          "hash": "iXLHekcsISV85/s0gjntpg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssSelectorList.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssSelectorList.html",
-          "hash": "b19yv9jEkLZmg5oZqQJDhg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssSelectorType.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssSelectorType.html",
-          "hash": "piGgAEivuUP02PCVGzT9CA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssSelectorVisitor-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssSelectorVisitor-1.html",
-          "hash": "yWPleOLkHiHKfmGzMTCSxQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssSelectorVisitor.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssSelectorVisitor.html",
-          "hash": "yP0DCeUP3knDaLz5dC3pNg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssSimpleSelector.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssSimpleSelector.html",
-          "hash": "obb9suQaZ8D0dZWAcaLSjw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssSimpleSelectorType.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssSimpleSelectorType.html",
-          "hash": "Z9osVDGKJE0onZX9EBZqMQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssSpecificity.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssSpecificity.html",
-          "hash": "sMRT5akbSv46jE2tE/nebg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssStructuralPseudoClass.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssStructuralPseudoClass.html",
-          "hash": "RbWcH3jYaq3iUF+bxVUOdg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssStructuralPseudoClassType.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssStructuralPseudoClassType.html",
-          "hash": "oijXPzsrsErwpt57An4ejg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssStylePropertyValue.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssStylePropertyValue.html",
-          "hash": "AK7UbUgzqeQyaH3fWZHNng=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssStyleRule.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssStyleRule.html",
-          "hash": "qrJBL79d5ApbmotqjDflvg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssStyleRulesList.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssStyleRulesList.html",
-          "hash": "ParcMnXuNCeURXEAwvK9GQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssUserActionPseudoClass.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssUserActionPseudoClass.html",
-          "hash": "Tjso7V9OZcXsFr1LrFAFcw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssUserActionPseudoClassType.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.Css.CssUserActionPseudoClassType.html",
-          "hash": "uy6uQO3KqDYDm3jUFXfXpQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.Css.ICssSelector.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.Css.ICssSelector.html",
-          "hash": "NlMfJ+mG8PwPCdofKSUSew=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.Css.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.Css.html",
-          "hash": "/61cfl+64/8TIJguGJB2oA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.CssDisplayType.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.CssDisplayType.html",
-          "hash": "SSx+Ju652Sn49RcpB//36g=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.CssTextAnchorType.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.CssTextAnchorType.html",
-          "hash": "wMt4+fp+dsHtrOjVoAbu7w=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.CssVisibilityType.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.CssVisibilityType.html",
-          "hash": "TcNYPC7DKDTpwSATAmg/Zg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.ISvgElementComputedStyle.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.ISvgElementComputedStyle.html",
-          "hash": "YBxEEArd7Itlkd4mVetf6A=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.ISvgFitToViewbox.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.ISvgFitToViewbox.html",
-          "hash": "mevasZHwuqPaVIsua6LjDA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.ISvgPathSegCurve1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.ISvgPathSegCurve1.html",
-          "hash": "MD+sFDWBmGNYhnmI1oFTPQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.ISvgPathSegCurve2.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.ISvgPathSegCurve2.html",
-          "hash": "nA9vvh+bAt94oGyBgHLjTg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.html",
+          "relative_path": "SVGSharpie.ImageSharp/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.ArcLineSegemnt.html",
           "hash": "VyFH6t6BxgBi49B44ACHTA=="
         }
       },
@@ -473,10 +17,10 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.yml",
+      "source_relative_path": "SVGSharpie.ImageSharp/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html",
+          "relative_path": "SVGSharpie.ImageSharp/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.RoundedRect.html",
           "hash": "LLJft1X6kD1CxCZOlJDENw=="
         }
       },
@@ -485,10 +29,10 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.yml",
+      "source_relative_path": "SVGSharpie.ImageSharp/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.html",
+          "relative_path": "SVGSharpie.ImageSharp/EquinoxLabs.SVGSharpie.ImageSharp.Shapes.html",
           "hash": "vko6o7N3Fdnn07EMSXRbMA=="
         }
       },
@@ -497,11 +41,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.ImageSharp.SvgImageRenderer.yml",
+      "source_relative_path": "SVGSharpie.ImageSharp/EquinoxLabs.SVGSharpie.ImageSharp.SvgImageRenderer.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.ImageSharp.SvgImageRenderer.html",
-          "hash": "Cb+WSpy8+o1EtKOspDItxQ=="
+          "relative_path": "SVGSharpie.ImageSharp/EquinoxLabs.SVGSharpie.ImageSharp.SvgImageRenderer.html",
+          "hash": "/hiv7M3cQFwz/DgZP4xRuQ=="
         }
       },
       "is_incremental": false,
@@ -509,11 +53,23 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.ImageSharp.yml",
+      "source_relative_path": "SVGSharpie.ImageSharp/EquinoxLabs.SVGSharpie.ImageSharp.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.ImageSharp.html",
-          "hash": "wxMA2vDrzsayrOFid7TIpQ=="
+          "relative_path": "SVGSharpie.ImageSharp/EquinoxLabs.SVGSharpie.ImageSharp.html",
+          "hash": "V/LpvpsuNMbZyjuqvFqPOA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "SVGSharpie.ImageSharp/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "SVGSharpie.ImageSharp/index.html",
+          "hash": "N/h2H5a6BkDdesDNIN0Igw=="
         }
       },
       "is_incremental": false,
@@ -521,10 +77,466 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.StyleProperty-1.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssAttributeSelector.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.StyleProperty-1.html",
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssAttributeSelector.html",
+          "hash": "GOoBudKPvuYiwwrpGoI1HA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssAttributeSelectorOperation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssAttributeSelectorOperation.html",
+          "hash": "rEut2S5OfMGX9d/uBP4f3Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssAttributeSelectorValueType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssAttributeSelectorValueType.html",
+          "hash": "8SHFVGocl+IP7ORAnK6Tfg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssCombinatorType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssCombinatorType.html",
+          "hash": "eRpkumosZ2UExb9yDBEkqA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssComplexSelector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssComplexSelector.html",
+          "hash": "NDVLrXKz7IQdCqA766tPxw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssComplexSelectorItem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssComplexSelectorItem.html",
+          "hash": "trBq3cG/UwD/aWR0ybqLjw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssCompoundSelector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssCompoundSelector.html",
+          "hash": "YaUXowyv+UFByUz4+/JVOw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssFunctionalPseudoClass.yml",
+      "output": {
+        ".html": {
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssFunctionalPseudoClass.html",
+          "hash": "X5cNpWSondzs69EkmtwdOg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssFunctionalPseudoClassType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssFunctionalPseudoClassType.html",
+          "hash": "aN1mA6TKD9kP+JQsqXNPDA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssInputPseudoClassType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssInputPseudoClassType.html",
+          "hash": "NDgPl09bqS+IsoZPRlTsWA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssParserException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssParserException.html",
+          "hash": "3Zz+x8StAT8DRJusQlsyxg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssPseudoClass.yml",
+      "output": {
+        ".html": {
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssPseudoClass.html",
+          "hash": "xyF+LPTnXbFVA9cRzmvy0Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssPseudoClassType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssPseudoClassType.html",
+          "hash": "5vOQfhLViIME3MxHeOPOvA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssQualifiedName.yml",
+      "output": {
+        ".html": {
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssQualifiedName.html",
+          "hash": "5Uhp14JVWjf/59glqZIKSQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssSelector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssSelector.html",
+          "hash": "H7/r4FPPepsXUSj1Xnu8OA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssSelectorList.yml",
+      "output": {
+        ".html": {
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssSelectorList.html",
+          "hash": "c9eBS6D6W6U6n0pWkTqGuQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssSelectorType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssSelectorType.html",
+          "hash": "piGgAEivuUP02PCVGzT9CA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssSelectorVisitor-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssSelectorVisitor-1.html",
+          "hash": "yWPleOLkHiHKfmGzMTCSxQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssSelectorVisitor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssSelectorVisitor.html",
+          "hash": "yP0DCeUP3knDaLz5dC3pNg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssSimpleSelector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssSimpleSelector.html",
+          "hash": "Bku7MjS7owr1ar2CAT+49A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssSimpleSelectorType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssSimpleSelectorType.html",
+          "hash": "he2yqc4OOt4w7olov3f9Sw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssSpecificity.yml",
+      "output": {
+        ".html": {
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssSpecificity.html",
+          "hash": "NzjOo4rYJmKCXPc8JhcxBQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssStructuralPseudoClass.yml",
+      "output": {
+        ".html": {
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssStructuralPseudoClass.html",
+          "hash": "+vOzzmzHGf+MX3xcNUk60w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssStructuralPseudoClassType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssStructuralPseudoClassType.html",
+          "hash": "oijXPzsrsErwpt57An4ejg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssStylePropertyValue.yml",
+      "output": {
+        ".html": {
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssStylePropertyValue.html",
+          "hash": "zgmKnIAYvf/1lONIGVLIHw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssStyleRule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssStyleRule.html",
+          "hash": "sJf9SZ6n47fjv4kiFymY9Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssStyleRulesList.yml",
+      "output": {
+        ".html": {
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssStyleRulesList.html",
+          "hash": "ParcMnXuNCeURXEAwvK9GQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssUserActionPseudoClass.yml",
+      "output": {
+        ".html": {
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssUserActionPseudoClass.html",
+          "hash": "rHO+MW/3/79m99W1S1kqww=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssUserActionPseudoClassType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.CssUserActionPseudoClassType.html",
+          "hash": "uy6uQO3KqDYDm3jUFXfXpQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.ICssSelector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.ICssSelector.html",
+          "hash": "wEG4Tnqpf3W3nCO4t0QSeQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.yml",
+      "output": {
+        ".html": {
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.Css.html",
+          "hash": "5VmeeOH28xDvUAiBsPt0ww=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.CssDisplayType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.CssDisplayType.html",
+          "hash": "E6PmmTBvvD01TtKBjVlk4w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.CssTextAnchorType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.CssTextAnchorType.html",
+          "hash": "NSF1w0A1T0yTe8STWqNroQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.CssVisibilityType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.CssVisibilityType.html",
+          "hash": "ic8UZ8FZDVpiLl/4vTp8jw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.ISvgElementComputedStyle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.ISvgElementComputedStyle.html",
+          "hash": "bzmma71BjDw/V0wE9EXhLw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.ISvgFitToViewbox.yml",
+      "output": {
+        ".html": {
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.ISvgFitToViewbox.html",
+          "hash": "k6elYRWaspKedimLQmn4Zg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.ISvgPathSegCurve1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.ISvgPathSegCurve1.html",
+          "hash": "WZYi9JOD0qgEbXgt2x/hXw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.ISvgPathSegCurve2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.ISvgPathSegCurve2.html",
+          "hash": "wB/IqQdgO0Uvv7Qm77FYzQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.StyleProperty-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.StyleProperty-1.html",
           "hash": "WpGLFYUH4Yk7jg60wxl8HQ=="
         }
       },
@@ -533,10 +545,10 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.StyleProperty.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.StyleProperty.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.StyleProperty.html",
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.StyleProperty.html",
           "hash": "3vBDOPJ0whvFvSSBQ/rGNA=="
         }
       },
@@ -545,11 +557,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgCircleElement.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgCircleElement.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgCircleElement.html",
-          "hash": "FFNVUL7yyYv7shK5InRXbw=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgCircleElement.html",
+          "hash": "0m0VXMF4C4essI+QWr8fSQ=="
         }
       },
       "is_incremental": false,
@@ -557,11 +569,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgClipPathElement.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgClipPathElement.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgClipPathElement.html",
-          "hash": "/FBB3gRVob7Xg6lqNMrsEQ=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgClipPathElement.html",
+          "hash": "OBk6iMZPXMNPiVngE2y7qA=="
         }
       },
       "is_incremental": false,
@@ -569,10 +581,10 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgColor.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgColor.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgColor.html",
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgColor.html",
           "hash": "HGwxHG9Av453XGpsiUc4BQ=="
         }
       },
@@ -581,10 +593,10 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgColorTranslator.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgColorTranslator.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgColorTranslator.html",
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgColorTranslator.html",
           "hash": "thO/wCRetCj4YL0mxCCnFw=="
         }
       },
@@ -593,11 +605,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgDefsElement.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgDefsElement.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgDefsElement.html",
-          "hash": "gQvMYat8rwKeosBunF663A=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgDefsElement.html",
+          "hash": "u0s5DgrRl+z6ccekuc2jKQ=="
         }
       },
       "is_incremental": false,
@@ -605,11 +617,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgDescElement.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgDescElement.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgDescElement.html",
-          "hash": "mq5TTyRnxXrO59TCKs/wGA=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgDescElement.html",
+          "hash": "0Q34aoWJs9By2ZA8J0B1OA=="
         }
       },
       "is_incremental": false,
@@ -617,11 +629,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgDocument.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgDocument.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgDocument.html",
-          "hash": "9orlVlRumxaDR/+E2Qlz2w=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgDocument.html",
+          "hash": "nyYjiPl0PXgCfddaHG4cug=="
         }
       },
       "is_incremental": false,
@@ -629,11 +641,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgElement.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgElement.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgElement.html",
-          "hash": "qrGMNagDnzJOmTSgaTQ0aw=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgElement.html",
+          "hash": "t4ZwIH+hU3KgD4owsVn5rA=="
         }
       },
       "is_incremental": false,
@@ -641,11 +653,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgElementComputedStyle.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgElementComputedStyle.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgElementComputedStyle.html",
-          "hash": "hPQch+6Zn158Q0eKBal/8g=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgElementComputedStyle.html",
+          "hash": "PUNMJK+S9q35J4HDxNtrgA=="
         }
       },
       "is_incremental": false,
@@ -653,11 +665,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgElementDefaultStyle.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgElementDefaultStyle.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgElementDefaultStyle.html",
-          "hash": "CaVPItlvhTSrDSKiLJJa7g=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgElementDefaultStyle.html",
+          "hash": "U6D+5SGKeB267r594ZUwJQ=="
         }
       },
       "is_incremental": false,
@@ -665,11 +677,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgElementList-1.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgElementList-1.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgElementList-1.html",
-          "hash": "E+MZM1FfrvWwSwHM4BlNjA=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgElementList-1.html",
+          "hash": "JSe+2slThmyDPec4F6lYdg=="
         }
       },
       "is_incremental": false,
@@ -677,11 +689,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgElementList.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgElementList.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgElementList.html",
-          "hash": "Eg+zok0HQ9kNhAOkEaNgZA=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgElementList.html",
+          "hash": "hurqqu7+J+ciiD+BuuKTEA=="
         }
       },
       "is_incremental": false,
@@ -689,11 +701,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgElementStyleData.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgElementStyleData.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgElementStyleData.html",
-          "hash": "jsigSelL4YG8XTRh/vhB1A=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgElementStyleData.html",
+          "hash": "wJO5LZuP+ohQA0wuplPe9w=="
         }
       },
       "is_incremental": false,
@@ -701,11 +713,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgElementVisitor-1.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgElementVisitor-1.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgElementVisitor-1.html",
-          "hash": "VEqakecwma5DbXPvIl7iMw=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgElementVisitor-1.html",
+          "hash": "OCW6oVA0gQm6KtqPxPGlGw=="
         }
       },
       "is_incremental": false,
@@ -713,11 +725,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgElementVisitor.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgElementVisitor.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgElementVisitor.html",
-          "hash": "gXiDIRAsB3Pg4aJBCGBMvQ=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgElementVisitor.html",
+          "hash": "5e79V4BSVLBNLaWy1llRxQ=="
         }
       },
       "is_incremental": false,
@@ -725,11 +737,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgElementWalker.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgElementWalker.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgElementWalker.html",
-          "hash": "8Dtcwq4vMWJ/Hk/wIPQTdA=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgElementWalker.html",
+          "hash": "wGeXR7pxbVtWvYDPWrRPyQ=="
         }
       },
       "is_incremental": false,
@@ -737,11 +749,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgEllipseElement.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgEllipseElement.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgEllipseElement.html",
-          "hash": "lATxePZfYWzgCOCt6yd8Bw=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgEllipseElement.html",
+          "hash": "zIdQ+o0IxHo5MHAue/nRvA=="
         }
       },
       "is_incremental": false,
@@ -749,11 +761,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgFillRule.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgFillRule.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgFillRule.html",
-          "hash": "gMcH/svMl6FNtb3J4rQM8w=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgFillRule.html",
+          "hash": "n9X5G22+aC4sLmjSWtqMiQ=="
         }
       },
       "is_incremental": false,
@@ -761,11 +773,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgFilterElement.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgFilterElement.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgFilterElement.html",
-          "hash": "ko86ExbHLLZar9zi+p0fUQ=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgFilterElement.html",
+          "hash": "DBRHYm4EhH2NTsQp5E8lsg=="
         }
       },
       "is_incremental": false,
@@ -773,11 +785,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgFitToViewboxExtensions.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgFitToViewboxExtensions.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgFitToViewboxExtensions.html",
-          "hash": "kKODp7AT3qWxRzgn8EtUog=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgFitToViewboxExtensions.html",
+          "hash": "dqHjB9yTmkbhFmRzBGzXyw=="
         }
       },
       "is_incremental": false,
@@ -785,11 +797,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgFuncIRI.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgFuncIRI.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgFuncIRI.html",
-          "hash": "iu3i3vL+wvuYlBUeUOSIWA=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgFuncIRI.html",
+          "hash": "za1YTfq9G5KTRwf2IATW5A=="
         }
       },
       "is_incremental": false,
@@ -797,11 +809,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgGElement.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgGElement.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgGElement.html",
-          "hash": "rC/LpABqcql4hRiejWKNYg=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgGElement.html",
+          "hash": "6lqIUBg6Ytc7oHQFeupNUA=="
         }
       },
       "is_incremental": false,
@@ -809,11 +821,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgGeometryElement.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgGeometryElement.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgGeometryElement.html",
-          "hash": "pVO7nRogcO4Nn4+3CiWEhg=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgGeometryElement.html",
+          "hash": "fM3DhnNFnyZPVbuGqHjNFg=="
         }
       },
       "is_incremental": false,
@@ -821,11 +833,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgGradientElement.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgGradientElement.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgGradientElement.html",
-          "hash": "Dvz9KoRXfN3ON+UaD3IHew=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgGradientElement.html",
+          "hash": "KqPjzYEDBFbVh1pzSqoGKw=="
         }
       },
       "is_incremental": false,
@@ -833,11 +845,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgGradientPaintServer.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgGradientPaintServer.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgGradientPaintServer.html",
-          "hash": "moV0Wb2SYDkpaHOmF1/Jhg=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgGradientPaintServer.html",
+          "hash": "Kj4tc08A0CoH2H8M0O6Ziw=="
         }
       },
       "is_incremental": false,
@@ -845,11 +857,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgGradientPaintServerColorStop.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgGradientPaintServerColorStop.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgGradientPaintServerColorStop.html",
-          "hash": "+qMUb+N9U/PAJCVeLJlqiw=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgGradientPaintServerColorStop.html",
+          "hash": "NzRYok1OueN3dhzCUw0tMg=="
         }
       },
       "is_incremental": false,
@@ -857,11 +869,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgGradientSpreadMethod.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgGradientSpreadMethod.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgGradientSpreadMethod.html",
-          "hash": "ZnxRS0vVcgB42Q+5fbwjiA=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgGradientSpreadMethod.html",
+          "hash": "TGc6hbUkop/h6mPOKZk6IQ=="
         }
       },
       "is_incremental": false,
@@ -869,11 +881,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgGraphicsElement.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgGraphicsElement.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgGraphicsElement.html",
-          "hash": "6N5vVT+SQ7XWHpFsOXrqlw=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgGraphicsElement.html",
+          "hash": "mKtHd/AmVo/dKDs3kDhIlw=="
         }
       },
       "is_incremental": false,
@@ -881,11 +893,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgInlineTextSpanElement.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgInlineTextSpanElement.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgInlineTextSpanElement.html",
-          "hash": "73rTcQRyb9f/BIniq1KhGA=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgInlineTextSpanElement.html",
+          "hash": "DxmDWljmPRI0p/0sM9U0pQ=="
         }
       },
       "is_incremental": false,
@@ -893,11 +905,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgLength.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgLength.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgLength.html",
-          "hash": "dmXralTexOxE3qYN66UGWQ=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgLength.html",
+          "hash": "EyxQt3VtwGwPzazW2A8bHQ=="
         }
       },
       "is_incremental": false,
@@ -905,11 +917,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgLengthType.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgLengthType.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgLengthType.html",
-          "hash": "7CdUpBMaRLFPbE0GIjPreg=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgLengthType.html",
+          "hash": "TzxUIKjNgPB3PMB1TyDokA=="
         }
       },
       "is_incremental": false,
@@ -917,11 +929,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgLineElement.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgLineElement.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgLineElement.html",
-          "hash": "OHQjLBB+Xq9vsTrX5KP+vg=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgLineElement.html",
+          "hash": "Pj1SY2qBt5Wqx/CQh5FZ9g=="
         }
       },
       "is_incremental": false,
@@ -929,11 +941,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgLinearGradientElement.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgLinearGradientElement.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgLinearGradientElement.html",
-          "hash": "Mb5UAfjCrqK3D8i08O7dkg=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgLinearGradientElement.html",
+          "hash": "icql7pRyN/+f3stXh3LnaQ=="
         }
       },
       "is_incremental": false,
@@ -941,11 +953,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgLinearGradientPaintServer.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgLinearGradientPaintServer.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgLinearGradientPaintServer.html",
-          "hash": "iKfeL+t+eHrskAufU0rPNA=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgLinearGradientPaintServer.html",
+          "hash": "c4FVn36R5S5Gna7AMfldnQ=="
         }
       },
       "is_incremental": false,
@@ -953,11 +965,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgMaskElement.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgMaskElement.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgMaskElement.html",
-          "hash": "1sQLdrBH2BJZhWO2vz3aQQ=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgMaskElement.html",
+          "hash": "Y+QJ/n/iEBft10VM7rDA5w=="
         }
       },
       "is_incremental": false,
@@ -965,11 +977,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgMatrix.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgMatrix.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgMatrix.html",
-          "hash": "TGJSjgi6P1mVNvh5QvLpYg=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgMatrix.html",
+          "hash": "1S77H9j624jILSsPQTiGMg=="
         }
       },
       "is_incremental": false,
@@ -977,11 +989,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgPaint.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPaint.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPaint.html",
-          "hash": "n543OD/ZFJy8UsWYovlARA=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPaint.html",
+          "hash": "kHzWSXUNREW/EVP6Lo7MYg=="
         }
       },
       "is_incremental": false,
@@ -989,11 +1001,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgPaintServer.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPaintServer.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPaintServer.html",
-          "hash": "H/LicNbuGkClHPIsF7X4Yg=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPaintServer.html",
+          "hash": "rqz6qXKPWHfIMYv+1DnY4g=="
         }
       },
       "is_incremental": false,
@@ -1001,10 +1013,10 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgPaintServerType.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPaintServerType.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPaintServerType.html",
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPaintServerType.html",
           "hash": "UnZ7qlxanilJ6lCSALLrxQ=="
         }
       },
@@ -1013,11 +1025,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgPaintServerVisitor-1.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPaintServerVisitor-1.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPaintServerVisitor-1.html",
-          "hash": "ybSBMKiUwqIntTQLP/vAmg=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPaintServerVisitor-1.html",
+          "hash": "UUP4OuJcm6By/enP3P9t2Q=="
         }
       },
       "is_incremental": false,
@@ -1025,11 +1037,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgPaintServerVisitor.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPaintServerVisitor.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPaintServerVisitor.html",
-          "hash": "JIx+V5lhWeQZymkr6xHQeA=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPaintServerVisitor.html",
+          "hash": "nkF8lsMmQaaM9QXJ4bmG2Q=="
         }
       },
       "is_incremental": false,
@@ -1037,11 +1049,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgPaintType.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPaintType.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPaintType.html",
-          "hash": "IFnQ8YnD4TpWZmW9J7i5Gg=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPaintType.html",
+          "hash": "UH51jwjp6oV3l1NDxWkR/g=="
         }
       },
       "is_incremental": false,
@@ -1049,11 +1061,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathElement.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPathElement.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathElement.html",
-          "hash": "mHeTPIDE15M2oEAVLxuEeg=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPathElement.html",
+          "hash": "G+3PFUEKknwkhckWzuDmug=="
         }
       },
       "is_incremental": false,
@@ -1061,11 +1073,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSeg.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPathSeg.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSeg.html",
-          "hash": "CwwUt+6Kxn5yxVgeqviBmw=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPathSeg.html",
+          "hash": "mF12ANgzDyd++4ulINWt2Q=="
         }
       },
       "is_incremental": false,
@@ -1073,11 +1085,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegArcAbs.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPathSegArcAbs.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegArcAbs.html",
-          "hash": "ZXDOBo3E9rJ4lhJOW6Jfyw=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPathSegArcAbs.html",
+          "hash": "ogWCQySw0rkrzYR9bULhrA=="
         }
       },
       "is_incremental": false,
@@ -1085,11 +1097,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegArcRel.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPathSegArcRel.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegArcRel.html",
-          "hash": "fCQAwe7LnOjJ4OtPnCMvcg=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPathSegArcRel.html",
+          "hash": "tpH+56h0e5uj+1cW0CKOkg=="
         }
       },
       "is_incremental": false,
@@ -1097,11 +1109,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegClosePath.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPathSegClosePath.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegClosePath.html",
-          "hash": "GVXfOGTzy9oqddgsWYwrTw=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPathSegClosePath.html",
+          "hash": "4W34AQRW1kc6er2eYJacqw=="
         }
       },
       "is_incremental": false,
@@ -1109,11 +1121,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoCubicAbs.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoCubicAbs.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoCubicAbs.html",
-          "hash": "syF6HBAiXK02Kaz9lOOTAw=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoCubicAbs.html",
+          "hash": "GBtNRx80vCsvRLDP7CIQWg=="
         }
       },
       "is_incremental": false,
@@ -1121,11 +1133,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoCubicRel.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoCubicRel.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoCubicRel.html",
-          "hash": "MmnmUIOiXMR5MsewT/3Gkg=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoCubicRel.html",
+          "hash": "wHAzcnZgm6dUCtwLf0rJ0A=="
         }
       },
       "is_incremental": false,
@@ -1133,11 +1145,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoCubicSmoothAbs.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoCubicSmoothAbs.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoCubicSmoothAbs.html",
-          "hash": "lZZyW3xEWSeAFDZ6de1t4w=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoCubicSmoothAbs.html",
+          "hash": "iHrBf1yTkjpRnaSWRZCPPA=="
         }
       },
       "is_incremental": false,
@@ -1145,11 +1157,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoCubicSmoothRel.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoCubicSmoothRel.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoCubicSmoothRel.html",
-          "hash": "nju8+2YEYig2VK+94Mc1qw=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoCubicSmoothRel.html",
+          "hash": "3gkTskvy6MBauzbR/RLQfQ=="
         }
       },
       "is_incremental": false,
@@ -1157,11 +1169,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoQuadraticAbs.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoQuadraticAbs.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoQuadraticAbs.html",
-          "hash": "HhQRSKNLtA1sl1pFDhkOrQ=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoQuadraticAbs.html",
+          "hash": "ZN1/8UqLKZw0+9SWpzSfaQ=="
         }
       },
       "is_incremental": false,
@@ -1169,11 +1181,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoQuadraticRel.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoQuadraticRel.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoQuadraticRel.html",
-          "hash": "j0DNRMg56VB1S+ilAHmXwQ=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoQuadraticRel.html",
+          "hash": "mXml1z4uOpsHZBZXrSy+kQ=="
         }
       },
       "is_incremental": false,
@@ -1181,11 +1193,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoQuadraticSmoothAbs.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoQuadraticSmoothAbs.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoQuadraticSmoothAbs.html",
-          "hash": "Wp/pEQvE4bHdCHOpxUQZng=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoQuadraticSmoothAbs.html",
+          "hash": "EpAIU+GsCVOJ0T1EkKv7qg=="
         }
       },
       "is_incremental": false,
@@ -1193,11 +1205,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoQuadraticSmoothRel.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoQuadraticSmoothRel.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoQuadraticSmoothRel.html",
-          "hash": "ZF6glCgtDYtlwfzQuzwjVw=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPathSegCurvetoQuadraticSmoothRel.html",
+          "hash": "W13dRuQDeV957oULjzaTpg=="
         }
       },
       "is_incremental": false,
@@ -1205,11 +1217,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegLinetoAbs.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPathSegLinetoAbs.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegLinetoAbs.html",
-          "hash": "mroiPBCayUotG9NvqGbRVg=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPathSegLinetoAbs.html",
+          "hash": "YPs8cJWBsW/6Qzs79JaI/g=="
         }
       },
       "is_incremental": false,
@@ -1217,11 +1229,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegLinetoHorizontalAbs.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPathSegLinetoHorizontalAbs.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegLinetoHorizontalAbs.html",
-          "hash": "QSg2WqvuyA6QWkShCidyKw=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPathSegLinetoHorizontalAbs.html",
+          "hash": "Bbj27pfh7MQLKkZkJrVYPw=="
         }
       },
       "is_incremental": false,
@@ -1229,11 +1241,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegLinetoHorizontalRel.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPathSegLinetoHorizontalRel.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegLinetoHorizontalRel.html",
-          "hash": "csxdeK0eq7C25sJDfN8uhg=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPathSegLinetoHorizontalRel.html",
+          "hash": "CEG/qaTDSHnfOIljdzAllg=="
         }
       },
       "is_incremental": false,
@@ -1241,11 +1253,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegLinetoRel.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPathSegLinetoRel.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegLinetoRel.html",
-          "hash": "aKFn2QzqoXG8yGLoLlBLeg=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPathSegLinetoRel.html",
+          "hash": "FY4aW52CaKEup9JckBVshQ=="
         }
       },
       "is_incremental": false,
@@ -1253,11 +1265,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegLinetoVerticalAbs.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPathSegLinetoVerticalAbs.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegLinetoVerticalAbs.html",
-          "hash": "cECWYa3yadzzXwFUcuieyQ=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPathSegLinetoVerticalAbs.html",
+          "hash": "vGDCY3NMrzy+QeWCLaGdIA=="
         }
       },
       "is_incremental": false,
@@ -1265,11 +1277,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegLinetoVerticalRel.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPathSegLinetoVerticalRel.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegLinetoVerticalRel.html",
-          "hash": "8veLO4uxNADfPYlPhrjVuA=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPathSegLinetoVerticalRel.html",
+          "hash": "G+qkVnrqui4iIo6TpBwETg=="
         }
       },
       "is_incremental": false,
@@ -1277,11 +1289,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegList.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPathSegList.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegList.html",
-          "hash": "ismfRYldEQYDQiaC/5rtIQ=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPathSegList.html",
+          "hash": "3mOd8cMweyMqTnQm9D2n+A=="
         }
       },
       "is_incremental": false,
@@ -1289,11 +1301,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegListExtensions.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPathSegListExtensions.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegListExtensions.html",
-          "hash": "Hca+4DbhsICqRk1KzU4iNQ=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPathSegListExtensions.html",
+          "hash": "7GRFTnXIyscsCq/lWjRpwQ=="
         }
       },
       "is_incremental": false,
@@ -1301,11 +1313,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegListTransformer.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPathSegListTransformer.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegListTransformer.html",
-          "hash": "4YOL3mWUx40FUNjeXc9paQ=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPathSegListTransformer.html",
+          "hash": "T/tMCuLr4btAukc0BVWFsQ=="
         }
       },
       "is_incremental": false,
@@ -1313,11 +1325,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegMovetoAbs.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPathSegMovetoAbs.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegMovetoAbs.html",
-          "hash": "dj1b4kF2Kncv08gAaB6DTA=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPathSegMovetoAbs.html",
+          "hash": "lTlPbFa1mPmTt0WrGP+1RQ=="
         }
       },
       "is_incremental": false,
@@ -1325,11 +1337,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegMovetoRel.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPathSegMovetoRel.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegMovetoRel.html",
-          "hash": "NFJyA/RXD8WG3lh1CW+Qcg=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPathSegMovetoRel.html",
+          "hash": "2tLQ9jXDJ/FqitoASvF0dg=="
         }
       },
       "is_incremental": false,
@@ -1337,11 +1349,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegType.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPathSegType.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegType.html",
-          "hash": "Pq8R66Y9tCW/A4jMHtDPyQ=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPathSegType.html",
+          "hash": "speAy6ICL9x0sTgO8dtTaQ=="
         }
       },
       "is_incremental": false,
@@ -1349,11 +1361,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegVisitor-1.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPathSegVisitor-1.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegVisitor-1.html",
-          "hash": "sKCV4A+gN3LTklgDPnn1pA=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPathSegVisitor-1.html",
+          "hash": "nD1VGt1dZt2YwW8URGN5/Q=="
         }
       },
       "is_incremental": false,
@@ -1361,11 +1373,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegVisitor.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPathSegVisitor.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPathSegVisitor.html",
-          "hash": "4j+NtD2F/Ot6+QJjfOPNyA=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPathSegVisitor.html",
+          "hash": "pM+XmRKUqP7DKIacDLHhTA=="
         }
       },
       "is_incremental": false,
@@ -1373,11 +1385,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgPatternElement.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPatternElement.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPatternElement.html",
-          "hash": "KyAbLXL1SgsObMFwz77T/Q=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPatternElement.html",
+          "hash": "ATZTPGQjMCz5f04acy9t2A=="
         }
       },
       "is_incremental": false,
@@ -1385,11 +1397,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgPolyPoint.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPolyPoint.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPolyPoint.html",
-          "hash": "X1zFHUJYWaPDVw7Uer5vjw=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPolyPoint.html",
+          "hash": "gMX2KJFtpTRhkyLZaVfSmA=="
         }
       },
       "is_incremental": false,
@@ -1397,11 +1409,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgPolyPointList.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPolyPointList.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPolyPointList.html",
-          "hash": "/TrTxiLx3UWtJ+ZC/pWTUQ=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPolyPointList.html",
+          "hash": "xxMzyJZb3/4eClqr5EuQcQ=="
         }
       },
       "is_incremental": false,
@@ -1409,11 +1421,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgPolygonElement.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPolygonElement.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPolygonElement.html",
-          "hash": "g8S9Nv3qgSMdutV/pwsbDA=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPolygonElement.html",
+          "hash": "NnNUPWDYvtXfVIMsgRo/hQ=="
         }
       },
       "is_incremental": false,
@@ -1421,11 +1433,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgPolylineElement.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPolylineElement.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPolylineElement.html",
-          "hash": "P3TTqqliR/fLyHvQwbIWWw=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPolylineElement.html",
+          "hash": "zb564YLYzlE7qulTc1FXrw=="
         }
       },
       "is_incremental": false,
@@ -1433,11 +1445,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgPreserveAspectRatio.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPreserveAspectRatio.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPreserveAspectRatio.html",
-          "hash": "fUs4Paa0/q0y6O+2SzG84w=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPreserveAspectRatio.html",
+          "hash": "LH9FOQH3IbfOrNrAj+nrcg=="
         }
       },
       "is_incremental": false,
@@ -1445,11 +1457,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgPreserveAspectRatioAlign.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPreserveAspectRatioAlign.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPreserveAspectRatioAlign.html",
-          "hash": "navRM240bOsIZR3hweoyBQ=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPreserveAspectRatioAlign.html",
+          "hash": "ZnCp38nw3nAwNW89hCDDyA=="
         }
       },
       "is_incremental": false,
@@ -1457,11 +1469,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgPreserveAspectRatioMeetOrSlice.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPreserveAspectRatioMeetOrSlice.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgPreserveAspectRatioMeetOrSlice.html",
-          "hash": "YsXUQO90k4etV+tvoz9IFQ=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgPreserveAspectRatioMeetOrSlice.html",
+          "hash": "SYecMKU/95fIZGQUWe4stQ=="
         }
       },
       "is_incremental": false,
@@ -1469,11 +1481,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgRadialGradientElement.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgRadialGradientElement.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgRadialGradientElement.html",
-          "hash": "m0K0wlgQyXcIf9vD+f3FYA=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgRadialGradientElement.html",
+          "hash": "16zYsxIGusYsF8j4Uy/qoQ=="
         }
       },
       "is_incremental": false,
@@ -1481,11 +1493,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgRadialGradientPaintServer.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgRadialGradientPaintServer.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgRadialGradientPaintServer.html",
-          "hash": "DrJjEEspddJLu/r+xtMO9A=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgRadialGradientPaintServer.html",
+          "hash": "zgoq0Ph7hx4Th2FdVs6gIQ=="
         }
       },
       "is_incremental": false,
@@ -1493,11 +1505,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgRect.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgRect.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgRect.html",
-          "hash": "9C4zGzBhn300v3Payq/ZYg=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgRect.html",
+          "hash": "vbavC28Q8OPUq21WHpgOlQ=="
         }
       },
       "is_incremental": false,
@@ -1505,11 +1517,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgRectElement.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgRectElement.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgRectElement.html",
-          "hash": "zZXbPkTDsGblsSRmEjcYSg=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgRectElement.html",
+          "hash": "b/y2dYfbQalT4WR7+R7E6w=="
         }
       },
       "is_incremental": false,
@@ -1517,11 +1529,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgSolidColorPaintServer.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgSolidColorPaintServer.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgSolidColorPaintServer.html",
-          "hash": "OimTV5wQqb5mO42SwwULWA=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgSolidColorPaintServer.html",
+          "hash": "/QDGj+mVaGK7LHCMo/GSuw=="
         }
       },
       "is_incremental": false,
@@ -1529,11 +1541,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgStopElement.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgStopElement.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgStopElement.html",
-          "hash": "MNgVyGs/4FWbuAcHzvB39w=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgStopElement.html",
+          "hash": "WZ1HFrLiAl1x+LgY8nzmxQ=="
         }
       },
       "is_incremental": false,
@@ -1541,10 +1553,10 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgStopElementList.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgStopElementList.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgStopElementList.html",
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgStopElementList.html",
           "hash": "xpelkYOsig+G1TtNTFQCDQ=="
         }
       },
@@ -1553,11 +1565,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgStrokeLineCap.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgStrokeLineCap.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgStrokeLineCap.html",
-          "hash": "Y3Ei3ibH2H22sqSaAuiUAA=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgStrokeLineCap.html",
+          "hash": "kq65gvvwEJTlvDzcSAXPiA=="
         }
       },
       "is_incremental": false,
@@ -1565,11 +1577,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgStrokeLineJoin.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgStrokeLineJoin.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgStrokeLineJoin.html",
-          "hash": "o5Za1ND0sWZjd5yidKN8eA=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgStrokeLineJoin.html",
+          "hash": "kt+grBVqYlev2ai4rQ0KyQ=="
         }
       },
       "is_incremental": false,
@@ -1577,10 +1589,10 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgStructuralGraphicsElement.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgStructuralGraphicsElement.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgStructuralGraphicsElement.html",
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgStructuralGraphicsElement.html",
           "hash": "CACbxDXwf4nRIuDr1/0BdQ=="
         }
       },
@@ -1589,11 +1601,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgStyleElement.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgStyleElement.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgStyleElement.html",
-          "hash": "CQyFxO4kqd2VO0FotkahPQ=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgStyleElement.html",
+          "hash": "LlJuzbgkWHMXjYGf4a0WKA=="
         }
       },
       "is_incremental": false,
@@ -1601,11 +1613,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgStyleRule.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgStyleRule.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgStyleRule.html",
-          "hash": "vzJ0wlt0jlHzi64iyA73MA=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgStyleRule.html",
+          "hash": "bYCWUrTmlEzsGy/EggQfoA=="
         }
       },
       "is_incremental": false,
@@ -1613,11 +1625,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgSvgElement.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgSvgElement.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgSvgElement.html",
-          "hash": "hHIBNGlHal8VWH/4Wvdgew=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgSvgElement.html",
+          "hash": "l6H0Ttp/yA1r9rgixb9o9w=="
         }
       },
       "is_incremental": false,
@@ -1625,11 +1637,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgSymbolElement.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgSymbolElement.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgSymbolElement.html",
-          "hash": "aKHr9YYUYr09h5uFsWsFzQ=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgSymbolElement.html",
+          "hash": "jQG8tE+yTBCfBJhWwcC9mQ=="
         }
       },
       "is_incremental": false,
@@ -1637,11 +1649,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgTextElement.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgTextElement.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgTextElement.html",
-          "hash": "Bst8GSXu1m60XMaRC+UQxA=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgTextElement.html",
+          "hash": "FWFIEpfTO5CZ/4FXAzAGYw=="
         }
       },
       "is_incremental": false,
@@ -1649,11 +1661,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgTextPathElement.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgTextPathElement.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgTextPathElement.html",
-          "hash": "oasd+CKCBcF1InCcmYSfYQ=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgTextPathElement.html",
+          "hash": "k+rZ3ySlTWS7wxRXtiBVyQ=="
         }
       },
       "is_incremental": false,
@@ -1661,11 +1673,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgTextSpanElement.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgTextSpanElement.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgTextSpanElement.html",
-          "hash": "bniJh0knPIAXMZVYtsmTxg=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgTextSpanElement.html",
+          "hash": "62vb1pmhlAJZ0VtZQ8URCA=="
         }
       },
       "is_incremental": false,
@@ -1673,11 +1685,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgTitleElement.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgTitleElement.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgTitleElement.html",
-          "hash": "aVrM1tl1UgMUbSu55mY+hA=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgTitleElement.html",
+          "hash": "OnTSWivemKqi0Y9v36vMcQ=="
         }
       },
       "is_incremental": false,
@@ -1685,11 +1697,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgTransform.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgTransform.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgTransform.html",
-          "hash": "fKNbDDAErJaTJ+X9JlSVwA=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgTransform.html",
+          "hash": "wej+2GWQmLls9Dr//t3mQA=="
         }
       },
       "is_incremental": false,
@@ -1697,10 +1709,10 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgTransformList.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgTransformList.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgTransformList.html",
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgTransformList.html",
           "hash": "DgAksNKKanMTQbksr+pe6A=="
         }
       },
@@ -1709,11 +1721,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgTransformType.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgTransformType.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgTransformType.html",
-          "hash": "N7hhnYbCt1rSOmW2IB1GuA=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgTransformType.html",
+          "hash": "Ee1myt9qnORjIH5PlGdqBA=="
         }
       },
       "is_incremental": false,
@@ -1721,11 +1733,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgUnitTypes.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgUnitTypes.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgUnitTypes.html",
-          "hash": "pKW4ugsqdcMBAkQSNCb+Vw=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgUnitTypes.html",
+          "hash": "1l5Uz7k/KfF87Wlc3h6SMQ=="
         }
       },
       "is_incremental": false,
@@ -1733,11 +1745,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.SvgUseElement.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgUseElement.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.SvgUseElement.html",
-          "hash": "ZiEmT0p0oJq4pcKKpHbihQ=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.SvgUseElement.html",
+          "hash": "41kG+ch2Naj9p3kchlIq3A=="
         }
       },
       "is_incremental": false,
@@ -1745,11 +1757,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/EquinoxLabs.SVGSharpie.yml",
+      "source_relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.yml",
       "output": {
         ".html": {
-          "relative_path": "api/EquinoxLabs.SVGSharpie.html",
-          "hash": "06biBEwTztAXypdLv4qiJw=="
+          "relative_path": "SVGSharpie/EquinoxLabs.SVGSharpie.html",
+          "hash": "Y8ceJSputKuQIVv4LUGtVg=="
         }
       },
       "is_incremental": false,
@@ -1757,11 +1769,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "api/index.md",
+      "source_relative_path": "SVGSharpie/index.md",
       "output": {
         ".html": {
-          "relative_path": "api/index.html",
-          "hash": "Tr/RSCVBkky0HwxFB5ecOA=="
+          "relative_path": "SVGSharpie/index.html",
+          "hash": "TowkksSieOC3Re4z8ZQVbQ=="
         }
       },
       "is_incremental": false,
@@ -1773,7 +1785,7 @@
       "output": {
         ".html": {
           "relative_path": "fusion/toc.html",
-          "hash": "zNjEfaXS92GUN7ybXI5hwQ=="
+          "hash": "CWh3hNU+oU/2c3yvtd182w=="
         }
       },
       "is_incremental": false,
@@ -1797,7 +1809,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "s29Xon+7EyhHTfN4uDLPcg=="
+          "hash": "bs3HL5UkgkGJIa21WKZWKw=="
         }
       },
       "is_incremental": false,
@@ -1824,7 +1836,7 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 2,
+          "total_file_count": 3,
           "skipped_file_count": 0
         },
         "ManagedReferenceDocumentProcessor": {
