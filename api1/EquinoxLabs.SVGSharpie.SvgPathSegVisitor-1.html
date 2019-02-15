@@ -1,0 +1,1159 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Class SvgPathSegVisitor&lt;TResult&gt;
+   </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Class SvgPathSegVisitor&lt;TResult&gt;
+   ">
+    <meta name="generator" content="docfx 2.40.11.0">
+    
+    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../styles/docfx.css">
+    <link rel="stylesheet" href="../styles/main.css">
+    <meta property="docfx:navrel" content="../toc.html">
+    <meta property="docfx:tocrel" content="../fusion/toc.html">
+    
+    
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../index.html">
+                <img id="logo" class="svg" src="../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="EquinoxLabs.SVGSharpie.SvgPathSegVisitor`1">
+  
+  
+  <h1 id="EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1" data-uid="EquinoxLabs.SVGSharpie.SvgPathSegVisitor`1" class="text-break">Class SvgPathSegVisitor&lt;TResult&gt;
+  </h1>
+  <div class="markdown level0 summary"><p>Represents a visitor that only visits the single <a class="xref" href="EquinoxLabs.SVGSharpie.SvgPathSeg.html">SvgPathSeg</a> passed into its Visit method.</p>
+</div>
+  <div class="markdown level0 conceptual"></div>
+  <div class="inheritance">
+    <h5>Inheritance</h5>
+    <div class="level0"><span class="xref">System.Object</span></div>
+    <div class="level1"><span class="xref">SvgPathSegVisitor&lt;TResult&gt;</span></div>
+  </div>
+  <div class="inheritedMembers">
+    <h5>Inherited Members</h5>
+    <div>
+      <span class="xref">System.Object.Equals(System.Object)</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.Equals(System.Object, System.Object)</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.GetHashCode()</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.GetType()</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.MemberwiseClone()</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.ReferenceEquals(System.Object, System.Object)</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.ToString()</span>
+    </div>
+  </div>
+  <h6><strong>Namespace</strong>: <a class="xref" href="EquinoxLabs.SVGSharpie.html">EquinoxLabs.SVGSharpie</a></h6>
+  <h6><strong>Assembly</strong>: EquinoxLabs.SVGSharpie.dll</h6>
+  <h5 id="EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_syntax">Syntax</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public class SvgPathSegVisitor&lt;TResult&gt;</code></pre>
+  </div>
+  <h5 class="typeParameters">Type Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="parametername">TResult</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="methods">Methods
+  </h3>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/equinox2k/SVGSharpie/new/master/apiSpec/new?filename=EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_DefaultVisit_EquinoxLabs_SVGSharpie_SvgPathSeg_.md&amp;value=---%0Auid%3A%20EquinoxLabs.SVGSharpie.SvgPathSegVisitor%601.DefaultVisit(EquinoxLabs.SVGSharpie.SvgPathSeg)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/equinox2k/SVGSharpie/blob/master/src/EquinoxLabs.SVGSharpie/SvgPathSegVisitor.cs/#L83">View Source</a>
+  </span>
+  <a id="EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_DefaultVisit_" data-uid="EquinoxLabs.SVGSharpie.SvgPathSegVisitor`1.DefaultVisit*"></a>
+  <h4 id="EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_DefaultVisit_EquinoxLabs_SVGSharpie_SvgPathSeg_" data-uid="EquinoxLabs.SVGSharpie.SvgPathSegVisitor`1.DefaultVisit(EquinoxLabs.SVGSharpie.SvgPathSeg)">DefaultVisit(SvgPathSeg)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public virtual TResult DefaultVisit(SvgPathSeg segment)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EquinoxLabs.SVGSharpie.SvgPathSeg.html">SvgPathSeg</a></td>
+        <td><span class="parametername">segment</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">TResult</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/equinox2k/SVGSharpie/new/master/apiSpec/new?filename=EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_Visit_EquinoxLabs_SVGSharpie_SvgPathSeg_.md&amp;value=---%0Auid%3A%20EquinoxLabs.SVGSharpie.SvgPathSegVisitor%601.Visit(EquinoxLabs.SVGSharpie.SvgPathSeg)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/equinox2k/SVGSharpie/blob/master/src/EquinoxLabs.SVGSharpie/SvgPathSegVisitor.cs/#L80">View Source</a>
+  </span>
+  <a id="EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_Visit_" data-uid="EquinoxLabs.SVGSharpie.SvgPathSegVisitor`1.Visit*"></a>
+  <h4 id="EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_Visit_EquinoxLabs_SVGSharpie_SvgPathSeg_" data-uid="EquinoxLabs.SVGSharpie.SvgPathSegVisitor`1.Visit(EquinoxLabs.SVGSharpie.SvgPathSeg)">Visit(SvgPathSeg)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public virtual TResult Visit(SvgPathSeg segment)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EquinoxLabs.SVGSharpie.SvgPathSeg.html">SvgPathSeg</a></td>
+        <td><span class="parametername">segment</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">TResult</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/equinox2k/SVGSharpie/new/master/apiSpec/new?filename=EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitArcAbs_EquinoxLabs_SVGSharpie_SvgPathSegArcAbs_.md&amp;value=---%0Auid%3A%20EquinoxLabs.SVGSharpie.SvgPathSegVisitor%601.VisitArcAbs(EquinoxLabs.SVGSharpie.SvgPathSegArcAbs)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/equinox2k/SVGSharpie/blob/master/src/EquinoxLabs.SVGSharpie/SvgPathSegVisitor.cs/#L113">View Source</a>
+  </span>
+  <a id="EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitArcAbs_" data-uid="EquinoxLabs.SVGSharpie.SvgPathSegVisitor`1.VisitArcAbs*"></a>
+  <h4 id="EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitArcAbs_EquinoxLabs_SVGSharpie_SvgPathSegArcAbs_" data-uid="EquinoxLabs.SVGSharpie.SvgPathSegVisitor`1.VisitArcAbs(EquinoxLabs.SVGSharpie.SvgPathSegArcAbs)">VisitArcAbs(SvgPathSegArcAbs)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public virtual TResult VisitArcAbs(SvgPathSegArcAbs segment)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EquinoxLabs.SVGSharpie.SvgPathSegArcAbs.html">SvgPathSegArcAbs</a></td>
+        <td><span class="parametername">segment</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">TResult</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/equinox2k/SVGSharpie/new/master/apiSpec/new?filename=EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitArcRel_EquinoxLabs_SVGSharpie_SvgPathSegArcRel_.md&amp;value=---%0Auid%3A%20EquinoxLabs.SVGSharpie.SvgPathSegVisitor%601.VisitArcRel(EquinoxLabs.SVGSharpie.SvgPathSegArcRel)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/equinox2k/SVGSharpie/blob/master/src/EquinoxLabs.SVGSharpie/SvgPathSegVisitor.cs/#L116">View Source</a>
+  </span>
+  <a id="EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitArcRel_" data-uid="EquinoxLabs.SVGSharpie.SvgPathSegVisitor`1.VisitArcRel*"></a>
+  <h4 id="EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitArcRel_EquinoxLabs_SVGSharpie_SvgPathSegArcRel_" data-uid="EquinoxLabs.SVGSharpie.SvgPathSegVisitor`1.VisitArcRel(EquinoxLabs.SVGSharpie.SvgPathSegArcRel)">VisitArcRel(SvgPathSegArcRel)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public virtual TResult VisitArcRel(SvgPathSegArcRel segment)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EquinoxLabs.SVGSharpie.SvgPathSegArcRel.html">SvgPathSegArcRel</a></td>
+        <td><span class="parametername">segment</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">TResult</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/equinox2k/SVGSharpie/new/master/apiSpec/new?filename=EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitClosePath_EquinoxLabs_SVGSharpie_SvgPathSegClosePath_.md&amp;value=---%0Auid%3A%20EquinoxLabs.SVGSharpie.SvgPathSegVisitor%601.VisitClosePath(EquinoxLabs.SVGSharpie.SvgPathSegClosePath)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/equinox2k/SVGSharpie/blob/master/src/EquinoxLabs.SVGSharpie/SvgPathSegVisitor.cs/#L86">View Source</a>
+  </span>
+  <a id="EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitClosePath_" data-uid="EquinoxLabs.SVGSharpie.SvgPathSegVisitor`1.VisitClosePath*"></a>
+  <h4 id="EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitClosePath_EquinoxLabs_SVGSharpie_SvgPathSegClosePath_" data-uid="EquinoxLabs.SVGSharpie.SvgPathSegVisitor`1.VisitClosePath(EquinoxLabs.SVGSharpie.SvgPathSegClosePath)">VisitClosePath(SvgPathSegClosePath)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public virtual TResult VisitClosePath(SvgPathSegClosePath segment)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EquinoxLabs.SVGSharpie.SvgPathSegClosePath.html">SvgPathSegClosePath</a></td>
+        <td><span class="parametername">segment</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">TResult</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/equinox2k/SVGSharpie/new/master/apiSpec/new?filename=EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitCurvetoCubicAbs_EquinoxLabs_SVGSharpie_SvgPathSegCurvetoCubicAbs_.md&amp;value=---%0Auid%3A%20EquinoxLabs.SVGSharpie.SvgPathSegVisitor%601.VisitCurvetoCubicAbs(EquinoxLabs.SVGSharpie.SvgPathSegCurvetoCubicAbs)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/equinox2k/SVGSharpie/blob/master/src/EquinoxLabs.SVGSharpie/SvgPathSegVisitor.cs/#L101">View Source</a>
+  </span>
+  <a id="EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitCurvetoCubicAbs_" data-uid="EquinoxLabs.SVGSharpie.SvgPathSegVisitor`1.VisitCurvetoCubicAbs*"></a>
+  <h4 id="EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitCurvetoCubicAbs_EquinoxLabs_SVGSharpie_SvgPathSegCurvetoCubicAbs_" data-uid="EquinoxLabs.SVGSharpie.SvgPathSegVisitor`1.VisitCurvetoCubicAbs(EquinoxLabs.SVGSharpie.SvgPathSegCurvetoCubicAbs)">VisitCurvetoCubicAbs(SvgPathSegCurvetoCubicAbs)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public virtual TResult VisitCurvetoCubicAbs(SvgPathSegCurvetoCubicAbs segment)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EquinoxLabs.SVGSharpie.SvgPathSegCurvetoCubicAbs.html">SvgPathSegCurvetoCubicAbs</a></td>
+        <td><span class="parametername">segment</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">TResult</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/equinox2k/SVGSharpie/new/master/apiSpec/new?filename=EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitCurvetoCubicRel_EquinoxLabs_SVGSharpie_SvgPathSegCurvetoCubicRel_.md&amp;value=---%0Auid%3A%20EquinoxLabs.SVGSharpie.SvgPathSegVisitor%601.VisitCurvetoCubicRel(EquinoxLabs.SVGSharpie.SvgPathSegCurvetoCubicRel)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/equinox2k/SVGSharpie/blob/master/src/EquinoxLabs.SVGSharpie/SvgPathSegVisitor.cs/#L104">View Source</a>
+  </span>
+  <a id="EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitCurvetoCubicRel_" data-uid="EquinoxLabs.SVGSharpie.SvgPathSegVisitor`1.VisitCurvetoCubicRel*"></a>
+  <h4 id="EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitCurvetoCubicRel_EquinoxLabs_SVGSharpie_SvgPathSegCurvetoCubicRel_" data-uid="EquinoxLabs.SVGSharpie.SvgPathSegVisitor`1.VisitCurvetoCubicRel(EquinoxLabs.SVGSharpie.SvgPathSegCurvetoCubicRel)">VisitCurvetoCubicRel(SvgPathSegCurvetoCubicRel)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public virtual TResult VisitCurvetoCubicRel(SvgPathSegCurvetoCubicRel segment)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EquinoxLabs.SVGSharpie.SvgPathSegCurvetoCubicRel.html">SvgPathSegCurvetoCubicRel</a></td>
+        <td><span class="parametername">segment</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">TResult</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/equinox2k/SVGSharpie/new/master/apiSpec/new?filename=EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitCurvetoCubicSmoothAbs_EquinoxLabs_SVGSharpie_SvgPathSegCurvetoCubicSmoothAbs_.md&amp;value=---%0Auid%3A%20EquinoxLabs.SVGSharpie.SvgPathSegVisitor%601.VisitCurvetoCubicSmoothAbs(EquinoxLabs.SVGSharpie.SvgPathSegCurvetoCubicSmoothAbs)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/equinox2k/SVGSharpie/blob/master/src/EquinoxLabs.SVGSharpie/SvgPathSegVisitor.cs/#L131">View Source</a>
+  </span>
+  <a id="EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitCurvetoCubicSmoothAbs_" data-uid="EquinoxLabs.SVGSharpie.SvgPathSegVisitor`1.VisitCurvetoCubicSmoothAbs*"></a>
+  <h4 id="EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitCurvetoCubicSmoothAbs_EquinoxLabs_SVGSharpie_SvgPathSegCurvetoCubicSmoothAbs_" data-uid="EquinoxLabs.SVGSharpie.SvgPathSegVisitor`1.VisitCurvetoCubicSmoothAbs(EquinoxLabs.SVGSharpie.SvgPathSegCurvetoCubicSmoothAbs)">VisitCurvetoCubicSmoothAbs(SvgPathSegCurvetoCubicSmoothAbs)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public virtual TResult VisitCurvetoCubicSmoothAbs(SvgPathSegCurvetoCubicSmoothAbs segment)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EquinoxLabs.SVGSharpie.SvgPathSegCurvetoCubicSmoothAbs.html">SvgPathSegCurvetoCubicSmoothAbs</a></td>
+        <td><span class="parametername">segment</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">TResult</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/equinox2k/SVGSharpie/new/master/apiSpec/new?filename=EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitCurvetoCubicSmoothRel_EquinoxLabs_SVGSharpie_SvgPathSegCurvetoCubicSmoothRel_.md&amp;value=---%0Auid%3A%20EquinoxLabs.SVGSharpie.SvgPathSegVisitor%601.VisitCurvetoCubicSmoothRel(EquinoxLabs.SVGSharpie.SvgPathSegCurvetoCubicSmoothRel)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/equinox2k/SVGSharpie/blob/master/src/EquinoxLabs.SVGSharpie/SvgPathSegVisitor.cs/#L134">View Source</a>
+  </span>
+  <a id="EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitCurvetoCubicSmoothRel_" data-uid="EquinoxLabs.SVGSharpie.SvgPathSegVisitor`1.VisitCurvetoCubicSmoothRel*"></a>
+  <h4 id="EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitCurvetoCubicSmoothRel_EquinoxLabs_SVGSharpie_SvgPathSegCurvetoCubicSmoothRel_" data-uid="EquinoxLabs.SVGSharpie.SvgPathSegVisitor`1.VisitCurvetoCubicSmoothRel(EquinoxLabs.SVGSharpie.SvgPathSegCurvetoCubicSmoothRel)">VisitCurvetoCubicSmoothRel(SvgPathSegCurvetoCubicSmoothRel)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public virtual TResult VisitCurvetoCubicSmoothRel(SvgPathSegCurvetoCubicSmoothRel segment)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EquinoxLabs.SVGSharpie.SvgPathSegCurvetoCubicSmoothRel.html">SvgPathSegCurvetoCubicSmoothRel</a></td>
+        <td><span class="parametername">segment</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">TResult</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/equinox2k/SVGSharpie/new/master/apiSpec/new?filename=EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitCurvetoQuadraticAbs_EquinoxLabs_SVGSharpie_SvgPathSegCurvetoQuadraticAbs_.md&amp;value=---%0Auid%3A%20EquinoxLabs.SVGSharpie.SvgPathSegVisitor%601.VisitCurvetoQuadraticAbs(EquinoxLabs.SVGSharpie.SvgPathSegCurvetoQuadraticAbs)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/equinox2k/SVGSharpie/blob/master/src/EquinoxLabs.SVGSharpie/SvgPathSegVisitor.cs/#L107">View Source</a>
+  </span>
+  <a id="EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitCurvetoQuadraticAbs_" data-uid="EquinoxLabs.SVGSharpie.SvgPathSegVisitor`1.VisitCurvetoQuadraticAbs*"></a>
+  <h4 id="EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitCurvetoQuadraticAbs_EquinoxLabs_SVGSharpie_SvgPathSegCurvetoQuadraticAbs_" data-uid="EquinoxLabs.SVGSharpie.SvgPathSegVisitor`1.VisitCurvetoQuadraticAbs(EquinoxLabs.SVGSharpie.SvgPathSegCurvetoQuadraticAbs)">VisitCurvetoQuadraticAbs(SvgPathSegCurvetoQuadraticAbs)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public virtual TResult VisitCurvetoQuadraticAbs(SvgPathSegCurvetoQuadraticAbs segment)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EquinoxLabs.SVGSharpie.SvgPathSegCurvetoQuadraticAbs.html">SvgPathSegCurvetoQuadraticAbs</a></td>
+        <td><span class="parametername">segment</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">TResult</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/equinox2k/SVGSharpie/new/master/apiSpec/new?filename=EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitCurvetoQuadraticRel_EquinoxLabs_SVGSharpie_SvgPathSegCurvetoQuadraticRel_.md&amp;value=---%0Auid%3A%20EquinoxLabs.SVGSharpie.SvgPathSegVisitor%601.VisitCurvetoQuadraticRel(EquinoxLabs.SVGSharpie.SvgPathSegCurvetoQuadraticRel)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/equinox2k/SVGSharpie/blob/master/src/EquinoxLabs.SVGSharpie/SvgPathSegVisitor.cs/#L110">View Source</a>
+  </span>
+  <a id="EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitCurvetoQuadraticRel_" data-uid="EquinoxLabs.SVGSharpie.SvgPathSegVisitor`1.VisitCurvetoQuadraticRel*"></a>
+  <h4 id="EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitCurvetoQuadraticRel_EquinoxLabs_SVGSharpie_SvgPathSegCurvetoQuadraticRel_" data-uid="EquinoxLabs.SVGSharpie.SvgPathSegVisitor`1.VisitCurvetoQuadraticRel(EquinoxLabs.SVGSharpie.SvgPathSegCurvetoQuadraticRel)">VisitCurvetoQuadraticRel(SvgPathSegCurvetoQuadraticRel)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public virtual TResult VisitCurvetoQuadraticRel(SvgPathSegCurvetoQuadraticRel segment)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EquinoxLabs.SVGSharpie.SvgPathSegCurvetoQuadraticRel.html">SvgPathSegCurvetoQuadraticRel</a></td>
+        <td><span class="parametername">segment</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">TResult</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/equinox2k/SVGSharpie/new/master/apiSpec/new?filename=EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitCurvetoQuadraticSmoothAbs_EquinoxLabs_SVGSharpie_SvgPathSegCurvetoQuadraticSmoothAbs_.md&amp;value=---%0Auid%3A%20EquinoxLabs.SVGSharpie.SvgPathSegVisitor%601.VisitCurvetoQuadraticSmoothAbs(EquinoxLabs.SVGSharpie.SvgPathSegCurvetoQuadraticSmoothAbs)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/equinox2k/SVGSharpie/blob/master/src/EquinoxLabs.SVGSharpie/SvgPathSegVisitor.cs/#L137">View Source</a>
+  </span>
+  <a id="EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitCurvetoQuadraticSmoothAbs_" data-uid="EquinoxLabs.SVGSharpie.SvgPathSegVisitor`1.VisitCurvetoQuadraticSmoothAbs*"></a>
+  <h4 id="EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitCurvetoQuadraticSmoothAbs_EquinoxLabs_SVGSharpie_SvgPathSegCurvetoQuadraticSmoothAbs_" data-uid="EquinoxLabs.SVGSharpie.SvgPathSegVisitor`1.VisitCurvetoQuadraticSmoothAbs(EquinoxLabs.SVGSharpie.SvgPathSegCurvetoQuadraticSmoothAbs)">VisitCurvetoQuadraticSmoothAbs(SvgPathSegCurvetoQuadraticSmoothAbs)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public virtual TResult VisitCurvetoQuadraticSmoothAbs(SvgPathSegCurvetoQuadraticSmoothAbs segment)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EquinoxLabs.SVGSharpie.SvgPathSegCurvetoQuadraticSmoothAbs.html">SvgPathSegCurvetoQuadraticSmoothAbs</a></td>
+        <td><span class="parametername">segment</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">TResult</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/equinox2k/SVGSharpie/new/master/apiSpec/new?filename=EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitCurvetoQuadraticSmoothRel_EquinoxLabs_SVGSharpie_SvgPathSegCurvetoQuadraticSmoothRel_.md&amp;value=---%0Auid%3A%20EquinoxLabs.SVGSharpie.SvgPathSegVisitor%601.VisitCurvetoQuadraticSmoothRel(EquinoxLabs.SVGSharpie.SvgPathSegCurvetoQuadraticSmoothRel)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/equinox2k/SVGSharpie/blob/master/src/EquinoxLabs.SVGSharpie/SvgPathSegVisitor.cs/#L140">View Source</a>
+  </span>
+  <a id="EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitCurvetoQuadraticSmoothRel_" data-uid="EquinoxLabs.SVGSharpie.SvgPathSegVisitor`1.VisitCurvetoQuadraticSmoothRel*"></a>
+  <h4 id="EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitCurvetoQuadraticSmoothRel_EquinoxLabs_SVGSharpie_SvgPathSegCurvetoQuadraticSmoothRel_" data-uid="EquinoxLabs.SVGSharpie.SvgPathSegVisitor`1.VisitCurvetoQuadraticSmoothRel(EquinoxLabs.SVGSharpie.SvgPathSegCurvetoQuadraticSmoothRel)">VisitCurvetoQuadraticSmoothRel(SvgPathSegCurvetoQuadraticSmoothRel)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public virtual TResult VisitCurvetoQuadraticSmoothRel(SvgPathSegCurvetoQuadraticSmoothRel segment)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EquinoxLabs.SVGSharpie.SvgPathSegCurvetoQuadraticSmoothRel.html">SvgPathSegCurvetoQuadraticSmoothRel</a></td>
+        <td><span class="parametername">segment</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">TResult</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/equinox2k/SVGSharpie/new/master/apiSpec/new?filename=EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitLinetoAbs_EquinoxLabs_SVGSharpie_SvgPathSegLinetoAbs_.md&amp;value=---%0Auid%3A%20EquinoxLabs.SVGSharpie.SvgPathSegVisitor%601.VisitLinetoAbs(EquinoxLabs.SVGSharpie.SvgPathSegLinetoAbs)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/equinox2k/SVGSharpie/blob/master/src/EquinoxLabs.SVGSharpie/SvgPathSegVisitor.cs/#L95">View Source</a>
+  </span>
+  <a id="EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitLinetoAbs_" data-uid="EquinoxLabs.SVGSharpie.SvgPathSegVisitor`1.VisitLinetoAbs*"></a>
+  <h4 id="EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitLinetoAbs_EquinoxLabs_SVGSharpie_SvgPathSegLinetoAbs_" data-uid="EquinoxLabs.SVGSharpie.SvgPathSegVisitor`1.VisitLinetoAbs(EquinoxLabs.SVGSharpie.SvgPathSegLinetoAbs)">VisitLinetoAbs(SvgPathSegLinetoAbs)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public virtual TResult VisitLinetoAbs(SvgPathSegLinetoAbs segment)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EquinoxLabs.SVGSharpie.SvgPathSegLinetoAbs.html">SvgPathSegLinetoAbs</a></td>
+        <td><span class="parametername">segment</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">TResult</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/equinox2k/SVGSharpie/new/master/apiSpec/new?filename=EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitLinetoHorizontalAbs_EquinoxLabs_SVGSharpie_SvgPathSegLinetoHorizontalAbs_.md&amp;value=---%0Auid%3A%20EquinoxLabs.SVGSharpie.SvgPathSegVisitor%601.VisitLinetoHorizontalAbs(EquinoxLabs.SVGSharpie.SvgPathSegLinetoHorizontalAbs)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/equinox2k/SVGSharpie/blob/master/src/EquinoxLabs.SVGSharpie/SvgPathSegVisitor.cs/#L119">View Source</a>
+  </span>
+  <a id="EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitLinetoHorizontalAbs_" data-uid="EquinoxLabs.SVGSharpie.SvgPathSegVisitor`1.VisitLinetoHorizontalAbs*"></a>
+  <h4 id="EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitLinetoHorizontalAbs_EquinoxLabs_SVGSharpie_SvgPathSegLinetoHorizontalAbs_" data-uid="EquinoxLabs.SVGSharpie.SvgPathSegVisitor`1.VisitLinetoHorizontalAbs(EquinoxLabs.SVGSharpie.SvgPathSegLinetoHorizontalAbs)">VisitLinetoHorizontalAbs(SvgPathSegLinetoHorizontalAbs)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public virtual TResult VisitLinetoHorizontalAbs(SvgPathSegLinetoHorizontalAbs segment)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EquinoxLabs.SVGSharpie.SvgPathSegLinetoHorizontalAbs.html">SvgPathSegLinetoHorizontalAbs</a></td>
+        <td><span class="parametername">segment</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">TResult</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/equinox2k/SVGSharpie/new/master/apiSpec/new?filename=EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitLinetoHorizontalRel_EquinoxLabs_SVGSharpie_SvgPathSegLinetoHorizontalRel_.md&amp;value=---%0Auid%3A%20EquinoxLabs.SVGSharpie.SvgPathSegVisitor%601.VisitLinetoHorizontalRel(EquinoxLabs.SVGSharpie.SvgPathSegLinetoHorizontalRel)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/equinox2k/SVGSharpie/blob/master/src/EquinoxLabs.SVGSharpie/SvgPathSegVisitor.cs/#L122">View Source</a>
+  </span>
+  <a id="EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitLinetoHorizontalRel_" data-uid="EquinoxLabs.SVGSharpie.SvgPathSegVisitor`1.VisitLinetoHorizontalRel*"></a>
+  <h4 id="EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitLinetoHorizontalRel_EquinoxLabs_SVGSharpie_SvgPathSegLinetoHorizontalRel_" data-uid="EquinoxLabs.SVGSharpie.SvgPathSegVisitor`1.VisitLinetoHorizontalRel(EquinoxLabs.SVGSharpie.SvgPathSegLinetoHorizontalRel)">VisitLinetoHorizontalRel(SvgPathSegLinetoHorizontalRel)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public virtual TResult VisitLinetoHorizontalRel(SvgPathSegLinetoHorizontalRel segment)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EquinoxLabs.SVGSharpie.SvgPathSegLinetoHorizontalRel.html">SvgPathSegLinetoHorizontalRel</a></td>
+        <td><span class="parametername">segment</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">TResult</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/equinox2k/SVGSharpie/new/master/apiSpec/new?filename=EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitLinetoRel_EquinoxLabs_SVGSharpie_SvgPathSegLinetoRel_.md&amp;value=---%0Auid%3A%20EquinoxLabs.SVGSharpie.SvgPathSegVisitor%601.VisitLinetoRel(EquinoxLabs.SVGSharpie.SvgPathSegLinetoRel)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/equinox2k/SVGSharpie/blob/master/src/EquinoxLabs.SVGSharpie/SvgPathSegVisitor.cs/#L98">View Source</a>
+  </span>
+  <a id="EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitLinetoRel_" data-uid="EquinoxLabs.SVGSharpie.SvgPathSegVisitor`1.VisitLinetoRel*"></a>
+  <h4 id="EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitLinetoRel_EquinoxLabs_SVGSharpie_SvgPathSegLinetoRel_" data-uid="EquinoxLabs.SVGSharpie.SvgPathSegVisitor`1.VisitLinetoRel(EquinoxLabs.SVGSharpie.SvgPathSegLinetoRel)">VisitLinetoRel(SvgPathSegLinetoRel)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public virtual TResult VisitLinetoRel(SvgPathSegLinetoRel segment)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EquinoxLabs.SVGSharpie.SvgPathSegLinetoRel.html">SvgPathSegLinetoRel</a></td>
+        <td><span class="parametername">segment</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">TResult</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/equinox2k/SVGSharpie/new/master/apiSpec/new?filename=EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitLinetoVerticalAbs_EquinoxLabs_SVGSharpie_SvgPathSegLinetoVerticalAbs_.md&amp;value=---%0Auid%3A%20EquinoxLabs.SVGSharpie.SvgPathSegVisitor%601.VisitLinetoVerticalAbs(EquinoxLabs.SVGSharpie.SvgPathSegLinetoVerticalAbs)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/equinox2k/SVGSharpie/blob/master/src/EquinoxLabs.SVGSharpie/SvgPathSegVisitor.cs/#L125">View Source</a>
+  </span>
+  <a id="EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitLinetoVerticalAbs_" data-uid="EquinoxLabs.SVGSharpie.SvgPathSegVisitor`1.VisitLinetoVerticalAbs*"></a>
+  <h4 id="EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitLinetoVerticalAbs_EquinoxLabs_SVGSharpie_SvgPathSegLinetoVerticalAbs_" data-uid="EquinoxLabs.SVGSharpie.SvgPathSegVisitor`1.VisitLinetoVerticalAbs(EquinoxLabs.SVGSharpie.SvgPathSegLinetoVerticalAbs)">VisitLinetoVerticalAbs(SvgPathSegLinetoVerticalAbs)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public virtual TResult VisitLinetoVerticalAbs(SvgPathSegLinetoVerticalAbs segment)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EquinoxLabs.SVGSharpie.SvgPathSegLinetoVerticalAbs.html">SvgPathSegLinetoVerticalAbs</a></td>
+        <td><span class="parametername">segment</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">TResult</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/equinox2k/SVGSharpie/new/master/apiSpec/new?filename=EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitLinetoVerticalRel_EquinoxLabs_SVGSharpie_SvgPathSegLinetoVerticalRel_.md&amp;value=---%0Auid%3A%20EquinoxLabs.SVGSharpie.SvgPathSegVisitor%601.VisitLinetoVerticalRel(EquinoxLabs.SVGSharpie.SvgPathSegLinetoVerticalRel)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/equinox2k/SVGSharpie/blob/master/src/EquinoxLabs.SVGSharpie/SvgPathSegVisitor.cs/#L128">View Source</a>
+  </span>
+  <a id="EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitLinetoVerticalRel_" data-uid="EquinoxLabs.SVGSharpie.SvgPathSegVisitor`1.VisitLinetoVerticalRel*"></a>
+  <h4 id="EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitLinetoVerticalRel_EquinoxLabs_SVGSharpie_SvgPathSegLinetoVerticalRel_" data-uid="EquinoxLabs.SVGSharpie.SvgPathSegVisitor`1.VisitLinetoVerticalRel(EquinoxLabs.SVGSharpie.SvgPathSegLinetoVerticalRel)">VisitLinetoVerticalRel(SvgPathSegLinetoVerticalRel)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public virtual TResult VisitLinetoVerticalRel(SvgPathSegLinetoVerticalRel segment)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EquinoxLabs.SVGSharpie.SvgPathSegLinetoVerticalRel.html">SvgPathSegLinetoVerticalRel</a></td>
+        <td><span class="parametername">segment</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">TResult</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/equinox2k/SVGSharpie/new/master/apiSpec/new?filename=EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitMovetoAbs_EquinoxLabs_SVGSharpie_SvgPathSegMovetoAbs_.md&amp;value=---%0Auid%3A%20EquinoxLabs.SVGSharpie.SvgPathSegVisitor%601.VisitMovetoAbs(EquinoxLabs.SVGSharpie.SvgPathSegMovetoAbs)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/equinox2k/SVGSharpie/blob/master/src/EquinoxLabs.SVGSharpie/SvgPathSegVisitor.cs/#L89">View Source</a>
+  </span>
+  <a id="EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitMovetoAbs_" data-uid="EquinoxLabs.SVGSharpie.SvgPathSegVisitor`1.VisitMovetoAbs*"></a>
+  <h4 id="EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitMovetoAbs_EquinoxLabs_SVGSharpie_SvgPathSegMovetoAbs_" data-uid="EquinoxLabs.SVGSharpie.SvgPathSegVisitor`1.VisitMovetoAbs(EquinoxLabs.SVGSharpie.SvgPathSegMovetoAbs)">VisitMovetoAbs(SvgPathSegMovetoAbs)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public virtual TResult VisitMovetoAbs(SvgPathSegMovetoAbs segment)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EquinoxLabs.SVGSharpie.SvgPathSegMovetoAbs.html">SvgPathSegMovetoAbs</a></td>
+        <td><span class="parametername">segment</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">TResult</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/equinox2k/SVGSharpie/new/master/apiSpec/new?filename=EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitMovetoRel_EquinoxLabs_SVGSharpie_SvgPathSegMovetoRel_.md&amp;value=---%0Auid%3A%20EquinoxLabs.SVGSharpie.SvgPathSegVisitor%601.VisitMovetoRel(EquinoxLabs.SVGSharpie.SvgPathSegMovetoRel)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/equinox2k/SVGSharpie/blob/master/src/EquinoxLabs.SVGSharpie/SvgPathSegVisitor.cs/#L92">View Source</a>
+  </span>
+  <a id="EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitMovetoRel_" data-uid="EquinoxLabs.SVGSharpie.SvgPathSegVisitor`1.VisitMovetoRel*"></a>
+  <h4 id="EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1_VisitMovetoRel_EquinoxLabs_SVGSharpie_SvgPathSegMovetoRel_" data-uid="EquinoxLabs.SVGSharpie.SvgPathSegVisitor`1.VisitMovetoRel(EquinoxLabs.SVGSharpie.SvgPathSegMovetoRel)">VisitMovetoRel(SvgPathSegMovetoRel)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public virtual TResult VisitMovetoRel(SvgPathSegMovetoRel segment)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EquinoxLabs.SVGSharpie.SvgPathSegMovetoRel.html">SvgPathSegMovetoRel</a></td>
+        <td><span class="parametername">segment</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">TResult</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                  <li>
+                    <a href="https://github.com/equinox2k/SVGSharpie/new/master/apiSpec/new?filename=EquinoxLabs_SVGSharpie_SvgPathSegVisitor_1.md&amp;value=---%0Auid%3A%20EquinoxLabs.SVGSharpie.SvgPathSegVisitor%601%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A" class="contribution-link">Improve this Doc</a>
+                  </li>
+                  <li>
+                    <a href="https://github.com/equinox2k/SVGSharpie/blob/master/src/EquinoxLabs.SVGSharpie/SvgPathSegVisitor.cs/#L78" class="contribution-link">View Source</a>
+                  </li>
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+              <!-- <p><a class="back-to-top" href="#top">Back to top</a><p> -->
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../styles/docfx.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
+  </body>
+</html>
