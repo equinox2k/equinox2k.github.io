@@ -4,12 +4,96 @@
   "xrefmap": "xrefmap.yml",
   "files": [
     {
+      "type": "ManagedReference",
+      "source_relative_path": "dynamicpdf/EquinoxLabs.SVGSharpie.DynamicPDF.Core.HorizontalAlignment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "dynamicpdf/EquinoxLabs.SVGSharpie.DynamicPDF.Core.HorizontalAlignment.html",
+          "hash": "i/67vtDIb35eZ98fuPCXnw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dynamicpdf/EquinoxLabs.SVGSharpie.DynamicPDF.Core.Rectangle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "dynamicpdf/EquinoxLabs.SVGSharpie.DynamicPDF.Core.Rectangle.html",
+          "hash": "xvkD23ohKEol9AOWH39azw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dynamicpdf/EquinoxLabs.SVGSharpie.DynamicPDF.Core.VerticalAlignment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "dynamicpdf/EquinoxLabs.SVGSharpie.DynamicPDF.Core.VerticalAlignment.html",
+          "hash": "moKybcUadPUYu8OWQXpesQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dynamicpdf/EquinoxLabs.SVGSharpie.DynamicPDF.Core.yml",
+      "output": {
+        ".html": {
+          "relative_path": "dynamicpdf/EquinoxLabs.SVGSharpie.DynamicPDF.Core.html",
+          "hash": "92PhbwPg/WxFnIat84aiwg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dynamicpdf/EquinoxLabs.SVGSharpie.DynamicPDF.Renderer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "dynamicpdf/EquinoxLabs.SVGSharpie.DynamicPDF.Renderer.html",
+          "hash": "hpLzkVyzwk9UTvOYNXlwcA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "dynamicpdf/EquinoxLabs.SVGSharpie.DynamicPDF.yml",
+      "output": {
+        ".html": {
+          "relative_path": "dynamicpdf/EquinoxLabs.SVGSharpie.DynamicPDF.html",
+          "hash": "fsURwU+Cl5QZJzsU2M1+2A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dynamicpdf/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "dynamicpdf/index.html",
+          "hash": "CduElOZ92wIQWHIRwdrj7Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Toc",
       "source_relative_path": "fusion/toc.yml",
       "output": {
         ".html": {
           "relative_path": "fusion/toc.html",
-          "hash": "SX9B2AOpcdIVU+9jnakzhQ=="
+          "hash": "gs8KTMrHltb8YiyPlpC3zQ=="
         }
       },
       "is_incremental": false,
@@ -1827,23 +1911,23 @@
         "full_build_reason_code": "NoAvailableBuildCache"
       },
       "processors": {
-        "TocDocumentProcessor": {
+        "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
-          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build",
-          "total_file_count": 0,
+          "total_file_count": 152,
           "skipped_file_count": 0
         },
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 3,
+          "total_file_count": 4,
           "skipped_file_count": 0
         },
-        "ManagedReferenceDocumentProcessor": {
+        "TocDocumentProcessor": {
           "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build",
-          "total_file_count": 146,
+          "total_file_count": 0,
           "skipped_file_count": 0
         }
       }
