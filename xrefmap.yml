@@ -2208,11 +2208,11 @@ references:
   fullName: EquinoxLabs.SVGSharpie.DynamicPDF.Renderer
   nameWithType: Renderer
 - uid: EquinoxLabs.SVGSharpie.DynamicPDF.Renderer.CreateSvgImagePageElement(EquinoxLabs.SVGSharpie.SvgDocument,EquinoxLabs.SVGSharpie.DynamicPDF.Core.Rectangle,EquinoxLabs.SVGSharpie.DynamicPDF.Core.HorizontalAlignment,EquinoxLabs.SVGSharpie.DynamicPDF.Core.VerticalAlignment,ceTe.DynamicPDF.SpotColor)
-  name: CreateSvgImagePageElement(SvgDocument, Rectangle, HorizontalAlignment, VerticalAlignment, SpotColor)
+  name: CreateSvgImagePageElement(SvgDocument, Rectangle, HorizontalAlignment, VerticalAlignment, ceTe.DynamicPDF.SpotColor)
   href: dynamicpdf/EquinoxLabs.SVGSharpie.DynamicPDF.Renderer.html#EquinoxLabs_SVGSharpie_DynamicPDF_Renderer_CreateSvgImagePageElement_EquinoxLabs_SVGSharpie_SvgDocument_EquinoxLabs_SVGSharpie_DynamicPDF_Core_Rectangle_EquinoxLabs_SVGSharpie_DynamicPDF_Core_HorizontalAlignment_EquinoxLabs_SVGSharpie_DynamicPDF_Core_VerticalAlignment_ceTe_DynamicPDF_SpotColor_
   commentId: M:EquinoxLabs.SVGSharpie.DynamicPDF.Renderer.CreateSvgImagePageElement(EquinoxLabs.SVGSharpie.SvgDocument,EquinoxLabs.SVGSharpie.DynamicPDF.Core.Rectangle,EquinoxLabs.SVGSharpie.DynamicPDF.Core.HorizontalAlignment,EquinoxLabs.SVGSharpie.DynamicPDF.Core.VerticalAlignment,ceTe.DynamicPDF.SpotColor)
   fullName: EquinoxLabs.SVGSharpie.DynamicPDF.Renderer.CreateSvgImagePageElement(EquinoxLabs.SVGSharpie.SvgDocument, EquinoxLabs.SVGSharpie.DynamicPDF.Core.Rectangle, EquinoxLabs.SVGSharpie.DynamicPDF.Core.HorizontalAlignment, EquinoxLabs.SVGSharpie.DynamicPDF.Core.VerticalAlignment, ceTe.DynamicPDF.SpotColor)
-  nameWithType: Renderer.CreateSvgImagePageElement(SvgDocument, Rectangle, HorizontalAlignment, VerticalAlignment, SpotColor)
+  nameWithType: Renderer.CreateSvgImagePageElement(SvgDocument, Rectangle, HorizontalAlignment, VerticalAlignment, ceTe.DynamicPDF.SpotColor)
 - uid: EquinoxLabs.SVGSharpie.DynamicPDF.Renderer.CreateSvgImagePageElement*
   name: CreateSvgImagePageElement
   href: dynamicpdf/EquinoxLabs.SVGSharpie.DynamicPDF.Renderer.html#EquinoxLabs_SVGSharpie_DynamicPDF_Renderer_CreateSvgImagePageElement_
